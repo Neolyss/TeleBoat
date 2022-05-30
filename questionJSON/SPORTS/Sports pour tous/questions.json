@@ -1,0 +1,2216 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Sports pour tous (Du plus connu au plus exotique)",
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "De quel petit objet se munit le golfeur pour surélever sa balle avant de la frapper ?",
+          "propositions": [
+            "Putter",
+            "Tee",
+            "Caddie",
+            "Pitch"
+          ],
+          "réponse": "Tee",
+          "anecdote": "Le joueur peut poser sa balle sur une cheville de bois ou de plastique qui ne peut pas être utilisée en dehors des départs."
+        },
+        {
+          "id": 2,
+          "question": "Quel sport de raquette porte le nom de la ville anglaise où il fut inventé ?",
+          "propositions": [
+            "Padel",
+            "Tennis",
+            "Badminton",
+            "Squash"
+          ],
+          "réponse": "Badminton",
+          "anecdote": "Le badminton est toujours pratiqué en intérieur car avec le vent, en extérieur, le volant peut brusquement changer de direction."
+        },
+        {
+          "id": 3,
+          "question": "Combien y a-t-il de joueurs sur le terrain dans une équipe de football ?",
+          "propositions": [
+            "Neuf",
+            "Quatorze",
+            "Onze",
+            "Dix"
+          ],
+          "réponse": "Onze",
+          "anecdote": "Codifié par les Britanniques à la fin du XIXe siècle, le football s'est doté en 1904 d'une fédération internationale, la FIFA."
+        },
+        {
+          "id": 4,
+          "question": "Quel tapis à ressorts sert au gymnaste à faire toutes sortes de figures ?",
+          "propositions": [
+            "Ruban",
+            "Trampoline",
+            "Espalier",
+            "Cheval d'arçons"
+          ],
+          "réponse": "Trampoline",
+          "anecdote": "Le terme générique de trampoline englobe trois disciplines : le trampoline, le tumbling et le double mini trampoline."
+        },
+        {
+          "id": 5,
+          "question": "Que réussit une équipe de rugby qui remporte les quatre matches du Tournoi des Six Nations ?",
+          "propositions": [
+            "Chardon",
+            "Grand chelem",
+            "Rose rouge",
+            "Trois plumes"
+          ],
+          "réponse": "Grand chelem",
+          "anecdote": "Pour des raisons de sponsoring, ce tournoi est officiellement appelé RBS Six Nations (RBS pour Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "Que signale le drapeau à damier noir et jaune dans une station de sports d'hiver ?",
+          "propositions": [
+            "Risque d'avalanche",
+            "Télésiège en panne",
+            "Fin de journée",
+            "Ouverture des pistes"
+          ],
+          "réponse": "Risque d'avalanche",
+          "anecdote": "La puissance des avalanches est telle qu'elles emportent facilement tout élément mobile rencontré (hommes, animaux, rochers)."
+        },
+        {
+          "id": 7,
+          "question": "Au golf, au milieu de quoi le trou est-il généralement placé ?",
+          "propositions": [
+            "Gin",
+            "Spin",
+            "Green",
+            "Spleen"
+          ],
+          "réponse": "Green",
+          "anecdote": "Le golf, qui souffre d'un traitement médiatique et financier inégal, est un sport moins pratiqué par les femmes que par les hommes."
+        },
+        {
+          "id": 8,
+          "question": "Laquelle de ces propositions ne retrouve-t-on pas sur un vélo de sprinter sur piste ?",
+          "propositions": [
+            "Freins",
+            "Guidon",
+            "Selle",
+            "Cadre"
+          ],
+          "réponse": "Freins",
+          "anecdote": "Le pratiquant de ce sport est donc obligé de pédaler en permanence jusqu'à l'arrêt complet de son vélo (pignons fixes)."
+        },
+        {
+          "id": 9,
+          "question": "Comment appelle-t-on une descente rapide en ski alpin ?",
+          "propositions": [
+            "Slalom",
+            "Combiné",
+            "Schuss",
+            "Freestyle"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "En compétition, durant les épreuves de vitesse, le bâton est profilé pour épouser la forme du corps du skieur lors du schuss."
+        },
+        {
+          "id": 10,
+          "question": "Quel nombre de jeux chaque set de tennis comporte-t-il ?",
+          "propositions": [
+            "Cinq",
+            "Sept",
+            "Au moins six",
+            "Onze"
+          ],
+          "réponse": "Au moins six",
+          "anecdote": "Le mot tennis provient du français tenez, mot que l'on adressait à l'adversaire au moment de servir."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "En épreuve de saut en longueur, à combien d'essais chaque concurrent a-t-il droit ?",
+          "propositions": [
+            "Quatre",
+            "Trois",
+            "Deux",
+            "Cinq"
+          ],
+          "réponse": "Trois",
+          "anecdote": "Le record du monde masculin de saut en longueur est détenu depuis 1991 par Mike Powell avec un saut à 8,95 mètres."
+        },
+        {
+          "id": 12,
+          "question": "En kayak, de quel type de pagaie se sert-on pour avancer ou reculer ?",
+          "propositions": [
+            "Quadruple",
+            "Simple",
+            "Triple",
+            "Double"
+          ],
+          "réponse": "Double",
+          "anecdote": "Le kayak est parfois confondu avec le canoë, la pratique sportive étant désignée par le terme général canoë-kayak."
+        },
+        {
+          "id": 13,
+          "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
+          "propositions": [
+            "Mathilde Géron",
+            "Florence Artaud",
+            "Isabelle Autissier",
+            "Maud Fontenoy"
+          ],
+          "réponse": "Florence Artaud",
+          "anecdote": "Florence Artaud a perdu la vie dans un accident d'hélicoptère alors qu'elle participait au tournage de l'émission « Dropped » de TF1."
+        },
+        {
+          "id": 14,
+          "question": "Dans le jargon de l'alpinisme, que fait un alpiniste qui dévisse ?",
+          "propositions": [
+            "Il ôte un piton",
+            "Il tombe",
+            "Il dort",
+            "Il mange"
+          ],
+          "réponse": "Il tombe",
+          "anecdote": "L'alpinisme est une pratique sportive d'ascension en haute montagne qui repose sur différentes techniques de progression."
+        },
+        {
+          "id": 15,
+          "question": "En escrime, quelle est la troisième arme blanche avec l'épée et le fleuret ?",
+          "propositions": [
+            "Couteau",
+            "Sabre",
+            "Hache",
+            "Poignard"
+          ],
+          "réponse": "Sabre",
+          "anecdote": "Ces trois armes sont sexuées : épée féminine et masculine, fleuret féminin et masculin et sabre féminin et masculin."
+        },
+        {
+          "id": 16,
+          "question": "À quelle grande gymnaste roumaine Ecaterina Szabo a-t-elle succédé ?",
+          "propositions": [
+            "Nadia Comaneci",
+            "Yelena Davydova",
+            "Larissa Latynina",
+            "Vera Caslavska"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci est souvent présentée, à tort, comme la première gymnaste de tous les temps à avoir obtenu la note parfaite de 10."
+        },
+        {
+          "id": 17,
+          "question": "Avec quel entraîneur la France a-t-elle remporté la Coupe d'Europe de football de 1984 ?",
+          "propositions": [
+            "Luis Fernandez",
+            "Aimé Jacquet",
+            "Michel Hidalgo",
+            "Guy Roux"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "En 1986, Michel Hidalgo a rejoint Bernard Tapie à l'Olympique de Marseille pour en devenir le manager général jusqu'en 1991."
+        },
+        {
+          "id": 18,
+          "question": "Dans quel sport est-il préférable d'avoir un bon coup de pelle ?",
+          "propositions": [
+            "L'escrime",
+            "Le cricket",
+            "Le golf",
+            "L'aviron"
+          ],
+          "réponse": "L'aviron",
+          "anecdote": "L'aviron est un sport olympique depuis la création des Jeux olympiques modernes en 1896, sous l'impulsion du Baron Pierre de Coubertin."
+        },
+        {
+          "id": 19,
+          "question": "Quel sport reste à ce jour le sport préféré des collégiens anglais ?",
+          "propositions": [
+            "Tennis",
+            "Football",
+            "Cricket",
+            "Handball"
+          ],
+          "réponse": "Cricket",
+          "anecdote": "Plus de cent pays sont affiliés à l'International Cricket Council, qui organise notamment la Coupe du monde de cricket."
+        },
+        {
+          "id": 20,
+          "question": "Comment le barreur dirige-t-il ses coéquipiers en aviron ?",
+          "propositions": [
+            "Au tambour",
+            "Au porte-voix",
+            "En musique",
+            "Au sifflet"
+          ],
+          "réponse": "Au porte-voix",
+          "anecdote": "Dans un équipage d'aviron, le barreur est le membre qui s'assoit sur la poupe, se mettant ainsi face à la proue."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "En baseball, combien de joueurs se trouvent sur le terrain en défense ?",
+          "propositions": [
+            "Onze",
+            "Treize",
+            "Sept",
+            "Neuf"
+          ],
+          "réponse": "Neuf",
+          "anecdote": "La première référence au rounders est faite dans un livre anglais de John Newbery en 1744 : « A Little Pretty Pocket-Book »."
+        },
+        {
+          "id": 22,
+          "question": "En ski, le christiana est une technique permettant d'effectuer quelle manoeuvre ?",
+          "propositions": [
+            "Arrêt",
+            "Virage",
+            "Freinage",
+            "Saut"
+          ],
+          "réponse": "Virage",
+          "anecdote": "La technique du virage est née à la Belle Époque sur les longues pistes de ski très fréquentées de la ville de Christiania."
+        },
+        {
+          "id": 23,
+          "question": "Combien les Américains ont-ils gagné de médailles aux Jeux olympiques d'été de 1984 ?",
+          "propositions": [
+            "174",
+            "61",
+            "30",
+            "83"
+          ],
+          "réponse": "174",
+          "anecdote": "En l'absence de grandes nations sportives comme l'URSS et la RDA, les États-Unis ont dominé ces jeux de Los Angeles."
+        },
+        {
+          "id": 24,
+          "question": "Quelle équipe de rugby a comme emblème une antilope sur maillot vert et sombre ?",
+          "propositions": [
+            "Écosse",
+            "Irlande",
+            "Afrique du Sud",
+            "Nouvelle-Zélande"
+          ],
+          "réponse": "Afrique du Sud",
+          "anecdote": "En raison de son palmarès, l'équipe d'Afrique du Sud est considérée comme l'une des meilleures sélections nationales au monde."
+        },
+        {
+          "id": 25,
+          "question": "Quelle moto possède la cylindrée la plus adaptée au trial ?",
+          "propositions": [
+            "150 cm³",
+            "250 cm³",
+            "200 cm³",
+            "100 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "Le trial, qui consiste à franchir des obstacles naturels ou artificiels, est un sport où la notion de vitesse n'intervient pas."
+        },
+        {
+          "id": 26,
+          "question": "Combien d'heures la course cycliste des Six Jours de Paris durait-elle ?",
+          "propositions": [
+            "124 heures",
+            "104 heures",
+            "144 heures",
+            "84 heures"
+          ],
+          "réponse": "144 heures",
+          "anecdote": "Richement dotée, elle était très populaire avant la Seconde Guerre mondiale et était la principale compétition de ce type en France."
+        },
+        {
+          "id": 27,
+          "question": "En croquet, que devient une boule qui franchit tous les arceaux sans toucher le piquet ?",
+          "propositions": [
+            "Pirate",
+            "Corsaire",
+            "Matelot",
+            "Capitaine"
+          ],
+          "réponse": "Corsaire",
+          "anecdote": "Une fois le dernier anneau passé, un joueur peut empêcher ses adversaires de gagner en prenant soin de ne pas toucher le piquet."
+        },
+        {
+          "id": 28,
+          "question": "Quelle course de fond suédoise emprunte la piste des Dalécarliens ?",
+          "propositions": [
+            "Vasaloppet",
+            "Dolomitenlauf",
+            "Tartu Maraton",
+            "Marcialonga"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "La course se tient le premier dimanche de mars et près de 15 000 skieurs prennent le départ en 10 vagues successives."
+        },
+        {
+          "id": 29,
+          "question": "Quelle planche de surf pour grosses vagues permet de démarrer très tôt sur la vague ?",
+          "propositions": [
+            "Eggs",
+            "Malibu",
+            "Fishes",
+            "Gun"
+          ],
+          "réponse": "Gun",
+          "anecdote": "En fonction du temps, des préférences et de la manière de surfer, il existe différentes type de planches (appelées shape)."
+        },
+        {
+          "id": 30,
+          "question": "Dans quelle ville les premiers jeux Olympiques d'hiver ont-ils eu lieu en 1924 ?",
+          "propositions": [
+            "Innsbruck",
+            "Oslo",
+            "Grenoble",
+            "Chamonix"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "La compétition rassembla 258 athlètes de 16 pays qui disputèrent un total de 16 épreuves dans 6 sports différents."
+        }
+      ]
+    },
+    "en": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "What small object does the golfer use to raise his ball before hitting it ?",
+          "propositions": [
+            "Shopping cart",
+            "Putter",
+            "Pitch",
+            "Tee"
+          ],
+          "réponse": "Tee",
+          "anecdote": "The player can put his ball on a wooden or plastic peg which cannot be used outside the tee-off."
+        },
+        {
+          "id": 2,
+          "question": "What racket sport is named after the English city where it was invented ?",
+          "propositions": [
+            "Tennis",
+            "Padel",
+            "Badminton",
+            "Squash"
+          ],
+          "réponse": "Badminton",
+          "anecdote": "Badminton is always practiced indoors because with the wind, outdoors, the shuttlecock can suddenly change direction."
+        },
+        {
+          "id": 3,
+          "question": "How many players are there on the field in a football team ?",
+          "propositions": [
+            "Fourteen",
+            "New",
+            "Ten",
+            "Eleven"
+          ],
+          "réponse": "Eleven",
+          "anecdote": "Codified by the British at the end of the 19th century, in 1904 football established an international federation, FIFA."
+        },
+        {
+          "id": 4,
+          "question": "What spring mat is used by the gymnast to do all kinds of tricks ?",
+          "propositions": [
+            "Espalier",
+            "Pommel horse",
+            "Ribbon",
+            "Trampoline"
+          ],
+          "réponse": "Trampoline",
+          "anecdote": "The generic term trampoline encompasses three disciplines: trampoline, tumbling and double mini trampoline."
+        },
+        {
+          "id": 5,
+          "question": "What is the success of a rugby team that wins all four matches of the Six Nations Tournament ?",
+          "propositions": [
+            "Red rose",
+            "Grand slam",
+            "Thistle",
+            "Three feathers"
+          ],
+          "réponse": "Grand slam",
+          "anecdote": "For sponsorship reasons, this tournament is officially called RBS Six Nations (RBS for Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "What does the black and yellow checkered flag indicate at a winter sports resort ?",
+          "propositions": [
+            "End of the day",
+            "Chairlift broken down",
+            "Opening of the slopes",
+            "Avalanche risk"
+          ],
+          "réponse": "Avalanche risk",
+          "anecdote": "The power of avalanches is such that they easily take away any mobile element encountered (men, animals, rocks)."
+        },
+        {
+          "id": 7,
+          "question": "In golf, in the middle of what is the hole generally placed ?",
+          "propositions": [
+            "Spin",
+            "Spleen",
+            "Gin",
+            "Green"
+          ],
+          "réponse": "Green",
+          "anecdote": "Golf, which suffers from unequal media and financial treatment, is a sport less played by women than by men."
+        },
+        {
+          "id": 8,
+          "question": "Which of these proposals is not found on a track sprinter bike ?",
+          "propositions": [
+            "Brakes",
+            "Frame",
+            "Handlebar",
+            "Saddle"
+          ],
+          "réponse": "Brakes",
+          "anecdote": "The practitioner of this sport is therefore obliged to pedal continuously until the complete stop of his bike (fixed gears)."
+        },
+        {
+          "id": 9,
+          "question": "What is a rapid descent in alpine skiing called ?",
+          "propositions": [
+            "Freestyle",
+            "Combined",
+            "Slalom",
+            "Schuss"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "In competition, during the speed events, the stick is shaped to match the body shape of the skier during the schuss."
+        },
+        {
+          "id": 10,
+          "question": "How many games does each tennis set include ?",
+          "propositions": [
+            "At least six",
+            "Five",
+            "Eleven",
+            "Seven"
+          ],
+          "réponse": "At least six",
+          "anecdote": "The word tennis comes from the French tenez, a word that was addressed to the opponent when serving."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In a long jump event, how many tries does each competitor get ?",
+          "propositions": [
+            "Two",
+            "Five",
+            "Four",
+            "Three"
+          ],
+          "réponse": "Three",
+          "anecdote": "The men's long jump world record has been held since 1991 by Mike Powell with a jump to 8."
+        },
+        {
+          "id": 12,
+          "question": "In a kayak, what type of paddle is used to move forward or backward ?",
+          "propositions": [
+            "Triple",
+            "Double",
+            "Simple",
+            "Quadruple"
+          ],
+          "réponse": "Double",
+          "anecdote": "Kayaking is sometimes confused with canoeing, sporting practice being designated by the general term canoeing."
+        },
+        {
+          "id": 13,
+          "question": "What was the name of the French solo sailor, skipper of the Biotherm ?",
+          "propositions": [
+            "Maud Fontenoy",
+            "Isabelle Autissier",
+            "Mathilde Géron",
+            "Florence Artaud"
+          ],
+          "réponse": "Florence Artaud",
+          "anecdote": "Florence Artaud lost her life in a helicopter accident while taking part in the filming of TF1's « Dropped \u003c/I\u003e program."
+        },
+        {
+          "id": 14,
+          "question": "In the jargon of mountaineering, what does a mountaineer who unscrews do ?",
+          "propositions": [
+            "It falls",
+            "It removes a piton",
+            "He sleeps",
+            "He eats"
+          ],
+          "réponse": "It falls",
+          "anecdote": "Mountaineering is a sport of climbing in the high mountains which is based on different progression techniques."
+        },
+        {
+          "id": 15,
+          "question": "In fencing, what is the third knife with the sword and the foil ?",
+          "propositions": [
+            "Saber",
+            "Knife",
+            "Dagger",
+            "Ax"
+          ],
+          "réponse": "Saber",
+          "anecdote": "These three weapons are gendered: female and male sword, female and male foil and female and male saber."
+        },
+        {
+          "id": 16,
+          "question": "Which great Romanian gymnast did Ecaterina Szabo succeed ?",
+          "propositions": [
+            "Vera Caslavska",
+            "Larissa Latynina",
+            "Yelena Davydova",
+            "Nadia Comaneci"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci is often mistakenly presented as the first gymnast of all time to have obtained the perfect mark of 10."
+        },
+        {
+          "id": 17,
+          "question": "With which coach did France win the 1984 European Football Cup ?",
+          "propositions": [
+            "Guy Roux",
+            "Michel Hidalgo",
+            "Aimé Jacquet",
+            "Luis Fernandez"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "In 1986, Michel Hidalgo joined Bernard Tapie at Olympique de Marseille to become its general manager until 1991."
+        },
+        {
+          "id": 18,
+          "question": "In which sport is it better to have a good shovel ?",
+          "propositions": [
+            "Golf",
+            "Cricket",
+            "Rowing",
+            "Fencing"
+          ],
+          "réponse": "Rowing",
+          "anecdote": "Rowing has been an Olympic sport since the creation of the modern Olympic Games in 1896, under the leadership of Baron Pierre de Coubertin."
+        },
+        {
+          "id": 19,
+          "question": "What sport remains to this day the favorite sport of English college students ?",
+          "propositions": [
+            "Tennis",
+            "Football",
+            "Handball",
+            "Cricket"
+          ],
+          "réponse": "Cricket",
+          "anecdote": "Over a hundred countries are affiliated to the International Cricket Council, which notably organizes the Cricket World Cup."
+        },
+        {
+          "id": 20,
+          "question": "How does the coxswain lead his rowing teammates ?",
+          "propositions": [
+            "Drum",
+            "Whistle",
+            "To the megaphone",
+            "In music"
+          ],
+          "réponse": "To the megaphone",
+          "anecdote": "In a rowing crew, the coxswain is the member who sits on the stern, thus facing the bow."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "In baseball, how many players are on the defending field ?",
+          "propositions": [
+            "Thirteen",
+            "Seven",
+            "New",
+            "Eleven"
+          ],
+          "réponse": "New",
+          "anecdote": "The first reference to the rounders is made in an English book by John Newbery in 1744: « A Little Pretty Pocket-Book \u003c/I\u003e."
+        },
+        {
+          "id": 22,
+          "question": "In skiing, christiana is a technique for performing which maneuver ?",
+          "propositions": [
+            "Braking",
+            "Jump",
+            "Turn",
+            "Stop"
+          ],
+          "réponse": "Turn",
+          "anecdote": "The turning technique was born in the Belle Époque on the long, busy ski slopes of the town of Christiania."
+        },
+        {
+          "id": 23,
+          "question": "How many Americans won medals at the 1984 Summer Olympics ?",
+          "propositions": [
+            "174",
+            "61",
+            "30",
+            "83"
+          ],
+          "réponse": "174",
+          "anecdote": "In the absence of major sports nations like the USSR and the GDR, the United States dominated these Los Angeles games."
+        },
+        {
+          "id": 24,
+          "question": "Which rugby team has an antelope with a green and dark jersey as their emblem ?",
+          "propositions": [
+            "Scotland",
+            "Ireland",
+            "South Africa",
+            "New Zealand"
+          ],
+          "réponse": "South Africa",
+          "anecdote": "Due to its track record, the South African team is considered one of the best national teams in the world."
+        },
+        {
+          "id": 25,
+          "question": "Which motorcycle has the most suitable displacement for trial ?",
+          "propositions": [
+            "200 cm³",
+            "100 cm³",
+            "150 cm³",
+            "250 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "Trial, which involves crossing natural or artificial obstacles, is a sport where the concept of speed does not come into play."
+        },
+        {
+          "id": 26,
+          "question": "How many hours did the Six Days of Paris cycling race last ?",
+          "propositions": [
+            "84 hours",
+            "124 hours",
+            "144 hours",
+            "104 hours"
+          ],
+          "réponse": "144 hours",
+          "anecdote": "Richly endowed, it was very popular before the Second World War and was the main competition of this type in France."
+        },
+        {
+          "id": 27,
+          "question": "In croquet, what becomes of a ball which crosses all the hoops without touching the stake ?",
+          "propositions": [
+            "Pirate",
+            "Captain",
+            "Corsair",
+            "Sailor"
+          ],
+          "réponse": "Corsair",
+          "anecdote": "Once the last ring has passed, a player can prevent his opponents from winning by taking care not to touch the stake."
+        },
+        {
+          "id": 28,
+          "question": "Which Swedish long-distance race follows the Dalecarliens track ?",
+          "propositions": [
+            "Marcialonga",
+            "Vasaloppet",
+            "Tartu Maraton",
+            "Dolomitenlauf"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "The race is held on the first Sunday in March and nearly 15,000 skiers start in 10 successive waves."
+        },
+        {
+          "id": 29,
+          "question": "Which surfboard for big waves allows you to start very early on the wave ?",
+          "propositions": [
+            "Eggs",
+            "Malibu",
+            "Gun",
+            "Fishes"
+          ],
+          "réponse": "Gun",
+          "anecdote": "Depending on the weather, preferences and the way of surfing, there are different types of boards (called shape)."
+        },
+        {
+          "id": 30,
+          "question": "In which city did the first Winter Olympics take place in 1924 ?",
+          "propositions": [
+            "Chamonix",
+            "Innsbruck",
+            "Grenoble",
+            "Oslo"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "The competition brought together 258 athletes from 16 countries who competed in a total of 16 events in 6 different sports."
+        }
+      ]
+    },
+    "de": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Welchen kleinen Gegenstand benutzt der Golfer, um seinen Ball zu heben, bevor er ihn trifft ?",
+          "propositions": [
+            "Tee",
+            "Putter",
+            "Einkaufswagen",
+            "Stellplatz"
+          ],
+          "réponse": "Tee",
+          "anecdote": "Der Spieler kann seinen Ball auf einen Holz- oder Plastikstift legen, der nicht außerhalb des Abschlags verwendet werden kann."
+        },
+        {
+          "id": 2,
+          "question": "Welcher Schlägersport ist nach der englischen Stadt benannt, in der er erfunden wurde ?",
+          "propositions": [
+            "Tennis",
+            "Squash",
+            "Badminton",
+            "Padel"
+          ],
+          "réponse": "Badminton",
+          "anecdote": "Badminton wird immer in Innenräumen praktiziert, da der Federball bei Wind im Freien plötzlich die Richtung ändern kann."
+        },
+        {
+          "id": 3,
+          "question": "Wie viele Spieler gibt es in einer Fußballmannschaft auf dem Spielfeld ?",
+          "propositions": [
+            "Vierzehn",
+            "Neu",
+            "Zehn",
+            "Elf"
+          ],
+          "réponse": "Elf",
+          "anecdote": "Der von den Briten Ende des 19."
+        },
+        {
+          "id": 4,
+          "question": "Mit welcher Frühlingsmatte macht der Turner alle möglichen Tricks ?",
+          "propositions": [
+            "Spalier",
+            "Pauschenpferd",
+            "Farbband",
+            "Trampolin"
+          ],
+          "réponse": "Trampolin",
+          "anecdote": "Der Oberbegriff Trampolin umfasst drei Disziplinen: Trampolin, Tumbling und Doppel-Mini-Trampolin."
+        },
+        {
+          "id": 5,
+          "question": "Was ist der Erfolg eines Rugby-Teams, das alle vier Spiele des Six Nations-Turniers gewinnt ?",
+          "propositions": [
+            "Grand Slam",
+            "Rote Rose",
+            "Distel",
+            "Drei Federn"
+          ],
+          "réponse": "Grand Slam",
+          "anecdote": "Aus Sponsoringgründen heißt dieses Turnier offiziell RBS Six Nations (RBS für Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "Was zeigt die schwarz-gelbe Zielflagge in einem Wintersportort an ?",
+          "propositions": [
+            "Lawinenrisiko",
+            "Sessellift kaputt",
+            "Öffnung der Pisten ","Ouverture des pist",
+            "Ende des Tages"
+          ],
+          "réponse": "Lawinenrisiko",
+          "anecdote": "Die Kraft von Lawinen ist so groß, dass sie leicht jedes mobile Element (Menschen, Tiere, Steine) entfernen."
+        },
+        {
+          "id": 7,
+          "question": "In der Mitte, in der Mitte, was ist das Loch im Allgemeinen platziert ?",
+          "propositions": [
+            "Spin",
+            "Grün",
+            "Gin",
+            "Milz"
+          ],
+          "réponse": "Grün",
+          "anecdote": "Golf, das unter ungleicher medialer und finanzieller Behandlung leidet, ist eine Sportart, die weniger von Frauen als von Männern gespielt wird."
+        },
+        {
+          "id": 8,
+          "question": "Welcher dieser Vorschläge ist auf einem Sprinterrad nicht zu finden ?",
+          "propositions": [
+            "Bremsen",
+            "Sattel",
+            "Lenker",
+            "Rahmen"
+          ],
+          "réponse": "Bremsen",
+          "anecdote": "Der Sportler ist daher verpflichtet, bis zum vollständigen Anhalten seines Fahrrads (feste Gänge) ununterbrochen zu treten."
+        },
+        {
+          "id": 9,
+          "question": "Wie heißt eine schnelle Abfahrt im alpinen Skisport ?",
+          "propositions": [
+            "Kombiniert",
+            "Slalom",
+            "Freistil",
+            "Schuss"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "Im Wettkampf wird der Schläger während der Geschwindigkeitsereignisse so geformt, dass er der Körperform des Skifahrers während des Schuss entspricht."
+        },
+        {
+          "id": 10,
+          "question": "Wie viele Spiele enthält jedes Tennisset ?",
+          "propositions": [
+            "Mindestens sechs",
+            "Elf",
+            "Fünf",
+            "Sieben"
+          ],
+          "réponse": "Mindestens sechs",
+          "anecdote": "Das Wort Tennis kommt vom französischen Tenez, ein Wort, das beim Aufschlag an den Gegner gerichtet wurde."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Wie viele Versuche bekommt jeder Teilnehmer bei einem Weitsprung-Event ?",
+          "propositions": [
+            "Zwei",
+            "Fünf",
+            "Drei",
+            "Vier"
+          ],
+          "réponse": "Drei",
+          "anecdote": "Der Weitsprung-Weltrekord der Männer wird seit 1991 von Mike Powell mit einem Sprung auf 8,95 Meter gehalten."
+        },
+        {
+          "id": 12,
+          "question": "Welche Art von Paddel wird in einem Kajak verwendet, um sich vorwärts oder rückwärts zu bewegen ?",
+          "propositions": [
+            "Einfach",
+            "Vierfach",
+            "Double",
+            "Dreifach"
+          ],
+          "réponse": "Double",
+          "anecdote": "Kajakfahren wird manchmal mit Kanufahren verwechselt, wobei die Sportpraxis mit dem allgemeinen Begriff Kanufahren bezeichnet wird."
+        },
+        {
+          "id": 13,
+          "question": "Wie hieß der französische Solosegler, Skipper der Biotherm ?",
+          "propositions": [
+            "Maud Fontenoy",
+            "Isabelle Autissier",
+            "Florence Artaud",
+            "Mathilde Géron"
+          ],
+          "réponse": "Florence Artaud",
+          "anecdote": "Florence Artaud kam bei einem Hubschrauberunfall ums Leben, als sie an den Dreharbeiten zu TF1s « Dropped » -Programm teilnahm."
+        },
+        {
+          "id": 14,
+          "question": "Was macht ein Bergsteiger, der abschraubt, im Jargon des Bergsteigens ?",
+          "propositions": [
+            "Er schläft",
+            "Es entfernt einen Piton",
+            "Er isst",
+            "Es fällt"
+          ],
+          "réponse": "Es fällt",
+          "anecdote": "Bergsteigen ist eine Klettersportart im Hochgebirge, die auf verschiedenen Progressionstechniken basiert."
+        },
+        {
+          "id": 15,
+          "question": "Was ist beim Fechten das dritte Messer mit dem Schwert und der Folie ?",
+          "propositions": [
+            "Messer",
+            "Dolch",
+            "Säbel",
+            "Axt"
+          ],
+          "réponse": "Säbel",
+          "anecdote": "Diese drei Waffen sind geschlechtsspezifisch: weibliches und männliches Schwert, weibliche und männliche Folie sowie weiblicher und männlicher Säbel."
+        },
+        {
+          "id": 16,
+          "question": "Welcher großen rumänischen Turnerin gelang Ecaterina Szabo ?",
+          "propositions": [
+            "Yelena Davydova",
+            "Nadia Comaneci",
+            "Larissa Latynina",
+            "Vera Caslavska"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci wird oft fälschlicherweise als erste Turnerin aller Zeiten dargestellt, die eine perfekte Punktzahl von 10 erreicht hat."
+        },
+        {
+          "id": 17,
+          "question": "Mit welchem Trainer hat Frankreich 1984 den Fußball-Europapokal gewonnen ?",
+          "propositions": [
+            "Michel Hidalgo",
+            "Guy Roux",
+            "Luis Fernandez",
+            "Aimé Jacquet"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "1986 wechselte Michel Hidalgo zu Bernard Tapie bei der Olympique de Marseille, um bis 1991 dessen Geschäftsführer zu werden."
+        },
+        {
+          "id": 18,
+          "question": "In welchem \u200b\u200bSport ist es besser, eine gute Schaufel zu haben ?",
+          "propositions": [
+            "Golf",
+            "Fechten",
+            "Rudern",
+            "Cricket"
+          ],
+          "réponse": "Rudern",
+          "anecdote": "Rudern ist seit der Gründung der modernen Olympischen Spiele im Jahr 1896 unter der Leitung von Baron Pierre de Coubertin eine olympische Sportart."
+        },
+        {
+          "id": 19,
+          "question": "Welcher Sport ist bis heute der Lieblingssport der englischen College-Studenten ?",
+          "propositions": [
+            "Handball",
+            "Fußball",
+            "Cricket",
+            "Tennis"
+          ],
+          "réponse": "Cricket",
+          "anecdote": "Über hundert Länder sind dem International Cricket Council angeschlossen, der insbesondere die Cricket-Weltmeisterschaft organisiert."
+        },
+        {
+          "id": 20,
+          "question": "Wie führt der Steuermann seine Ruderkameraden ?",
+          "propositions": [
+            "Trommel",
+            "Pfeife",
+            "In der Musik",
+            "Zum Megaphon"
+          ],
+          "réponse": "Zum Megaphon",
+          "anecdote": "In einer Ruderbesatzung ist der Steuermann das Mitglied, das am Heck sitzt und somit dem Bug zugewandt ist."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Wie viele Spieler sind im Baseball auf dem Verteidigungsfeld ?",
+          "propositions": [
+            "Elf",
+            "Neu",
+            "Sieben",
+            "Dreizehn"
+          ],
+          "réponse": "Neu",
+          "anecdote": "Der erste Hinweis auf die Allrounder findet sich in einem englischen Buch von John Newbery aus dem Jahr 1744: « A Little Pretty Pocket-Book »."
+        },
+        {
+          "id": 22,
+          "question": "Im Skifahren ist Christina eine Technik, um welches Manöver auszuführen ?",
+          "propositions": [
+            "Bremsen",
+            "Springen",
+            "Drehen Sie",
+            "Stop"
+          ],
+          "réponse": "Drehen Sie",
+          "anecdote": "Die Drehtechnik wurde in der Belle Époque an den langen, belebten Skipisten der Stadt Christiania geboren."
+        },
+        {
+          "id": 23,
+          "question": "Wie viele Amerikaner haben bei den Olympischen Sommerspielen 1984 Medaillen gewonnen ?",
+          "propositions": [
+            "83",
+            "30",
+            "61",
+            "174"
+          ],
+          "réponse": "174",
+          "anecdote": "In Abwesenheit großer Sportnationen wie der UdSSR und der DDR dominierten die USA diese Spiele in Los Angeles."
+        },
+        {
+          "id": 24,
+          "question": "Welches Rugby-Team hat eine Antilope mit einem grün-dunklen Trikot als Emblem ?",
+          "propositions": [
+            "Schottland",
+            "Neuseeland",
+            "Irland",
+            "Südafrika"
+          ],
+          "réponse": "Südafrika",
+          "anecdote": "Aufgrund seiner Erfolgsbilanz gilt die südafrikanische Mannschaft als eine der besten Nationalmannschaften der Welt."
+        },
+        {
+          "id": 25,
+          "question": "Welches Motorrad hat den am besten geeigneten Hubraum für den Test ?",
+          "propositions": [
+            "100 cm³",
+            "200 cm³",
+            "250 cm³",
+            "150 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "Ein Versuch, bei dem natürliche oder künstliche Hindernisse überwunden werden, ist eine Sportart, bei der das Konzept der Geschwindigkeit nicht zum Tragen kommt."
+        },
+        {
+          "id": 26,
+          "question": "Wie viele Stunden dauerte das Radrennen der Sechs Tage von Paris ?",
+          "propositions": [
+            "144 Stunden",
+            "104 Stunden",
+            "84 Stunden",
+            "124 Stunden"
+          ],
+          "réponse": "144 Stunden",
+          "anecdote": "Reich ausgestattet, war es vor dem Zweiten Weltkrieg sehr beliebt und war der Hauptwettbewerb dieser Art in Frankreich."
+        },
+        {
+          "id": 27,
+          "question": "Was wird beim Krocket aus einem Ball, der alle Reifen kreuzt, ohne den Einsatz zu berühren ?",
+          "propositions": [
+            "Pirat",
+            "Seemann",
+            "Corsair",
+            "Kapitän"
+          ],
+          "réponse": "Corsair",
+          "anecdote": "Sobald der letzte Ring vergangen ist, kann ein Spieler seine Gegner am Gewinnen hindern, indem er darauf achtet, den Einsatz nicht zu berühren."
+        },
+        {
+          "id": 28,
+          "question": "Welches schwedische Langstreckenrennen folgt der Strecke von Dalecarliens ?",
+          "propositions": [
+            "Tartu Maraton",
+            "Vasaloppet",
+            "Dolomitenlauf",
+            "Marcialonga"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "Das Rennen findet am ersten Sonntag im März statt und fast 15."
+        },
+        {
+          "id": 29,
+          "question": "Mit welchem \u200b\u200bSurfbrett für große Wellen kannst du sehr früh auf der Welle starten ?",
+          "propositions": [
+            "Waffe",
+            "Malibu",
+            "Eier",
+            "Fische"
+          ],
+          "réponse": "Waffe",
+          "anecdote": "Je nach Wetter, Vorlieben und Art des Surfens gibt es verschiedene Arten von Boards (Form genannt)."
+        },
+        {
+          "id": 30,
+          "question": "In welcher Stadt fanden 1924 die ersten Olympischen Winterspiele statt ?",
+          "propositions": [
+            "Oslo",
+            "Innsbruck",
+            "Chamonix",
+            "Grenoble"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "Der Wettbewerb brachte 258 Athleten aus 16 Ländern zusammen, die an insgesamt 16 Wettkämpfen in 6 verschiedenen Sportarten teilnahmen."
+        }
+      ]
+    },
+    "es": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "¿Qué objeto pequeño usa el golfista para levantar su bola antes de golpearla ?",
+          "propositions": [
+            "Echada",
+            "Camiseta",
+            "Putter",
+            "Carro de compras"
+          ],
+          "réponse": "Camiseta",
+          "anecdote": "El jugador puede poner su pelota en una clavija de madera o plástico que no se puede usar fuera del tee."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué deporte de raqueta lleva el nombre de la ciudad inglesa donde se inventó ?",
+          "propositions": [
+            "Tenis",
+            "Bádminton",
+            "Calabaza",
+            "Pádel"
+          ],
+          "réponse": "Bádminton",
+          "anecdote": "El bádminton siempre se practica en interiores porque con el viento, en exteriores, el volante puede cambiar repentinamente de dirección."
+        },
+        {
+          "id": 3,
+          "question": "¿Cuántos jugadores hay en el campo en un equipo de fútbol ?",
+          "propositions": [
+            "Diez",
+            "Nuevo",
+            "Once",
+            "Catorce"
+          ],
+          "réponse": "Once",
+          "anecdote": "Codificado por los británicos a finales del siglo XIX, en 1904 el fútbol estableció una federación internacional, la FIFA."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué tapete de primavera usa la gimnasta para hacer todo tipo de trucos ?",
+          "propositions": [
+            "Pomo de caballo",
+            "Cinta",
+            "Espalier",
+            "Trampolín"
+          ],
+          "réponse": "Trampolín",
+          "anecdote": "El término genérico trampolín abarca tres disciplinas: trampolín, caída y doble mini trampolín."
+        },
+        {
+          "id": 5,
+          "question": "¿Cuál es el éxito de un equipo de rugby que gana los cuatro partidos del Torneo de las Seis Naciones ?",
+          "propositions": [
+            "Rosa roja",
+            "Grand slam",
+            "Tres plumas",
+            "Cardo"
+          ],
+          "réponse": "Grand slam",
+          "anecdote": "Por razones de patrocinio, este torneo se llama oficialmente RBS Six Nations (RBS para Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué indica la bandera a cuadros negra y amarilla en un complejo de deportes de invierno ?",
+          "propositions": [
+            "Apertura de las pistas",
+            "Fin del día",
+            "Riesgo de avalancha",
+            "Telesilla desglosada"
+          ],
+          "réponse": "Riesgo de avalancha",
+          "anecdote": "El poder de las avalanchas es tal que quitan fácilmente cualquier elemento móvil encontrado (hombres, animales, rocas)."
+        },
+        {
+          "id": 7,
+          "question": "En el golf, en medio de lo que generalmente se coloca el hoyo ?",
+          "propositions": [
+            "Bazo",
+            "Ginebra",
+            "Girar",
+            "Verde"
+          ],
+          "réponse": "Verde",
+          "anecdote": "El golf, que sufre de medios desiguales y tratamiento financiero, es un deporte menos practicado por las mujeres que por los hombres."
+        },
+        {
+          "id": 8,
+          "question": "¿Cuál de estas propuestas no se encuentra en una bicicleta sprinter de pista ?",
+          "propositions": [
+            "Silla de montar",
+            "Manillar",
+            "Marco",
+            "Frenos"
+          ],
+          "réponse": "Frenos",
+          "anecdote": "Por lo tanto, el practicante de este deporte está obligado a pedalear continuamente hasta la parada completa de su bicicleta (marchas fijas)."
+        },
+        {
+          "id": 9,
+          "question": "¿Cómo se llama un descenso rápido en el esquí alpino ?",
+          "propositions": [
+            "Schuss",
+            "Estilo libre",
+            "Combinado",
+            "Slalom"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "En competencia, durante los eventos de velocidad, el palo tiene la forma para que coincida con la forma del cuerpo del esquiador durante el schuss."
+        },
+        {
+          "id": 10,
+          "question": "¿Cuántos juegos incluye cada set de tenis ?",
+          "propositions": [
+            "Siete",
+            "Cinco",
+            "Once",
+            "Al menos seis"
+          ],
+          "réponse": "Al menos seis",
+          "anecdote": "La palabra tenis proviene del francés tenez, una palabra que se dirigió al oponente cuando sirvió."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "En un evento de salto de longitud, ¿cuántos intentos obtiene cada competidor ?",
+          "propositions": [
+            "Tres",
+            "Cinco",
+            "Dos",
+            "Cuatro"
+          ],
+          "réponse": "Tres",
+          "anecdote": "El récord mundial de salto de longitud masculino se ha mantenido desde 1991 por Mike Powell con un salto de 8."
+        },
+        {
+          "id": 12,
+          "question": "En un kayak, ¿qué tipo de remo se usa para avanzar o retroceder ?",
+          "propositions": [
+            "Simple",
+            "Triple",
+            "Cuádruple",
+            "Doble"
+          ],
+          "réponse": "Doble",
+          "anecdote": "El kayak a veces se confunde con el piragüismo, la práctica deportiva se designa con el término general piragüismo."
+        },
+        {
+          "id": 13,
+          "question": "¿Cómo se llamaba el marinero solitario francés, patrón de la Biotherm ?",
+          "propositions": [
+            "Maud Fontenoy",
+            "Isabelle Autissier",
+            "Florencia Artaud",
+            "Mathilde Géron"
+          ],
+          "réponse": "Florencia Artaud",
+          "anecdote": "Florence Artaud perdió la vida en un accidente de helicóptero mientras participaba en la filmación del programa « Dropped \u003c/I\u003e de TF1."
+        },
+        {
+          "id": 14,
+          "question": "En la jerga del alpinismo, ¿qué hace un alpinista que desenrosca ?",
+          "propositions": [
+            "Se cae",
+            "El duerme",
+            "Elimina un pitón",
+            "El come"
+          ],
+          "réponse": "Se cae",
+          "anecdote": "El alpinismo es un deporte de escalada en las altas montañas que se basa en diferentes técnicas de progresión."
+        },
+        {
+          "id": 15,
+          "question": "En esgrima, ¿cuál es el tercer cuchillo con la espada y el papel de aluminio ?",
+          "propositions": [
+            "Hacha",
+            "Cuchillo",
+            "Daga",
+            "Sable"
+          ],
+          "réponse": "Sable",
+          "anecdote": "Estas tres armas son de género: espada femenina y masculina, florete femenino y masculino y sable femenino y masculino."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué gran gimnasta rumana tuvo éxito Ecaterina Szabo ?",
+          "propositions": [
+            "Nadia Comaneci",
+            "Yelena Davydova",
+            "Larissa Latynina",
+            "Vera Caslavska"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci a menudo se presenta erróneamente como la primera gimnasta de todos los tiempos en haber obtenido la calificación perfecta de 10."
+        },
+        {
+          "id": 17,
+          "question": "¿Con qué entrenador ganó Francia la Copa Europea de Fútbol de 1984 ?",
+          "propositions": [
+            "Luis Fernández",
+            "Aimé Jacquet",
+            "Michel Hidalgo",
+            "Guy Roux"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "En 1986, Michel Hidalgo se unió a Bernard Tapie en el Olympique de Marseille para convertirse en su gerente general hasta 1991."
+        },
+        {
+          "id": 18,
+          "question": "¿En qué deporte es mejor tener una buena pala ?",
+          "propositions": [
+            "Remo",
+            "Esgrima",
+            "Grillo",
+            "Golf"
+          ],
+          "réponse": "Remo",
+          "anecdote": "El remo ha sido un deporte olímpico desde la creación de los Juegos Olímpicos modernos en 1896, bajo el liderazgo del barón Pierre de Coubertin."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué deporte sigue siendo hasta hoy el deporte favorito de los estudiantes universitarios ingleses ?",
+          "propositions": [
+            "Grillo",
+            "Tenis",
+            "Balonmano",
+            "Fútbol"
+          ],
+          "réponse": "Grillo",
+          "anecdote": "Más de cien países están afiliados al Consejo Internacional de Cricket, que organiza en particular la Copa Mundial de Cricket."
+        },
+        {
+          "id": 20,
+          "question": "¿Cómo conduce el coxswain a sus compañeros de remo ?",
+          "propositions": [
+            "Silbato",
+            "En la musica",
+            "Tambor",
+            "Al megáfono"
+          ],
+          "réponse": "Al megáfono",
+          "anecdote": "En una tripulación de remo, el coxswain es el miembro que se sienta en la popa, mirando hacia la proa."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "En el béisbol, ¿cuántos jugadores hay en el campo de defensa ?",
+          "propositions": [
+            "Nuevo",
+            "Once",
+            "Siete",
+            "Trece"
+          ],
+          "réponse": "Nuevo",
+          "anecdote": "La primera referencia a los rounders se hace en un libro en inglés de John Newbery en 1744: « A Little Pretty Pocket-Book \u003c/I\u003e."
+        },
+        {
+          "id": 22,
+          "question": "En el esquí, ¿christiana es una técnica para realizar qué maniobra ?",
+          "propositions": [
+            "Vuelta",
+            "Parada",
+            "Frenado",
+            "Salto"
+          ],
+          "réponse": "Vuelta",
+          "anecdote": "La técnica de giro nació en la Belle Époque en las largas y concurridas pistas de esquí de la ciudad de Christiania."
+        },
+        {
+          "id": 23,
+          "question": "¿Cuántos estadounidenses ganaron medallas en los Juegos Olímpicos de verano de 1984 ?",
+          "propositions": [
+            "83",
+            "61",
+            "30",
+            "174"
+          ],
+          "réponse": "174",
+          "anecdote": "En ausencia de las principales naciones deportivas como la URSS y la RDA, Estados Unidos dominó estos juegos de Los Ángeles."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué equipo de rugby tiene un antílope con una camiseta verde y oscura como emblema ?",
+          "propositions": [
+            "Sudáfrica",
+            "Nueva Zelanda",
+            "Irlanda",
+            "Escocia ","Écosse"
+          ],
+          "réponse": "Sudáfrica",
+          "anecdote": "Debido a su historial, el equipo sudafricano es considerado uno de los mejores equipos nacionales del mundo."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué motocicleta tiene el desplazamiento más adecuado para la prueba ?",
+          "propositions": [
+            "150 cm³",
+            "200 cm³",
+            "100 cm³",
+            "250 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "La prueba, que implica cruzar obstáculos naturales o artificiales, es un deporte en el que el concepto de velocidad no entra en juego."
+        },
+        {
+          "id": 26,
+          "question": "¿Cuántas horas duró la carrera ciclista Six Days of Paris ?",
+          "propositions": [
+            "144 horas",
+            "124 horas",
+            "84 horas",
+            "104 horas"
+          ],
+          "réponse": "144 horas",
+          "anecdote": "Ricamente dotado, era muy popular antes de la Segunda Guerra Mundial y era la principal competencia de este tipo en Francia."
+        },
+        {
+          "id": 27,
+          "question": "En croquet, ¿qué pasa con una pelota que cruza todos los aros sin tocar la estaca ?",
+          "propositions": [
+            "Corsario",
+            "Capitán",
+            "Marinero",
+            "Pirata"
+          ],
+          "réponse": "Corsario",
+          "anecdote": "Una vez que ha pasado el último anillo, un jugador puede evitar que sus oponentes ganen cuidando de no tocar la estaca."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué carrera sueca de larga distancia sigue la pista de Dalecarliens ?",
+          "propositions": [
+            "Tartu Maraton",
+            "Dolomitenlauf",
+            "Marcialonga",
+            "Vasaloppet"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "La carrera se celebra el primer domingo de marzo y casi 15,000 esquiadores comienzan en 10 olas sucesivas."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué tabla de surf para olas grandes te permite comenzar muy temprano en la ola ?",
+          "propositions": [
+            "Malibú",
+            "Pistola",
+            "Peces",
+            "Huevos"
+          ],
+          "réponse": "Pistola",
+          "anecdote": "Dependiendo del clima, las preferencias y la forma de navegar, existen diferentes tipos de tablas (llamadas forma)."
+        },
+        {
+          "id": 30,
+          "question": "¿En qué ciudad tuvieron lugar los primeros Juegos Olímpicos de Invierno en 1924 ?",
+          "propositions": [
+            "Oslo",
+            "Grenoble ","Grenoble",
+            "Chamonix",
+            "Innsbruck"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "La competencia reunió a 258 atletas de 16 países que compitieron en un total de 16 eventos en 6 deportes diferentes."
+        }
+      ]
+    },
+    "it": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Quale piccolo oggetto usa il golfista per alzare la palla prima di colpirla ?",
+          "propositions": [
+            "Putter",
+            "Carrello della spesa",
+            "Tee",
+            "Pitch"
+          ],
+          "réponse": "Tee",
+          "anecdote": "Il giocatore può mettere la sua palla su un piolo di legno o di plastica che non può essere usato al di fuori del tee-off."
+        },
+        {
+          "id": 2,
+          "question": "Quale sport di racchetta prende il nome dalla città inglese in cui è stato inventato ?",
+          "propositions": [
+            "Tennis",
+            "Padel",
+            "Squash",
+            "Badminton"
+          ],
+          "réponse": "Badminton",
+          "anecdote": "Il badminton è sempre praticato in casa perché con il vento, all'aperto, il volano può cambiare improvvisamente direzione."
+        },
+        {
+          "id": 3,
+          "question": "Quanti giocatori ci sono sul campo in una squadra di calcio ?",
+          "propositions": [
+            "Dieci",
+            "Undici",
+            "Novità",
+            "Quattordici"
+          ],
+          "réponse": "Undici",
+          "anecdote": "Codificato dagli inglesi alla fine del XIX secolo, nel 1904 il calcio istituì una federazione internazionale, la FIFA."
+        },
+        {
+          "id": 4,
+          "question": "Quale tappetino elastico viene utilizzato dalla ginnasta per eseguire tutti i tipi di acrobazie ?",
+          "propositions": [
+            "Cavallo con maniglie",
+            "Nastro",
+            "Spalliera",
+            "Trampolino"
+          ],
+          "réponse": "Trampolino",
+          "anecdote": "Il termine generico trampolino comprende tre discipline: trampolino, burattatura e doppio mini trampolino."
+        },
+        {
+          "id": 5,
+          "question": "Qual è il successo di una squadra di rugby che vince tutte e quattro le partite del Torneo Sei Nazioni ?",
+          "propositions": [
+            "Grand slam",
+            "Cardo",
+            "Rosa rossa",
+            "Tre piume"
+          ],
+          "réponse": "Grand slam",
+          "anecdote": "Per motivi di sponsorizzazione, questo torneo è ufficialmente chiamato RBS Six Nations (RBS per la Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "Cosa indica la bandiera a scacchi nera e gialla in una stazione di sport invernali ?",
+          "propositions": [
+            "Fine giornata",
+            "Seggiovia scomposta",
+            "Rischio valanghe",
+            "Apertura delle piste"
+          ],
+          "réponse": "Rischio valanghe",
+          "anecdote": "Il potere delle valanghe è tale da eliminare facilmente qualsiasi elemento mobile incontrato (uomini, animali, rocce)."
+        },
+        {
+          "id": 7,
+          "question": "Nel golf, nel mezzo di cosa si trova generalmente la buca ?",
+          "propositions": [
+            "Verde",
+            "Spin",
+            "Gin",
+            "Milza"
+          ],
+          "réponse": "Verde",
+          "anecdote": "Il golf, che soffre di disparità mediatiche e di trattamento finanziario, è uno sport meno praticato dalle donne che dagli uomini."
+        },
+        {
+          "id": 8,
+          "question": "Quale di queste proposte non si trova su una bici da pista ?",
+          "propositions": [
+            "Sella",
+            "Frame",
+            "Manubrio",
+            "Freni"
+          ],
+          "réponse": "Freni",
+          "anecdote": "Il praticante di questo sport è quindi obbligato a pedalare continuamente fino all'arresto completo della sua bici (marce fisse)."
+        },
+        {
+          "id": 9,
+          "question": "Come si chiama una rapida discesa nello sci alpino ?",
+          "propositions": [
+            "Combinato",
+            "Schuss",
+            "Stile libero",
+            "Slalom"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "In competizione, durante gli eventi di velocità, lo stick è modellato per adattarsi alla forma del corpo dello sciatore durante lo schuss."
+        },
+        {
+          "id": 10,
+          "question": "Quanti giochi include ogni set da tennis ?",
+          "propositions": [
+            "Undici",
+            "Almeno sei",
+            "Sette",
+            "Cinque"
+          ],
+          "réponse": "Almeno sei",
+          "anecdote": "La parola tennis deriva dal francese tenez, una parola che veniva indirizzata all'avversario durante il servizio."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In un evento di salto in lungo, quanti tentativi ottiene ogni concorrente ?",
+          "propositions": [
+            "Cinque",
+            "Due",
+            "Tre",
+            "Quattro"
+          ],
+          "réponse": "Tre",
+          "anecdote": "Il record mondiale di salto in lungo maschile è stato detenuto dal 1991 da Mike Powell con un salto a 8,95 metri."
+        },
+        {
+          "id": 12,
+          "question": "In un kayak, che tipo di pagaia viene utilizzata per spostarsi avanti o indietro ?",
+          "propositions": [
+            "Semplice",
+            "Tripla",
+            "Quadrupla",
+            "Doppio"
+          ],
+          "réponse": "Doppio",
+          "anecdote": "Il kayak a volte è confuso con la canoa, la pratica sportiva è designata dal termine generale canoa."
+        },
+        {
+          "id": 13,
+          "question": "Come si chiamava il marinaio solista francese, skipper della Biotherm ?",
+          "propositions": [
+            "Mathilde Géron",
+            "Maud Fontenoy",
+            "Florence Artaud",
+            "Isabelle Autissier"
+          ],
+          "réponse": "Florence Artaud",
+          "anecdote": "Florence Artaud ha perso la vita in un incidente in elicottero mentre partecipava alle riprese del programma « Dropped \u003c/I\u003e di TF1."
+        },
+        {
+          "id": 14,
+          "question": "Nel gergo dell'alpinismo, cosa fa un alpinista che svita ?",
+          "propositions": [
+            "Rimuove un chiodo",
+            "Mangia",
+            "Cade",
+            "Dorme"
+          ],
+          "réponse": "Cade",
+          "anecdote": "L'alpinismo è uno sport di arrampicata in alta montagna basato su diverse tecniche di progressione."
+        },
+        {
+          "id": 15,
+          "question": "Nella scherma, qual è il terzo coltello con la spada e il foglio ?",
+          "propositions": [
+            "Pugnale",
+            "Ax",
+            "Coltello",
+            "Sabre"
+          ],
+          "réponse": "Sabre",
+          "anecdote": "Queste tre armi sono di genere: spada femminile e maschile, foglio femminile e maschile e sciabola femminile e maschile."
+        },
+        {
+          "id": 16,
+          "question": "Quale grande ginnasta rumena è riuscita l'Ecaterina Szabo ?",
+          "propositions": [
+            "Larissa Latynina",
+            "Yelena Davydova",
+            "Nadia Comaneci",
+            "Vera Caslavska"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci viene spesso erroneamente presentata come la prima ginnasta di tutti i tempi ad aver ottenuto il punteggio perfetto di 10."
+        },
+        {
+          "id": 17,
+          "question": "Con quale allenatore la Francia vinse la Coppa del calcio europea del 1984 ?",
+          "propositions": [
+            "Guy Roux",
+            "Michel Hidalgo",
+            "Aimé Jacquet",
+            "Luis Fernandez"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "Nel 1986, Michel Hidalgo è entrato a far parte di Bernard Tapie all'Olympique de Marseille per diventare direttore generale fino al 1991."
+        },
+        {
+          "id": 18,
+          "question": "In quale sport è meglio avere una buona pala ?",
+          "propositions": [
+            "Canottaggio",
+            "Cricket",
+            "Scherma",
+            "Golf"
+          ],
+          "réponse": "Canottaggio",
+          "anecdote": "Il canottaggio è stato uno sport olimpico sin dalla creazione dei moderni Giochi olimpici nel 1896, sotto la guida del barone Pierre de Coubertin."
+        },
+        {
+          "id": 19,
+          "question": "Che sport rimane ancora oggi lo sport preferito dagli studenti universitari inglesi ?",
+          "propositions": [
+            "Tennis",
+            "Calcio",
+            "Pallamano",
+            "Cricket"
+          ],
+          "réponse": "Cricket",
+          "anecdote": "Oltre cento paesi sono affiliati al Consiglio internazionale del cricket, che organizza in particolare la Coppa del mondo di cricket."
+        },
+        {
+          "id": 20,
+          "question": "In che modo il timoniere guida i suoi compagni di squadra di canottaggio ?",
+          "propositions": [
+            "Al megafono",
+            "In musica",
+            "Drum",
+            "Fischio"
+          ],
+          "réponse": "Al megafono",
+          "anecdote": "In una squadra di canottaggio, il timoniere è il membro che siede a poppa, quindi rivolto a prua."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Nel baseball, quanti giocatori sono sul campo di difesa ?",
+          "propositions": [
+            "Novità",
+            "Tredici",
+            "Sette",
+            "Undici"
+          ],
+          "réponse": "Novità",
+          "anecdote": "Il primo riferimento agli arrotondatori è stato fatto in un libro inglese di John Newbery nel 1744: « Un piccolo libro tascabile \u003c/I\u003e."
+        },
+        {
+          "id": 22,
+          "question": "Nello sci, christiana è una tecnica per eseguire quale manovra ?",
+          "propositions": [
+            "Salta",
+            "Stop",
+            "Frenata",
+            "Girare"
+          ],
+          "réponse": "Girare",
+          "anecdote": "La tecnica di tornitura è nata nella Belle Époque sulle lunghe e affollate piste da sci della città di Christiania."
+        },
+        {
+          "id": 23,
+          "question": "Quanti americani hanno vinto medaglie alle Olimpiadi estive del 1984 ?",
+          "propositions": [
+            "30",
+            "174",
+            "61",
+            "83"
+          ],
+          "réponse": "174",
+          "anecdote": "In assenza di importanti nazioni sportive come l'URSS e la RDT, gli Stati Uniti hanno dominato questi giochi di Los Angeles."
+        },
+        {
+          "id": 24,
+          "question": "Quale squadra di rugby ha un'antilope con una maglia verde e scura come emblema ?",
+          "propositions": [
+            "Scozia",
+            "Sud Africa",
+            "Irlanda",
+            "Nuova Zelanda"
+          ],
+          "réponse": "Sud Africa",
+          "anecdote": "Grazie alla sua esperienza, la squadra sudafricana è considerata una delle migliori squadre nazionali al mondo."
+        },
+        {
+          "id": 25,
+          "question": "Quale moto ha la cilindrata più adatta per la prova ?",
+          "propositions": [
+            "100 cm³",
+            "250 cm³",
+            "150 cm³",
+            "200 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "La prova, che prevede l'attraversamento di ostacoli naturali o artificiali, è uno sport in cui il concetto di velocità non entra in gioco."
+        },
+        {
+          "id": 26,
+          "question": "Quante ore è durata la gara ciclistica Six Days of Paris ?",
+          "propositions": [
+            "144 ore",
+            "104 ore",
+            "124 ore",
+            "84 ore"
+          ],
+          "réponse": "144 ore",
+          "anecdote": "Riccamente dotato, era molto popolare prima della seconda guerra mondiale ed era la principale competizione di questo tipo in Francia."
+        },
+        {
+          "id": 27,
+          "question": "In croquet, cosa succede di una palla che attraversa tutti i cerchi senza toccare il paletto ?",
+          "propositions": [
+            "Marinaio",
+            "Corsaro",
+            "Pirata",
+            "Capitano"
+          ],
+          "réponse": "Corsaro",
+          "anecdote": "Una volta passato l'ultimo squillo, un giocatore può impedire ai suoi avversari di vincere facendo attenzione a non toccare la posta."
+        },
+        {
+          "id": 28,
+          "question": "Quale gara di lunga distanza svedese segue la pista Dalecarliens ?",
+          "propositions": [
+            "Dolomitenlauf",
+            "Marcialonga",
+            "Vasaloppet",
+            "Tartu Maraton"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "La gara si tiene la prima domenica di marzo e quasi 15."
+        },
+        {
+          "id": 29,
+          "question": "Quale tavola da surf per grandi onde ti consente di iniziare molto presto sull'onda ?",
+          "propositions": [
+            "Uova",
+            "Pesci",
+            "Pistola",
+            "Malibu"
+          ],
+          "réponse": "Pistola",
+          "anecdote": "A seconda del tempo, delle preferenze e del modo di navigare, ci sono diversi tipi di schede (chiamate forma)."
+        },
+        {
+          "id": 30,
+          "question": "In quale città si svolsero le prime Olimpiadi invernali nel 1924 ?",
+          "propositions": [
+            "Oslo",
+            "Chamonix",
+            "Grenoble",
+            "Innsbruck"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "La competizione ha riunito 258 atleti di 16 paesi che hanno gareggiato in totale 16 eventi in 6 diversi sport."
+        }
+      ]
+    },
+    "nl": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Welk klein voorwerp gebruikt de golfer om zijn bal op te heffen voordat hij hem raakt ?",
+          "propositions": [
+            "Standplaats",
+            "Putter",
+            "Winkelwagen",
+            "T-stuk"
+          ],
+          "réponse": "T-stuk",
+          "anecdote": "De speler kan zijn bal op een houten of plastic pin leggen die niet buiten de tee-off kan worden gebruikt."
+        },
+        {
+          "id": 2,
+          "question": "Welke racketsport is vernoemd naar de Engelse stad waar het is uitgevonden ?",
+          "propositions": [
+            "Badminton",
+            "Squash",
+            "Tennis",
+            "Padel"
+          ],
+          "réponse": "Badminton",
+          "anecdote": "Badminton wordt altijd binnenshuis beoefend, omdat met de wind, buiten, de shuttle plotseling van richting kan veranderen."
+        },
+        {
+          "id": 3,
+          "question": "Hoeveel spelers zijn er op het veld in een voetbalteam ?",
+          "propositions": [
+            "Elf",
+            "Tien",
+            "Nieuw",
+            "Veertien"
+          ],
+          "réponse": "Elf",
+          "anecdote": "Gecodificeerd door de Britten aan het einde van de 19e eeuw, richtte voetbal in 1904 een internationale federatie op, FIFA."
+        },
+        {
+          "id": 4,
+          "question": "Welke springmat gebruikt de turnster om allerlei trucjes te doen ?",
+          "propositions": [
+            "Espalier",
+            "Lint",
+            "Trampoline",
+            "Voltigepaard"
+          ],
+          "réponse": "Trampoline",
+          "anecdote": "De verzamelnaam trampoline omvat drie disciplines: trampoline, tumbling en dubbele minitrampoline."
+        },
+        {
+          "id": 5,
+          "question": "Wat is het succes van een rugbyteam dat alle vier de wedstrijden van het Six Nations Tournament wint ?",
+          "propositions": [
+            "Rode roos",
+            "Grand slam",
+            "Drie veren",
+            "Distel"
+          ],
+          "réponse": "Grand slam",
+          "anecdote": "Om sponsorredenen heet dit toernooi officieel RBS Six Nations (RBS voor Royal Bank of Scotland)."
+        },
+        {
+          "id": 6,
+          "question": "Wat betekent de zwart-geel geblokte vlag bij een wintersportgebied ?",
+          "propositions": [
+            "Einde van de dag",
+            "Opening van de pistes",
+            "Stoeltjeslift defect",
+            "Lawinegevaar"
+          ],
+          "réponse": "Lawinegevaar",
+          "anecdote": "De kracht van lawines is zodanig dat ze gemakkelijk alle mobiele elementen (mensen, dieren, rotsen) wegnemen."
+        },
+        {
+          "id": 7,
+          "question": "Bij golf, in het midden van wat is de hole over het algemeen geplaatst ?",
+          "propositions": [
+            "Gin",
+            "Milt",
+            "Groen",
+            "Draai"
+          ],
+          "réponse": "Groen",
+          "anecdote": "Golf, dat lijdt onder ongelijke media en financiële behandeling, is een sport die minder door vrouwen wordt beoefend dan door mannen."
+        },
+        {
+          "id": 8,
+          "question": "Welke van deze voorstellen is niet te vinden op een baan-sprinterfiets ?",
+          "propositions": [
+            "Stuur",
+            "Remmen",
+            "Zadel",
+            "Frame"
+          ],
+          "réponse": "Remmen",
+          "anecdote": "De beoefenaar van deze sport is daarom verplicht continu te trappen tot de volledige stop van zijn fiets (vaste versnellingen)."
+        },
+        {
+          "id": 9,
+          "question": "Hoe heet een snelle afdaling in het alpineskiën ?",
+          "propositions": [
+            "Slalom",
+            "Gecombineerd",
+            "Schuss",
+            "Freestyle"
+          ],
+          "réponse": "Schuss",
+          "anecdote": "Tijdens wedstrijden, tijdens de snelheidsevenementen, wordt de stick gevormd om te passen bij de lichaamsvorm van de skiër tijdens de schuss."
+        },
+        {
+          "id": 10,
+          "question": "Hoeveel spellen bevat elke tennisset ?",
+          "propositions": [
+            "Zeven",
+            "Vijf",
+            "Elf",
+            "Minstens zes"
+          ],
+          "réponse": "Minstens zes",
+          "anecdote": "Het woord tennis komt van de Franse tenez, een woord dat bij het serveren aan de tegenstander was gericht."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Hoeveel pogingen zijn toegestaan \\u200b\\u200bbij een verspringend evenement ?",
+          "propositions": [
+            "Vier",
+            "Vijf",
+            "Twee",
+            "Drie"
+          ],
+          "réponse": "Drie",
+          "anecdote": "Het wereldrecord verspringen voor heren wordt sinds 1991 gehouden door Mike Powell met een sprong naar 8,95 meter."
+        },
+        {
+          "id": 12,
+          "question": "Welk type peddel wordt in een kajak gebruikt om vooruit of achteruit te gaan ?",
+          "propositions": [
+            "Dubbel",
+            "Viervoudig",
+            "Eenvoudig",
+            "Triple"
+          ],
+          "réponse": "Dubbel",
+          "anecdote": "Kajakken wordt soms verward met kanoën, waarbij sportbeoefening wordt aangeduid met de algemene term kanoën."
+        },
+        {
+          "id": 13,
+          "question": "Hoe heette de Franse solozeiler, schipper van de Biotherm ?",
+          "propositions": [
+            "Maud Fontenoy",
+            "Florence Artaud",
+            "Isabelle Autissier",
+            "Mathilde Géron"
+          ],
+          "réponse": "Florence Artaud",
+          "anecdote": "Florence Artaud kwam om het leven bij een helikopterongeluk terwijl ze deelnam aan de opnames van het « Dropped \u003c/I\u003e -programma van TF1."
+        },
+        {
+          "id": 14,
+          "question": "Wat doet een bergbeklimmer die losschroeft in het jargon van bergbeklimmen ?",
+          "propositions": [
+            "Het valt",
+            "Hij eet",
+            "Hij slaapt",
+            "Het verwijdert een piton"
+          ],
+          "réponse": "Het valt",
+          "anecdote": "Alpinisme is een sport van klimmen in de hoge bergen die is gebaseerd op verschillende progressietechnieken."
+        },
+        {
+          "id": 15,
+          "question": "Wat is bij het schermen het derde mes met het zwaard en de folie ?",
+          "propositions": [
+            "Sabel",
+            "Mes",
+            "Dolk",
+            "Bijl"
+          ],
+          "réponse": "Sabel",
+          "anecdote": "Deze drie wapens hebben een geslacht: vrouwelijk en mannelijk zwaard, vrouwelijke en mannelijke folie en vrouwelijke en mannelijke sabel."
+        },
+        {
+          "id": 16,
+          "question": "Welke grote Roemeense turnster is Ecaterina Szabo geslaagd ?",
+          "propositions": [
+            "Vera Caslavska",
+            "Nadia Comaneci",
+            "Yelena Davydova",
+            "Larissa Latynina"
+          ],
+          "réponse": "Nadia Comaneci",
+          "anecdote": "Nadia Comaneci wordt vaak ten onrechte voorgesteld als de eerste turnster aller tijden die het perfecte cijfer van 10 heeft behaald."
+        },
+        {
+          "id": 17,
+          "question": "Met welke coach won Frankrijk de European Football Cup 1984 ?",
+          "propositions": [
+            "Guy Roux",
+            "Luis Fernandez",
+            "Michel Hidalgo",
+            "Aimé Jacquet"
+          ],
+          "réponse": "Michel Hidalgo",
+          "anecdote": "In 1986 vervoegde Michel Hidalgo Bernard Tapie op de Olympique de Marseille en werd hij tot 1991 algemeen directeur."
+        },
+        {
+          "id": 18,
+          "question": "In welke sport is het beter om een \\u200b\\u200bgoede schep te hebben ?",
+          "propositions": [
+            "Schermen",
+            "Golf",
+            "Roeien",
+            "Krekel"
+          ],
+          "réponse": "Roeien",
+          "anecdote": "Roeien is een Olympische sport sinds de oprichting van de moderne Olympische Spelen in 1896 onder leiding van baron Pierre de Coubertin."
+        },
+        {
+          "id": 19,
+          "question": "Welke sport blijft tot op de dag van vandaag de favoriete sport van Engelse studenten ?",
+          "propositions": [
+            "Voetbal",
+            "Handbal",
+            "Krekel",
+            "Tennis"
+          ],
+          "réponse": "Krekel",
+          "anecdote": "Meer dan honderd landen zijn aangesloten bij de International Cricket Council, die met name de Cricket World Cup organiseert."
+        },
+        {
+          "id": 20,
+          "question": "Hoe leidt de stuurman zijn roeiteamgenoten ?",
+          "propositions": [
+            "Fluit",
+            "In muziek",
+            "Naar de megafoon",
+            "Trommel"
+          ],
+          "réponse": "Naar de megafoon",
+          "anecdote": "In een roeiploeg is de stuurman het lid dat op de achtersteven zit en dus naar de boeg kijkt."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Hoeveel spelers zijn er in het honkbal op het verdedigende veld ?",
+          "propositions": [
+            "Dertien",
+            "Zeven",
+            "Nieuw",
+            "Elf"
+          ],
+          "réponse": "Nieuw",
+          "anecdote": "De eerste verwijzing naar de ronders is gemaakt in een Engels boek van John Newbery in 1744: « A Little Pretty Pocket-Book \u003c/I\u003e."
+        },
+        {
+          "id": 22,
+          "question": "Bij het skiën is christiana een techniek om uit te voeren welke manoeuvre ?",
+          "propositions": [
+            "Remmen",
+            "Draai",
+            "Stop",
+            "Springen"
+          ],
+          "réponse": "Draai",
+          "anecdote": "De draaitechniek is geboren in de Belle Époque op de lange, drukke skipistes van de stad Christiania."
+        },
+        {
+          "id": 23,
+          "question": "Hoeveel Amerikanen wonnen medailles op de Olympische Zomerspelen van 1984 ?",
+          "propositions": [
+            "30",
+            "61",
+            "83",
+            "174"
+          ],
+          "réponse": "174",
+          "anecdote": "Bij afwezigheid van grote sportlanden zoals de USSR en de DDR, domineerden de Verenigde Staten deze wedstrijden in Los Angeles."
+        },
+        {
+          "id": 24,
+          "question": "Welk rugbyteam heeft een antilope met een groene en donkere trui als embleem ?",
+          "propositions": [
+            "Zuid-Afrika",
+            "Nieuw-Zeeland",
+            "Ierland",
+            "Schotland"
+          ],
+          "réponse": "Zuid-Afrika",
+          "anecdote": "Vanwege zijn staat van dienst wordt het Zuid-Afrikaanse team beschouwd als een van de beste nationale teams ter wereld."
+        },
+        {
+          "id": 25,
+          "question": "Welke motorfiets heeft de meest geschikte verplaatsing om te testen ?",
+          "propositions": [
+            "150 cm³",
+            "250 cm³",
+            "100 cm³",
+            "200 cm³"
+          ],
+          "réponse": "250 cm³",
+          "anecdote": "Proeven, waarbij natuurlijke of kunstmatige obstakels worden overgestoken, is een sport waarbij het concept van snelheid niet in het spel komt."
+        },
+        {
+          "id": 26,
+          "question": "Hoeveel uur duurde de Six Days of Paris-wielerwedstrijd ?",
+          "propositions": [
+            "144 uur",
+            "104 uur",
+            "124 uur",
+            "84 uur"
+          ],
+          "réponse": "144 uur",
+          "anecdote": "Rijkelijk bedeeld, het was erg populair vóór de Tweede Wereldoorlog en was de belangrijkste competitie van dit type in Frankrijk."
+        },
+        {
+          "id": 27,
+          "question": "Wat gebeurt er bij croquet met een bal die alle ringen doorkruist zonder de stok te raken ?",
+          "propositions": [
+            "Piraat",
+            "Matroos",
+            "Kapitein",
+            "Zeerover"
+          ],
+          "réponse": "Zeerover",
+          "anecdote": "Zodra de laatste ring is gepasseerd, kan een speler voorkomen dat zijn tegenstanders winnen door ervoor te zorgen dat hij de inzet niet aanraakt."
+        },
+        {
+          "id": 28,
+          "question": "Welke Zweedse langeafstandsrace volgt de Dalecarliens-baan ?",
+          "propositions": [
+            "Marcialonga",
+            "Tartu Maraton",
+            "Vasaloppet",
+            "Dolomitenlauf"
+          ],
+          "réponse": "Vasaloppet",
+          "anecdote": "De race wordt gehouden op de eerste zondag van maart en bijna 15."
+        },
+        {
+          "id": 29,
+          "question": "Met welk surfboard voor grote golven kun je heel vroeg op de golf beginnen ?",
+          "propositions": [
+            "Vissen",
+            "Pistool",
+            "Eieren",
+            "Malibu"
+          ],
+          "réponse": "Pistool",
+          "anecdote": "Afhankelijk van het weer, voorkeuren en de manier van surfen zijn er verschillende soorten boards (vorm genoemd)."
+        },
+        {
+          "id": 30,
+          "question": "In welke stad vonden de eerste Olympische Winterspelen plaats in 1924 ?",
+          "propositions": [
+            "Oslo",
+            "Innsbruck",
+            "Grenoble",
+            "Chamonix"
+          ],
+          "réponse": "Chamonix",
+          "anecdote": "De competitie bracht 258 atleten uit 16 landen bij elkaar die deelnamen aan in totaal 16 evenementen in 6 verschillende sporten."
+        }
+      ]
+    }
+  }
+}
