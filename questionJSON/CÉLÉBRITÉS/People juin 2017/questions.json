@@ -1,0 +1,2216 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "People : juin 2017 (Ils ont fait l'actualité)",
+  "difficulté": "2 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Des mains de qui Anne-Elisabeth Lemoine a-t-elle reçu les clés de l'émission « C à Vous » ?",
+          "propositions": [
+            "Alessandra Sublet",
+            "Daphné Bürki",
+            "Anne-Sophie Lapix",
+            "Julie Andrieu"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "Le 12 juin 2017, Anne-Sophie Lapix a eu ce geste très symbolique envers celle qui va lui succéder à la présentation de l'émission."
+        },
+        {
+          "id": 2,
+          "question": "Quel animateur français s'est montré « À l'état sauvage » en juin 2017 ?",
+          "propositions": [
+            "S. Bern",
+            "T. Ardisson",
+            "J.-P. Foucault",
+            "C. Dechavanne"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "Le 12 juin 2017, les téléspectateurs ont découvert les cinq jours que Christophe Dechavanne a passés avec Mike Horn, au Venezuela."
+        },
+        {
+          "id": 3,
+          "question": "Quel poulain de M. Pokora a remporté la saison 6 de l'émission télévisée « The Voice » ?",
+          "propositions": [
+            "Ann-Shirley",
+            "Dilomé",
+            "Lisandro Cuxi",
+            "Marius"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi a remporté cette finale avec 34 % des voix, devançant ainsi Vincent Vinel, Nicola Cavallaro et Lucie."
+        },
+        {
+          "id": 4,
+          "question": "Quel anniversaire Denis Brogniart a-t-il dignement fêté en juin 2017 ?",
+          "propositions": [
+            "Ses 60 ans",
+            "Ses 40 ans",
+            "Ses 50 ans",
+            "Ses 30 ans"
+          ],
+          "réponse": "Ses 50 ans",
+          "anecdote": "Un anniversaire que Denis Brogniart a souhaité marquer en rendant hommage à son père, décédé avant d'atteindre ce même cap."
+        },
+        {
+          "id": 5,
+          "question": "Dans quelle ville de France le couple Macron possède-t-il une résidence secondaire ?",
+          "propositions": [
+            "Béthune",
+            "Carvin",
+            "Le Touquet",
+            "Ardres"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "Pour fêter le centième anniversaire de la station le 28 mars 2012, la municipalité a cherché à en faire la station de l'élégance."
+        },
+        {
+          "id": 6,
+          "question": "Qui a été impérial à Roland-Garros en 2017, devant sa chérie et sa jolie petite soeur ?",
+          "propositions": [
+            "Stanislas Wawrinka",
+            "Rafael Nadal",
+            "Novak Djokovic",
+            "Roger Federer"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador a été sacré pour la dixième fois en 2017 sur la terre battue parisienne, pour la plus grande fierté de ses proches."
+        },
+        {
+          "id": 7,
+          "question": "Qui présente depuis le 12 juin 2017 une toute nouvelle émission, « La Robe de ma vie » ?",
+          "propositions": [
+            "Sophie Davant",
+            "Anne-Sophie Lapix",
+            "Cristina Cordula",
+            "Alessandra Sublet"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "La reine du shopping, qui vient d'épouser son compagnon, en profite pour donner des conseils pour réussir son mariage."
+        },
+        {
+          "id": 8,
+          "question": "Qui a succédé à Laurie Cholewa aux commandes de l'animation de « Nouvelle Star » ?",
+          "propositions": [
+            "Virginie Guilhaume",
+            "Cyril Hanouna",
+            "Shy'm",
+            "Virginie Efira"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "En 2011, Shy'm a participé et a remporté la deuxième saison de l'émission télévisée « Danse avec les stars »."
+        },
+        {
+          "id": 9,
+          "question": "Quel animateur a mis un terme en juin 2017 à 16 ans de journal télévisé sur France 2 ?",
+          "propositions": [
+            "Bruno Masure",
+            "Claude Sérillon",
+            "David Pujadas",
+            "Daniel Bilalian"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "Un au revoir qui s'est déroulé en présence de ses parents, collègues, amis et proches, tous venus le remercier pour l'occasion."
+        },
+        {
+          "id": 10,
+          "question": "Quel humoriste a définitivement été relaxé après avoir insulté Nadine Morano en 2013 ?",
+          "propositions": [
+            "Guy Bedos",
+            "Laurent Baffie",
+            "Nicolas Canteloup",
+            "Élie Semoun"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "Lors de l'un de ses spectacles, Guy Bedos n'avait pas hésité à insulter Nadine Morano qui avait fait appel à la justice."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "De qui Elle Macpherson a-t-elle annoncé en 2017 le divorce après quatre ans de mariage ?",
+          "propositions": [
+            "Norm Macdonald",
+            "Gilles Bensimon",
+            "Jeff Soffer",
+            "Billy Joel"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "Après près de quatre années de mariage avec son milliardaire, c'est le retour au célibat pour The Body, le top australien de 53 ans."
+        },
+        {
+          "id": 12,
+          "question": "Qui a dit oui à Gian Luca Passi de Preposulo dans la maison de famille du marié ?",
+          "propositions": [
+            "Julianne Moore",
+            "Brie Larson",
+            "Cate Blanchett",
+            "Jessica Chastain"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain est connue pour préparer intensivement ses rôles qui sont généralement de nature éprouvante émotionnellement."
+        },
+        {
+          "id": 13,
+          "question": "Quelle chanteuse a sorti le 23 juin 2017 un single en hommage à George Michael ?",
+          "propositions": [
+            "Emma Bunton",
+            "Melanie Brown",
+            "Victoria Beckham",
+            "Geri Halliwell"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "Pour honorer la mémoire de son ami George Michael, l'ex Spice Girl Geri Halliwell a décidé de lui rendre hommage en musique."
+        },
+        {
+          "id": 14,
+          "question": "Quelle chanteuse et actrice a (enfin) affirmé être elle-même avec The Weeknd ?",
+          "propositions": [
+            "Sofia Carson",
+            "Hilary Duff",
+            "Lucy Hale",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "C'est grâce à la série « Les Sorciers de Waverly Place », sur la chaîne Disney Channel, que Selena Gomez s'est fait connaître du jeune public."
+        },
+        {
+          "id": 15,
+          "question": "Qui a pris la tête de « Télématin » après le départ de William Leymergie sur C8 ?",
+          "propositions": [
+            "Audrey Pulvar",
+            "Laurent Bignolas",
+            "Louis Laforge",
+            "Catherine Matausch"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "En 1999, Laurent Bignolas a réalisé une traversée de l'Atlantique à la voile et a obtenu un 7 d'or en 2000 pour « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "Quel séducteur de la télé-réalité américaine est appelé Le Lord ?",
+          "propositions": [
+            "Brandon Jenner",
+            "Scott Disick",
+            "Jonathan Cheban",
+            "Lamar Odom"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick multiplie les aventures sans lendemain depuis sa rupture avec Kourtney Kardashian suite à son addiction au sexe."
+        },
+        {
+          "id": 17,
+          "question": "Quel réalisateur français est souvent confondu avec l'acteur Kad Merad ?",
+          "propositions": [
+            "François Ozon",
+            "Cédric Klapisch",
+            "Mathieu Kassovitz",
+            "Patrice Chéreau"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Lassé de devoir rectifier les fans de l'acteur dans la rue, le réalisateur quelque peu résigné a fini par jouer le jeu."
+        },
+        {
+          "id": 18,
+          "question": "Combien Johnny Hallyday a-t-il touché pour chaque concert des « Vieilles canailles » ?",
+          "propositions": [
+            "90 000 euros",
+            "60 000 euros",
+            "120 000 euros",
+            "150 000 euros"
+          ],
+          "réponse": "150 000 euros",
+          "anecdote": "Si sa présence a longtemps été incertaine à cause de son état de santé, Johnny Hallyday a confirmé sa participation aux concerts."
+        },
+        {
+          "id": 19,
+          "question": "Quel chanteur de « Power » a dignement fêté ses quarante ans en juin 2017 ?",
+          "propositions": [
+            "Common",
+            "Big Sean",
+            "Kanye West",
+            "John Legend"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Au grand désarroi de la droite chrétienne évangélique, l'artiste un poil narcissique n'hésite pas à se comparer à Jésus Christ."
+        },
+        {
+          "id": 20,
+          "question": "Quel chanteur a collaboré avec David Guetta et les Anges de Victoria's Secret ?",
+          "propositions": [
+            "Justin Timberlake",
+            "Justin Bieber",
+            "Chris Brown",
+            "Usher"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber a collaboré avec David Guetta pour la musique et avec Sara Sampaio et Elsa Hosk dans le clip qui l'accompagne."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Qui a dit : « Rire sur le terrorisme n'est pas politiquement correct mais indispensable » ?",
+          "propositions": [
+            "Élie Semoun",
+            "Jean-Luc Lemoine",
+            "Alex Vizorek",
+            "François Rollin"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun fait partie des célébrités françaises à avoir exprimé leurs craintes à l'annonce de la victoire de Donald Trump."
+        },
+        {
+          "id": 22,
+          "question": "Quel animateur radio a vu son restaurant à Lège-Cap-Ferret ravagé par les flammes ?",
+          "propositions": [
+            "Manu Levy",
+            "Alexandre Devoise",
+            "Laurent Baffie",
+            "Camille Combal"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy s'est fait connaître sous le pseudonyme de « Maître Lévy » en animant des émissions aux côtés d'Arthur."
+        },
+        {
+          "id": 23,
+          "question": "Quel footballeur d'Angers a trouvé la mort dans un violent accident de voiture au Brésil ?",
+          "propositions": [
+            "Jérémy Henin",
+            "Jonas Pessalli",
+            "Olivier Auriac",
+            "Yves Deroff"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "Le 1er février 2016, dans les dernières heures du mercato, Jonas-Henrique Pessalli s'était engagé avec Luçon, club de National."
+        },
+        {
+          "id": 24,
+          "question": "Quelle fillette de 18 mois a passé un an à dormir presque sans interruption ?",
+          "propositions": [
+            "Coralie Porrovecchio",
+            "Yuliya Snigir",
+            "Anya Metyolkina",
+            "Isolda Dychauk"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "Les médecins du monde entier sont intrigués par ce bébé au bois dormant qui passe le plus clair de son temps à dormir."
+        },
+        {
+          "id": 25,
+          "question": "Quel acteur a écopé en 2017 d'une peine en appel pour avoir renversé une piétonne ?",
+          "propositions": [
+            "Jean Dujardin",
+            "Vincent Lindon",
+            "Benoît Magimel",
+            "Olivier Gourmet"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "En 2016, Benoît Magimel était condamné à 3 500  d'amende pour avoir renversé une piétonne et pour consommation de cocaïne."
+        },
+        {
+          "id": 26,
+          "question": "À qui la marque Ikea a-t-elle fait appel pour redessiner son sac fourre-tout ?",
+          "propositions": [
+            "Virgil Abloh",
+            "Michael Kors",
+            "Mandy Harvey",
+            "Julie Meuriss"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "Le directeur artistique de la marque Off-White collabore désormais avec le géant du mobilier pour des créations uniques."
+        },
+        {
+          "id": 27,
+          "question": "Quelle star des « Anges » est apparue en 2017 sur les bus de la RATP ?",
+          "propositions": [
+            "Mélanie Da Cruz",
+            "Aurélie Preston",
+            "Coralie Porrovecchio",
+            "Sarah Fraisou"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "Le principe de l'émission est de faire cohabiter d'anciens candidats de télé-réalité dans une villa située dans une ville célèbre."
+        },
+        {
+          "id": 28,
+          "question": "Quel PDG et star des publicités Rozana nous a quittés en juin 2017 ?",
+          "propositions": [
+            "Axel Dumas",
+            "Arthur Bricout",
+            "Pierre Papillaud",
+            "Paul Hermelin"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, homme d'affaires, visage de la marque Rozana et PDG de la société Roxane, est décédé à l'âge de 81 ans."
+        },
+        {
+          "id": 29,
+          "question": "Quelle jeune chanteuse sourde a bouleversé « America's Got Talent » ?",
+          "propositions": [
+            "Drew Lynch",
+            "Emily West",
+            "Mandy Harvey",
+            "Grace VanderWaal"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Grâce à son talent et son courage, elle a bouleversé le jury et le public de la version américaine de « La France a un incroyable talent »."
+        },
+        {
+          "id": 30,
+          "question": "Quel héros de « Premiers baisers » s'est marié à Raquel Chouiti ?",
+          "propositions": [
+            "Pierre Deny",
+            "Cyril Aubin",
+            "Anthony Dupray",
+            "Gérard Pinteau"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray a débuté en 1992 dans une publicité d'Étienne Chatiliez. Il en tournera d'autres en France ainsi qu'à l'étranger."
+        }
+      ]
+    },
+    "en": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Whose hands did Anne-Elisabeth Lemoine receive the keys to « C à Vous \u003c/I\u003e ?",
+          "propositions": [
+            "Julie Andrieu",
+            "Anne-Sophie Lapix",
+            "Daphné Bürki",
+            "Alessandra Sublet"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "On June 12, 2017, Anne-Sophie Lapix made this very symbolic gesture towards the one who will succeed her at the presentation of the show."
+        },
+        {
+          "id": 2,
+          "question": "Which French animator was « In the wild » in June 2017 ?",
+          "propositions": [
+            "J.-P. Foucault",
+            "T. Ardisson",
+            "C. Dechavanne",
+            "S. Bern"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "On June 12, 2017, viewers discovered the five days that Christophe Dechavanne spent with Mike Horn, in Venezuela."
+        },
+        {
+          "id": 3,
+          "question": "Which foal of Mr. Pokora won season 6 of the television program « The Voice » ?",
+          "propositions": [
+            "Ann-Shirley",
+            "Marius",
+            "Lisandro Cuxi",
+            "Dilomé"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi won the final with 34 % of the vote, ahead of Vincent Vinel, Nicola Cavallaro and Lucie."
+        },
+        {
+          "id": 4,
+          "question": "What anniversary did Denis Brogniart celebrate in June 2017 ?",
+          "propositions": [
+            "His 40 years",
+            "His 50 years",
+            "His 30 years",
+            "His 60 years"
+          ],
+          "réponse": "His 50 years",
+          "anecdote": "An anniversary that Denis Brogniart wanted to mark by paying tribute to his father, who died before reaching this same milestone."
+        },
+        {
+          "id": 5,
+          "question": "In which city in France does the Macron couple have a second home ?",
+          "propositions": [
+            "Bethune",
+            "Ardres",
+            "Carvin",
+            "Le Touquet"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "To celebrate the station's 100th anniversary on March 28, 2012, the municipality sought to make it the station of elegance."
+        },
+        {
+          "id": 6,
+          "question": "Who was imperial at Roland-Garros in 2017, in front of his sweetheart and his pretty little sister ?",
+          "propositions": [
+            "Rafael Nadal",
+            "Stanislas Wawrinka",
+            "Roger Federer",
+            "Novak Djokovic"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador was crowned for the tenth time in 2017 on Parisian clay, for the greatest pride of his loved ones."
+        },
+        {
+          "id": 7,
+          "question": "Who has presented since June 12, 2017 a brand new show, « The Dress of My Life » ?",
+          "propositions": [
+            "Alessandra Sublet",
+            "Sophie Davant",
+            "Cristina Cordula",
+            "Anne-Sophie Lapix"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "The queen of shopping, who has just married her partner, takes the opportunity to give advice on how to make a successful marriage."
+        },
+        {
+          "id": 8,
+          "question": "Who succeeded Laurie Cholewa at the helm of the animation of « Nouvelle Star » ?",
+          "propositions": [
+            "Shy'm",
+            "Cyril Hanouna",
+            "Virginie Efira",
+            "Virginie Guilhaume"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "In 2011, Shy'm participated and won the second season of the television show « Dance with the Stars »."
+        },
+        {
+          "id": 9,
+          "question": "Which host ended 16 years of television news on France 2 in June 2017 ?",
+          "propositions": [
+            "Daniel Bilalian",
+            "Bruno Masure",
+            "David Pujadas",
+            "Claude Sérillon"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "A goodbye that took place in the presence of his parents, colleagues, friends and relatives, all who came to thank him for the occasion."
+        },
+        {
+          "id": 10,
+          "question": "Which humorist was definitely released after insulting Nadine Morano in 2013 ?",
+          "propositions": [
+            "Laurent Baffie",
+            "Élie Semoun",
+            "Nicolas Canteloup",
+            "Guy Bedos"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "During one of his shows, Guy Bedos did not hesitate to insult Nadine Morano who had appealed to justice."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Whom did Elle Macpherson announce the divorce in 2017 after four years of marriage ?",
+          "propositions": [
+            "Jeff Soffer",
+            "Norm Macdonald",
+            "Gilles Bensimon",
+            "Billy Joel"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "After nearly four years of marriage to his billionaire, it is the return to celibacy for The Body, the Australian top of 53 years."
+        },
+        {
+          "id": 12,
+          "question": "Who said yes to Gian Luca Passi de Preposulo in the groom's family home ?",
+          "propositions": [
+            "Julianne Moore",
+            "Cate Blanchett",
+            "Brie Larson",
+            "Jessica Chastain"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain is known for intensively preparing her roles which are generally of an emotionally demanding nature."
+        },
+        {
+          "id": 13,
+          "question": "Which singer released a single in honor of George Michael on June 23, 2017 ?",
+          "propositions": [
+            "Victoria Beckham",
+            "Melanie Brown",
+            "Emma Bunton",
+            "Geri Halliwell"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "To honor the memory of his friend George Michael, the ex Spice Girl Geri Halliwell decided to pay tribute to him in music."
+        },
+        {
+          "id": 14,
+          "question": "Which singer and actress (finally) claimed to be herself with The Weeknd ?",
+          "propositions": [
+            "Sofia Carson",
+            "Hilary Duff",
+            "Lucy Hale",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "It is thanks to the series « The Wizards of Waverly Place », on the Disney Channel, that Selena Gomez became known to young audiences."
+        },
+        {
+          "id": 15,
+          "question": "Who took the helm of « Télématin » after the departure of William Leymergie on C8 ?",
+          "propositions": [
+            "Laurent Bignolas",
+            "Catherine Matausch",
+            "Audrey Pulvar",
+            "Louis Laforge"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "In 1999, Laurent Bignolas sailed across the Atlantic and obtained a 7 gold in 2000 for « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "What seducer of American reality TV is called The Lord ?",
+          "propositions": [
+            "Brandon Jenner",
+            "Scott Disick",
+            "Jonathan Cheban",
+            "Lamar Odom"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick multiplies the adventures without tomorrow since his break with Kourtney Kardashian following his addiction to sex."
+        },
+        {
+          "id": 17,
+          "question": "Which French director is often confused with actor Kad Merad ?",
+          "propositions": [
+            "Mathieu Kassovitz",
+            "Patrice Chéreau",
+            "François Ozon",
+            "Cédric Klapisch"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Tired of having to rectify the fans of the actor in the street, the somewhat resigned director ended up playing the game."
+        },
+        {
+          "id": 18,
+          "question": "How much did Johnny Hallyday get for each « Vieilles canailles » concert ?",
+          "propositions": [
+            "120,000 euros",
+            "150,000 euros",
+            "60,000 euros",
+            "90,000 euros"
+          ],
+          "réponse": "150,000 euros",
+          "anecdote": "If his presence has long been uncertain because of his state of health, Johnny Hallyday has confirmed his participation in the concerts."
+        },
+        {
+          "id": 19,
+          "question": "Which « Power » singer celebrated his 40th birthday in June 2017 ?",
+          "propositions": [
+            "John Legend",
+            "Kanye West",
+            "Common",
+            "Big Sean"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Much to the dismay of the evangelical Christian right, the artist, a narcissistic hair, does not hesitate to compare himself to Jesus Christ."
+        },
+        {
+          "id": 20,
+          "question": "Which singer collaborated with David Guetta and the Angels of Victoria's Secret ?",
+          "propositions": [
+            "Justin Timberlake",
+            "Chris Brown",
+            "Usher",
+            "Justin Bieber"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber collaborated with David Guetta for the music and with Sara Sampaio and Elsa Hosk in the accompanying clip."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Who said: « Laughing at terrorism is not politically correct but essential » ?",
+          "propositions": [
+            "Alex Vizorek",
+            "François Rollin",
+            "Jean-Luc Lemoine",
+            "Élie Semoun"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun is one of the French celebrities to have expressed their fears at the announcement of the victory of Donald Trump."
+        },
+        {
+          "id": 22,
+          "question": "What radio host saw his restaurant in Lège-Cap-Ferret ravaged by flames ?",
+          "propositions": [
+            "Camille Combal",
+            "Laurent Baffie",
+            "Manu Levy",
+            "Alexandre Devoise"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy made himself known under the pseudonym of « Maître Lévy » by hosting programs alongside Arthur."
+        },
+        {
+          "id": 23,
+          "question": "Which Angers footballer died in a violent car accident in Brazil ?",
+          "propositions": [
+            "Jérémy Henin",
+            "Yves Deroff",
+            "Jonas Pessalli",
+            "Olivier Auriac"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "On February 1, 2016, in the last hours of the transfer window, Jonas-Henrique Pessalli signed up with Luçon, the National club."
+        },
+        {
+          "id": 24,
+          "question": "What 18-month-old girl spent almost a year sleeping without interruption ?",
+          "propositions": [
+            "Coralie Porrovecchio",
+            "Yuliya Snigir",
+            "Anya Metyolkina",
+            "Isolda Dychauk"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "Doctors around the world are intrigued by this sleeping baby who spends most of his time sleeping."
+        },
+        {
+          "id": 25,
+          "question": "Which actor received a heavy sentence in 22017 on appeal for having overturned a pedestrian ?",
+          "propositions": [
+            "Jean Dujardin",
+            "Vincent Lindon",
+            "Olivier Gourmet",
+            "Benoît Magimel"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "In 2016, Benoît Magimel was fined  3,500 for overturning a pedestrian and for using cocaine."
+        },
+        {
+          "id": 26,
+          "question": "Who did the Ikea brand use to redesign its tote bag ?",
+          "propositions": [
+            "Michael Kors",
+            "Julie Meuriss",
+            "Virgil Abloh",
+            "Mandy Harvey"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "The artistic director of the Off-White brand now collaborates with the furniture giant for unique creations."
+        },
+        {
+          "id": 27,
+          "question": "Which « Angels » star appeared in 2017 on RATP buses ?",
+          "propositions": [
+            "Sarah Fraisou",
+            "Mélanie Da Cruz",
+            "Coralie Porrovecchio",
+            "Aurélie Preston"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "The principle of the show is to make former reality TV candidates cohabit in a villa located in a famous city."
+        },
+        {
+          "id": 28,
+          "question": "Which CEO and advertising star Rozana left us in June 2017 ?",
+          "propositions": [
+            "Pierre Papillaud",
+            "Axel Dumas",
+            "Paul Hermelin",
+            "Arthur Bricout"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, businessman, face of the Rozana brand and CEO of the Roxane company, died at the age of 81."
+        },
+        {
+          "id": 29,
+          "question": "What young deaf singer upset « America's Got Talent » ?",
+          "propositions": [
+            "Mandy Harvey",
+            "Grace VanderWaal",
+            "Emily West",
+            "Drew Lynch"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Thanks to her talent and her courage, she upset the jury and the public of the American version of « France has an incredible talent »."
+        },
+        {
+          "id": 30,
+          "question": "Which hero of « First kisses » married Raquel Chouiti ?",
+          "propositions": [
+            "Pierre Deny",
+            "Cyril Aubin",
+            "Anthony Dupray",
+            "Gérard Pinteau"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray made his debut in 1992 in an advertisement for Étienne Chatiliez. He will shoot others in France as well as abroad."
+        }
+      ]
+    },
+    "de": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Wessen Hände hat Anne-Elisabeth Lemoine die Schlüssel zu « C à Vous » erhalten ?",
+          "propositions": [
+            "Anne-Sophie Lapix",
+            "Daphné Bürki",
+            "Alessandra Untervermietung",
+            "Julie Andrieu"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "Am 12."
+        },
+        {
+          "id": 2,
+          "question": "Welcher französische Animator war im Juni 2017 « In the wild » ?",
+          "propositions": [
+            "S. Bern",
+            "J.-P. Foucault",
+            "C. Dechavanne",
+            "T. Ardisson"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "Am 12. Juni 2017 entdeckten die Zuschauer die fünf Tage, die Christophe Dechavanne mit Mike Horn in Venezuela verbrachte."
+        },
+        {
+          "id": 3,
+          "question": "Welches Fohlen von Mr. Pokora hat die sechste Staffel der Fernsehsendung « The Voice » gewonnen ?",
+          "propositions": [
+            "Ann-Shirley",
+            "Lisandro Cuxi",
+            "Dilomé",
+            "Marius"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi gewann das Finale mit 34 % der Stimmen vor Vincent Vinel, Nicola Cavallaro und Lucie."
+        },
+        {
+          "id": 4,
+          "question": "Welches Jubiläum hat Denis Brogniart im Juni 2017 gefeiert ?",
+          "propositions": [
+            "Seine 30 Jahre",
+            "Seine 60 Jahre",
+            "Seine 40 Jahre",
+            "Seine 50 Jahre"
+          ],
+          "réponse": "Seine 50 Jahre",
+          "anecdote": "Ein Jubiläum, das Denis Brogniart feiern wollte, indem er seinem Vater Tribut zollte, der starb, bevor er denselben Meilenstein erreichte."
+        },
+        {
+          "id": 5,
+          "question": "In welcher Stadt in Frankreich hat das Ehepaar Macron ein zweites Zuhause ?",
+          "propositions": [
+            "Carvin",
+            "Ardres",
+            "Bethune",
+            "Le Touquet"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "Um das 100-jährige Bestehen des Bahnhofs am 28."
+        },
+        {
+          "id": 6,
+          "question": "Wer war 2017 bei Roland-Garros kaiserlich, vor seinem Schatz und seiner hübschen kleinen Schwester ?",
+          "propositions": [
+            "Novak Djokovic",
+            "Stanislas Wawrinka",
+            "Rafael Nadal",
+            "Roger Federer"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador wurde 2017 zum zehnten Mal auf Pariser Lehm gekrönt, zum größten Stolz seiner Lieben."
+        },
+        {
+          "id": 7,
+          "question": "Wer hat seit dem 12. Juni 2017 eine brandneue Show präsentiert, « Das Kleid meines Lebens » ?",
+          "propositions": [
+            "Alessandra Sublet",
+            "Anne-Sophie Lapix",
+            "Sophie Davant",
+            "Cristina Cordula"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "Die Königin des Einkaufens, die gerade ihren Partner geheiratet hat, nutzt die Gelegenheit, um Ratschläge für eine erfolgreiche Ehe zu geben."
+        },
+        {
+          "id": 8,
+          "question": "Wer war die Nachfolgerin von Laurie Cholewa an der Spitze der Animation für « Nouvelle Star » ?",
+          "propositions": [
+            "Virginie Guilhaume",
+            "Virginie Efira",
+            "Cyril Hanouna",
+            "Shy'm"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "2011 nahm Shy'm teil und gewann die zweite Staffel der Fernsehsendung « Dance with the Stars »."
+        },
+        {
+          "id": 9,
+          "question": "Welcher Moderator hat im Juni 2017 16 Jahre Fernsehnachrichten über France 2 beendet ?",
+          "propositions": [
+            "Claude Sérillon",
+            "Daniel Bilalian",
+            "David Pujadas",
+            "Bruno Masure"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "Ein Abschied, der in Gegenwart seiner Eltern, Kollegen, Freunde und Verwandten stattfand, die alle kamen, um ihm für diesen Anlass zu danken."
+        },
+        {
+          "id": 10,
+          "question": "Welcher Humorist wurde definitiv freigelassen, nachdem er 2013 Nadine Morano beleidigt hatte ?",
+          "propositions": [
+            "Guy Bedos",
+            "Nicolas Canteloup",
+            "Laurent Baffie",
+            "Élie Semoun"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "Während einer seiner Shows zögerte Guy Bedos nicht, Nadine Morano zu beleidigen, die sich an die Justiz gewandt hatte."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Wen hat Elle Macpherson 2017 nach vierjähriger Ehe die Scheidung angekündigt ?",
+          "propositions": [
+            "Jeff Soffer",
+            "Norm Macdonald",
+            "Billy Joel",
+            "Gilles Bensimon"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "Nach fast vier Jahren Ehe mit seinem Milliardär ist es die Rückkehr zum Zölibat für The Body, die australische Spitze von 53 Jahren."
+        },
+        {
+          "id": 12,
+          "question": "Wer hat zu Gian Luca Passi de Preposulo im Haus der Familie des Bräutigams Ja gesagt ?",
+          "propositions": [
+            "Cate Blanchett",
+            "Brie Larson",
+            "Julianne Moore",
+            "Jessica Chastain"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain ist dafür bekannt, ihre Rollen, die im Allgemeinen emotional anspruchsvoll sind, intensiv vorzubereiten."
+        },
+        {
+          "id": 13,
+          "question": "Welcher Sänger hat am 23. Juni 2017 eine Single zu Ehren von George Michael veröffentlicht ?",
+          "propositions": [
+            "Melanie Brown",
+            "Victoria Beckham",
+            "Emma Bunton",
+            "Geri Halliwell"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "Um die Erinnerung an seinen Freund George Michael zu ehren, beschloss Ex-Spice Girl Geri Halliwell, ihm in der Musik Tribut zu zollen."
+        },
+        {
+          "id": 14,
+          "question": "Welche Sängerin und Schauspielerin behauptete (endlich), sie selbst bei The Weeknd zu sein ?",
+          "propositions": [
+            "Hilary Duff",
+            "Sofia Carson",
+            "Lucy Hale",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "Dank der Serie « The Wizards of Waverly Place » auf dem Disney Channel wurde Selena Gomez dem jungen Publikum bekannt."
+        },
+        {
+          "id": 15,
+          "question": "Wer hat nach der Abreise von William Leymergie auf C8 den Kopf von « Télématin » übernommen ?",
+          "propositions": [
+            "Laurent Bignolas",
+            "Catherine Matausch",
+            "Audrey Pulvar",
+            "Louis Laforge"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "1999 segelte Laurent Bignolas über den Atlantik und erhielt im Jahr 2000 7 Gold für « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "Welcher Verführer des amerikanischen Reality-TV heißt The Lord ?",
+          "propositions": [
+            "Brandon Jenner",
+            "Jonathan Cheban",
+            "Scott Disick",
+            "Lamar Odom"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick vervielfacht die Abenteuer ohne Morgen seit seinem Bruch mit Kourtney Kardashian nach seiner Sexsucht."
+        },
+        {
+          "id": 17,
+          "question": "Welcher französische Regisseur wird oft mit dem Schauspieler Kad Merad verwechselt ?",
+          "propositions": [
+            "Mathieu Kassovitz",
+            "Patrice Chéreau",
+            "François Ozon",
+            "Cédric Klapisch"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Der etwas resignierte Regisseur war es leid, die Fans des Schauspielers auf der Straße korrigieren zu müssen, und spielte das Spiel."
+        },
+        {
+          "id": 18,
+          "question": "Wie viel hat Johnny Hallyday für jedes « Vieilles canailles » Konzert bekommen ?",
+          "propositions": [
+            "60.000 Euro",
+            "90.000 Euro",
+            "120.000 Euro",
+            "150.000 Euro"
+          ],
+          "réponse": "150.000 Euro",
+          "anecdote": "Wenn seine Anwesenheit aufgrund seines Gesundheitszustands lange ungewiss war, hat Johnny Hallyday seine Teilnahme an den Konzerten bestätigt."
+        },
+        {
+          "id": 19,
+          "question": "Welcher « Power » Sänger feierte im Juni 2017 seinen 40. Geburtstag ?",
+          "propositions": [
+            "John Legend",
+            "Big Sean",
+            "Kanye West",
+            "Common"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Sehr zum Entsetzen des evangelischen christlichen Rechts zögert der Künstler, ein narzisstisches Haar, nicht, sich mit Jesus Christus zu vergleichen."
+        },
+        {
+          "id": 20,
+          "question": "Welcher Sänger hat mit David Guetta und den Angels of Victoria's Secret zusammengearbeitet ?",
+          "propositions": [
+            "Justin Bieber",
+            "Justin Timberlake",
+            "Chris Brown",
+            "Usher"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber arbeitete mit David Guetta für die Musik und mit Sara Sampaio und Elsa Hosk im begleitenden Clip zusammen."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Wer hat gesagt: « Über Terrorismus zu lachen ist nicht politisch korrekt, aber wesentlich » ?",
+          "propositions": [
+            "Alex Vizorek",
+            "Élie Semoun",
+            "Jean-Luc Lemoine",
+            "François Rollin"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun ist eine der französischen Prominenten, die ihre Befürchtungen bei der Bekanntgabe des Sieges von Donald Trump zum Ausdruck gebracht haben."
+        },
+        {
+          "id": 22,
+          "question": "Welcher Radiomoderator sah sein Restaurant in Lège-Cap-Ferret von Flammen verwüstet ?",
+          "propositions": [
+            "Camille Combal",
+            "Alexandre Devoise",
+            "Manu Levy",
+            "Laurent Baffie"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy machte sich unter dem Pseudonym « Maître Lévy » bekannt, indem er neben Arthur Programme veranstaltete."
+        },
+        {
+          "id": 23,
+          "question": "Welcher Angers-Fußballer starb bei einem gewaltsamen Autounfall in Brasilien ?",
+          "propositions": [
+            "Yves Deroff",
+            "Jérémy Henin",
+            "Jonas Pessalli",
+            "Olivier Auriac"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "Am 1."
+        },
+        {
+          "id": 24,
+          "question": "Welches 18 Monate alte Mädchen hat fast ein Jahr ohne Unterbrechung geschlafen ?",
+          "propositions": [
+            "Isolda Dychauk",
+            "Coralie Porrovecchio",
+            "Anya Metyolkina",
+            "Yuliya Snigir"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "Ärzte auf der ganzen Welt sind fasziniert von diesem schlafenden Baby, das die meiste Zeit mit Schlafen verbringt."
+        },
+        {
+          "id": 25,
+          "question": "Welcher Schauspieler erhielt 22017 eine schwere Strafe, weil er einen Fußgänger umgeworfen hatte ?",
+          "propositions": [
+            "Benoît Magimel",
+            "Vincent Lindon",
+            "Jean Dujardin",
+            "Olivier Gourmet"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "Im Jahr 2016 wurde Benoît Magimel mit einer Geldstrafe von 3."
+        },
+        {
+          "id": 26,
+          "question": "Mit wem hat die Marke Ikea ihre Einkaufstasche neu gestaltet ?",
+          "propositions": [
+            "Mandy Harvey",
+            "Julie Meuriss",
+            "Michael Kors",
+            "Virgil Abloh"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "Der künstlerische Leiter der Marke Off-White arbeitet jetzt mit dem Möbelgiganten für einzigartige Kreationen zusammen."
+        },
+        {
+          "id": 27,
+          "question": "Welcher « Angels » Star erschien 2017 in RATP-Bussen ?",
+          "propositions": [
+            "Aurélie Preston",
+            "Sarah Fraisou",
+            "Coralie Porrovecchio",
+            "Mélanie Da Cruz"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "Das Prinzip der Show ist es, ehemalige Reality-TV-Kandidaten in einer Villa in einer berühmten Stadt zusammenleben zu lassen."
+        },
+        {
+          "id": 28,
+          "question": "Welcher CEO und Werbestar Rozana hat uns im Juni 2017 verlassen ?",
+          "propositions": [
+            "Arthur Bricout",
+            "Axel Dumas",
+            "Pierre Papillaud",
+            "Paul Hermelin"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, Geschäftsmann, Gesicht der Marke Rozana und CEO des Unternehmens Roxane, starb im Alter von 81 Jahren."
+        },
+        {
+          "id": 29,
+          "question": "Welcher junge gehörlose Sänger hat « America's Got Talent » verärgert ?",
+          "propositions": [
+            "Mandy Harvey",
+            "Drew Lynch",
+            "Grace VanderWaal",
+            "Emily West"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Dank ihres Talents und ihres Mutes hat sie die Jury verärgert und die Öffentlichkeit der amerikanischen Version von « Frankreich hat ein unglaubliches Talent »."
+        },
+        {
+          "id": 30,
+          "question": "Welcher Held von « First Kisses » hat Raquel Chouiti geheiratet ?",
+          "propositions": [
+            "Gérard Pinteau",
+            "Anthony Dupray",
+            "Cyril Aubin",
+            "Pierre Deny"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray gab sein Debüt 1992 in einer Werbung für Étienne Chatiliez. Er wird andere in Frankreich und im Ausland erschießen."
+        }
+      ]
+    },
+    "es": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "¿De qué manos recibió Anne-Elisabeth Lemoine las llaves de « C à Vous \u003c/I\u003e ?",
+          "propositions": [
+            "Alessandra Sublet",
+            "Daphné Bürki",
+            "Anne-Sophie Lapix",
+            "Julie Andrieu"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "El 12 de junio de 2017, Anne-Sophie Lapix hizo este gesto muy simbólico hacia la persona que la sucederá en la presentación del espectáculo."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué animador francés fue « In the wild » en junio de 2017 ?",
+          "propositions": [
+            "J.-P. Foucault",
+            "C. Dechavanne",
+            "T. Ardisson",
+            "S. Bern"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "El 12 de junio de 2017, los televidentes descubrieron los cinco días que Christophe Dechavanne pasó con Mike Horn, en Venezuela."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué potro del Sr. Pokora ganó la temporada 6 del programa de televisión « The Voice » ?",
+          "propositions": [
+            "Dilomé",
+            "Marius",
+            "Ann-Shirley",
+            "Lisandro Cuxi"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi ganó la final con el 34 % de los votos, por delante de Vincent Vinel, Nicola Cavallaro y Lucie."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué aniversario celebró Denis Brogniart en junio de 2017 ?",
+          "propositions": [
+            "Sus 30 años",
+            "Sus 40 años",
+            "Sus 60 años",
+            "Sus 50 años"
+          ],
+          "réponse": "Sus 50 años",
+          "anecdote": "Un cumpleaños que Denis Brogniart quería marcar al rendir homenaje a su padre, quien murió antes de alcanzar este mismo hito."
+        },
+        {
+          "id": 5,
+          "question": "¿En qué ciudad de Francia la pareja Macron tiene una segunda casa ?",
+          "propositions": [
+            "Ardres",
+            "Le Touquet",
+            "Bethune",
+            "Carvin"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "Para celebrar el centésimo aniversario de la estación el 28 de marzo de 2012, el municipio buscó convertirla en la estación de la elegancia."
+        },
+        {
+          "id": 6,
+          "question": "¿Quién fue imperial en Roland-Garros en 2017, frente a su novia y su linda hermanita ?",
+          "propositions": [
+            "Stanislas Wawrinka",
+            "Rafael Nadal",
+            "Novak Djokovic",
+            "Roger Federer"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador fue coronado por décima vez en 2017 en la cancha de arcilla parisina, por el mayor orgullo de sus seres queridos."
+        },
+        {
+          "id": 7,
+          "question": "¿Quién presenta desde el 12 de junio de 2017 un nuevo espectáculo, « El vestido de mi vida » ?",
+          "propositions": [
+            "Anne-Sophie Lapix",
+            "Alessandra Sublet",
+            "Sophie Davant",
+            "Cristina Cordula"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "La reina de las compras, que se acaba de casar con su pareja, aprovecha la oportunidad para dar consejos sobre cómo lograr un matrimonio exitoso."
+        },
+        {
+          "id": 8,
+          "question": "¿Quién sucedió a Laurie Cholewa al timón de la animación de « Nouvelle Star » ?",
+          "propositions": [
+            "Cyril Hanouna",
+            "Virginie Guilhaume",
+            "Virginie Efira",
+            "Shy'm"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "En 2011, Shy'm participó y ganó la segunda temporada del programa de televisión « Dance with the Stars »."
+        },
+        {
+          "id": 9,
+          "question": "¿Qué anfitrión finalizó 16 años de noticias de televisión en France 2 en junio de 2017 ?",
+          "propositions": [
+            "Claude Sérillon",
+            "David Pujadas",
+            "Bruno Masure",
+            "Daniel Bilalian"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "Un adiós que tuvo lugar en presencia de sus padres, colegas, amigos y familiares, todos los que vinieron a agradecerle por la ocasión."
+        },
+        {
+          "id": 10,
+          "question": "¿Qué humorista fue liberado definitivamente después de insultar a Nadine Morano en 2013 ?",
+          "propositions": [
+            "Nicolas Canteloup",
+            "Laurent Baffie",
+            "Élie Semoun",
+            "Guy Bedos"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "Durante uno de sus espectáculos, Guy Bedos no dudó en insultar a Nadine Morano, quien había recurrido ante la justicia."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "¿A quién anunció Elle Macpherson el divorcio en 2017 después de cuatro años de matrimonio ?",
+          "propositions": [
+            "Norma Macdonald",
+            "Billy Joel",
+            "Jeff Soffer",
+            "Gilles Bensimon"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "Después de casi cuatro años de matrimonio con su multimillonario, es el regreso al celibato de The Body, el top australiano de 53 años."
+        },
+        {
+          "id": 12,
+          "question": "¿Quién dijo sí a Gian Luca Passi de Preposulo en la casa familiar del novio ?",
+          "propositions": [
+            "Brie Larson",
+            "Cate Blanchett",
+            "Jessica Chastain",
+            "Julianne Moore"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain es conocida por preparar intensamente sus papeles que generalmente son de naturaleza emocionalmente exigente."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué cantante lanzó un sencillo en honor a George Michael el 23 de junio de 2017 ?",
+          "propositions": [
+            "Melanie Brown",
+            "Emma Bunton",
+            "Geri Halliwell",
+            "Victoria Beckham"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "Para honrar la memoria de su amigo George Michael, la ex Spice Girl Geri Halliwell decidió rendirle homenaje en la música."
+        },
+        {
+          "id": 14,
+          "question": "¿Qué cantante y actriz (finalmente) afirmó ser ella misma con The Weeknd ?",
+          "propositions": [
+            "Lucy Hale",
+            "Sofia Carson",
+            "Hilary Duff",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "Gracias a la serie « The Wizards of Waverly Place », en Disney Channel, Selena Gomez se dio a conocer entre el público joven."
+        },
+        {
+          "id": 15,
+          "question": "¿Quién tomó la cabeza de « Télématin » después de la partida de William Leymergie en C8 ?",
+          "propositions": [
+            "Audrey Pulvar",
+            "Louis Laforge",
+            "Laurent Bignolas",
+            "Catherine Matausch"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "En 1999, Laurent Bignolas cruzó el Atlántico y obtuvo un oro de 7 en 2000 por « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué seductor de los reality shows estadounidenses se llama El Señor ?",
+          "propositions": [
+            "Brandon Jenner",
+            "Jonathan Cheban",
+            "Lamar Odom",
+            "Scott Disick"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick multiplica las aventuras sin mañana desde su ruptura con Kourtney Kardashian luego de su adicción al sexo."
+        },
+        {
+          "id": 17,
+          "question": "¿Qué director francés a menudo se confunde con el actor Kad Merad ?",
+          "propositions": [
+            "Cédric Klapisch",
+            "François Ozon",
+            "Patrice Chéreau",
+            "Mathieu Kassovitz"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Cansado de tener que rectificar a los fanáticos del actor en la calle, el director algo resignado terminó jugando el juego."
+        },
+        {
+          "id": 18,
+          "question": "¿Cuánto obtuvo Johnny Hallyday por cada concierto de « Vieilles canailles » ?",
+          "propositions": [
+            "150,000 euros",
+            "120,000 euros",
+            "60,000 euros",
+            "90,000 euros"
+          ],
+          "réponse": "150,000 euros",
+          "anecdote": "Si su presencia ha sido incierta por su estado de salud, Johnny Hallyday ha confirmado su participación en los conciertos."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué cantante de « Power » celebró su 40 cumpleaños en junio de 2017 ?",
+          "propositions": [
+            "John Legend",
+            "Common",
+            "Big Sean",
+            "Kanye West"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Para consternación de la derecha evangélica cristiana, el artista, un cabello narcisista, no duda en compararse con Jesucristo."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué cantante colaboró \u200b\u200bcon David Guetta y los Ángeles de Victoria's Secret ?",
+          "propositions": [
+            "Justin Timberlake",
+            "Justin Bieber",
+            "Usher",
+            "Chris Brown"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber colaboró con David Guetta para la música y con Sara Sampaio y Elsa Hosk en el clip de acompañamiento."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "¿Quién dijo: « reírse del terrorismo no es políticamente correcto sino esencial » ?",
+          "propositions": [
+            "Alex Vizorek",
+            "Jean-Luc Lemoine",
+            "François Rollin",
+            "Élie Semoun"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun es una de las celebridades francesas que ha expresado sus temores ante el anuncio de la victoria de Donald Trump."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué locutor de radio vio su restaurante en Lège-Cap-Ferret devastado por las llamas ?",
+          "propositions": [
+            "Alexandre Devoise",
+            "Laurent Baffie",
+            "Camille Combal",
+            "Manu Levy"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy se dio a conocer bajo el seudónimo de « Maître Lévy » al organizar programas junto a Arthur."
+        },
+        {
+          "id": 23,
+          "question": "¿Qué futbolista Angers murió en un violento accidente automovilístico en Brasil ?",
+          "propositions": [
+            "Yves Deroff",
+            "Jérémy Henin",
+            "Jonas Pessalli",
+            "Olivier Auriac"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "El 1 de febrero de 2016, en las últimas horas de la ventana de transferencia, Jonas-Henrique Pessalli se inscribió con Luçon, el club nacional."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué niña de 18 meses pasó casi un año durmiendo sin interrupción ?",
+          "propositions": [
+            "Isolda Dychauk",
+            "Anya Metyolkina",
+            "Coralie Porrovecchio",
+            "Yuliya Snigir"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "Los médicos de todo el mundo están intrigados por este bebé dormido que pasa la mayor parte del tiempo durmiendo."
+        },
+        {
+          "id": 25,
+          "question": "¿Qué actor recibió una fuerte sentencia en 22017 en apelación por haber volcado a un peatón ?",
+          "propositions": [
+            "Olivier Gourmet",
+            "Jean Dujardin",
+            "Vincent Lindon",
+            "Benoît Magimel"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "En 2016, Benoît Magimel fue multado con 3."
+        },
+        {
+          "id": 26,
+          "question": "¿A quién utilizó la marca Ikea para rediseñar su bolsa ?",
+          "propositions": [
+            "Michael Kors",
+            "Julie Meuriss",
+            "Virgil Abloh",
+            "Mandy Harvey"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "El director artístico de la marca Off-White ahora colabora con el gigante del mueble para crear creaciones únicas."
+        },
+        {
+          "id": 27,
+          "question": "¿Qué estrella de « Angels » apareció en 2017 en los autobuses RATP ?",
+          "propositions": [
+            "Coralie Porrovecchio",
+            "Aurélie Preston",
+            "Sarah Fraisou",
+            "Mélanie Da Cruz"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "El principio del programa es hacer que los antiguos candidatos de reality shows cohabiten en una villa ubicada en una ciudad famosa."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué CEO y estrella publicitaria Rozana nos dejó en junio de 2017 ?",
+          "propositions": [
+            "Axel Dumas",
+            "Paul Hermelin",
+            "Arthur Bricout",
+            "Pierre Papillaud"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, empresario, rostro de la marca Rozana y CEO de la compañía Roxane, falleció a los 81 años."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué joven cantante sordo molestó a « America's Got Talent » ?",
+          "propositions": [
+            "Mandy Harvey",
+            "Drew Lynch",
+            "Grace VanderWaal",
+            "Emily West"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Gracias a su talento y su coraje, molestó al jurado y al público de la versión estadounidense de « Francia tiene un talento increíble »."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué héroe de « Primeros besos » se casó con Raquel Chouiti ?",
+          "propositions": [
+            "Gérard Pinteau",
+            "Anthony Dupray",
+            "Pierre Deny",
+            "Cyril Aubin"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray hizo su debut en 1992 en un anuncio de Étienne Chatiliez. Él disparará a otros en Francia y en el extranjero."
+        }
+      ]
+    },
+    "it": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Di quali mani Anne-Elisabeth Lemoine ha ricevuto le chiavi di « C à Vous \u003c/I\u003e ?",
+          "propositions": [
+            "Alessandra Sublet",
+            "Daphné Bürki",
+            "Anne-Sophie Lapix",
+            "Julie Andrieu"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "Il 12 giugno 2017, Anne-Sophie Lapix ha compiuto questo gesto molto simbolico nei confronti di chi le succederà alla presentazione dello spettacolo."
+        },
+        {
+          "id": 2,
+          "question": "Quale animatore francese era « In the wild » a giugno 2017 ?",
+          "propositions": [
+            "T. Ardisson",
+            "J.-P. Foucault",
+            "S. Bern",
+            "C. Dechavanne"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "Il 12 giugno 2017, gli spettatori hanno scoperto i cinque giorni che Christophe Dechavanne ha trascorso con Mike Horn, in Venezuela."
+        },
+        {
+          "id": 3,
+          "question": "Quale puledro di Mr. Pokora ha vinto la sesta stagione del programma televisivo « The Voice » ?",
+          "propositions": [
+            "Lisandro Cuxi",
+            "Ann-Shirley",
+            "Marius",
+            "Dilomé"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi ha vinto la finale con il 34 % dei voti, davanti a Vincent Vinel, Nicola Cavallaro e Lucie."
+        },
+        {
+          "id": 4,
+          "question": "Quale anniversario ha celebrato Denis Brogniart a giugno 2017 ?",
+          "propositions": [
+            "I suoi 30 anni",
+            "I suoi 50 anni",
+            "I suoi 60 anni",
+            "I suoi 40 anni"
+          ],
+          "réponse": "I suoi 50 anni",
+          "anecdote": "Un compleanno che Denis Brogniart ha voluto celebrare rendendo omaggio a suo padre, che è morto prima di raggiungere lo stesso traguardo."
+        },
+        {
+          "id": 5,
+          "question": "In quale città della Francia la coppia Macron ha una seconda casa ?",
+          "propositions": [
+            "Ardres",
+            "Le Touquet",
+            "Carvin",
+            "Bethune"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "Per celebrare il centenario della stazione il 28 marzo 2012, il comune ha cercato di renderla la stazione dell'eleganza."
+        },
+        {
+          "id": 6,
+          "question": "Chi era imperiale al Roland-Garros nel 2017, di fronte al suo tesoro e alla sua graziosa sorellina ?",
+          "propositions": [
+            "Rafael Nadal",
+            "Novak Djokovic",
+            "Roger Federer",
+            "Stanislas Wawrinka"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador è stato incoronato per la decima volta nel 2017 sull'argilla parigina, per l'orgoglio più grande dei suoi cari."
+        },
+        {
+          "id": 7,
+          "question": "Chi ha presentato dal 12 giugno 2017 un nuovissimo spettacolo, « The Dress of My Life » ?",
+          "propositions": [
+            "Anne-Sophie Lapix",
+            "Cristina Cordula",
+            "Sophie Davant",
+            "Alessandra Sublet"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "La regina dello shopping, che ha appena sposato il suo partner, coglie l'occasione per dare consigli su come realizzare un matrimonio di successo."
+        },
+        {
+          "id": 8,
+          "question": "Chi è succeduto a Laurie Cholewa alla guida dell'animazione per « Nouvelle Star » ?",
+          "propositions": [
+            "Shy'm",
+            "Virginie Efira",
+            "Virginie Guilhaume",
+            "Cyril Hanouna"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "Nel 2011, Shy'm ha partecipato e vinto la seconda stagione dello spettacolo televisivo « Dance with the Stars »."
+        },
+        {
+          "id": 9,
+          "question": "Quale conduttore ha concluso 16 anni di notizie televisive su France 2 a giugno 2017 ?",
+          "propositions": [
+            "Claude Sérillon",
+            "David Pujadas",
+            "Bruno Masure",
+            "Daniel Bilalian"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "Un arrivederci alla presenza di genitori, colleghi, amici e parenti, tutti venuti per ringraziarlo per l'occasione."
+        },
+        {
+          "id": 10,
+          "question": "Quale umorista è stato sicuramente rilasciato dopo aver insultato Nadine Morano nel 2013 ?",
+          "propositions": [
+            "Nicolas Canteloup",
+            "Laurent Baffie",
+            "Guy Bedos",
+            "Élie Semoun"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "Durante uno dei suoi spettacoli, Guy Bedos non ha esitato a insultare Nadine Morano che aveva fatto appello alla giustizia."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Chi ha annunciato il divorzio Elle Macpherson nel 2017 dopo quattro anni di matrimonio ?",
+          "propositions": [
+            "Gilles Bensimon",
+            "Jeff Soffer",
+            "Norm Macdonald",
+            "Billy Joel"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "Dopo quasi quattro anni di matrimonio con il suo miliardario, è il ritorno al celibato di The Body, il top australiano di 53 anni."
+        },
+        {
+          "id": 12,
+          "question": "Chi ha detto di sì a Gian Luca Passi de Preposulo nella casa di famiglia dello sposo ?",
+          "propositions": [
+            "Jessica Chastain",
+            "Cate Blanchett",
+            "Julianne Moore",
+            "Brie Larson"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain è nota per aver preparato intensamente i suoi ruoli che sono generalmente di natura emotivamente impegnativa."
+        },
+        {
+          "id": 13,
+          "question": "Quale cantante ha pubblicato un singolo in onore di George Michael il 23 giugno 2017 ?",
+          "propositions": [
+            "Emma Bunton",
+            "Geri Halliwell",
+            "Victoria Beckham",
+            "Melanie Brown"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "Per onorare il ricordo del suo amico George Michael, l'ex ragazza delle spezie Geri Halliwell ha deciso di rendergli omaggio in musica."
+        },
+        {
+          "id": 14,
+          "question": "Quale cantante e attrice (finalmente) ha affermato di essere se stessa con The Weeknd ?",
+          "propositions": [
+            "Hilary Duff",
+            "Sofia Carson",
+            "Lucy Hale",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "È grazie alla serie « The Wizards of Waverly Place », sul canale Disney, che Selena Gomez è diventata nota al pubblico giovane."
+        },
+        {
+          "id": 15,
+          "question": "Chi ha preso la testa di « Télématin » dopo la partenza di William Leymergie su C8 ?",
+          "propositions": [
+            "Audrey Pulvar",
+            "Louis Laforge",
+            "Catherine Matausch",
+            "Laurent Bignolas"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "Nel 1999, Laurent Bignolas navigò attraverso l'Atlantico e ottenne un 7 oro nel 2000 per « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "Quale seduttore della reality TV americana si chiama The Lord ?",
+          "propositions": [
+            "Lamar Odom",
+            "Scott Disick",
+            "Brandon Jenner",
+            "Jonathan Cheban"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick moltiplica le avventure senza domani dalla sua rottura con Kourtney Kardashian a seguito della sua dipendenza dal sesso."
+        },
+        {
+          "id": 17,
+          "question": "Quale regista francese è spesso confuso con l'attore Kad Merad ?",
+          "propositions": [
+            "Patrice Chéreau",
+            "Cédric Klapisch",
+            "François Ozon",
+            "Mathieu Kassovitz"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Stanco di dover rettificare i fan dell'attore per strada, il regista in qualche modo rassegnato ha finito per giocare."
+        },
+        {
+          "id": 18,
+          "question": "Quanto ha ricevuto Johnny Hallyday per ogni concerto di « Vieilles canailles » ?",
+          "propositions": [
+            "120.000 euro",
+            "150.000 euro",
+            "60.000 euro",
+            "90.000 euro"
+          ],
+          "réponse": "150.000 euro",
+          "anecdote": "Se la sua presenza è stata a lungo incerta a causa del suo stato di salute, Johnny Hallyday ha confermato la sua partecipazione ai concerti."
+        },
+        {
+          "id": 19,
+          "question": "Quale cantante « Power » ha festeggiato il suo 40 ° compleanno a giugno 2017 ?",
+          "propositions": [
+            "Kanye West",
+            "Common",
+            "John Legend",
+            "Big Sean"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Con sgomento del diritto cristiano evangelico, l'artista, un pelo narcisistico, non esita a paragonarsi a Gesù Cristo."
+        },
+        {
+          "id": 20,
+          "question": "Quale cantante ha collaborato con David Guetta e gli Angeli di Victoria's Secret ?",
+          "propositions": [
+            "Chris Brown",
+            "Justin Timberlake",
+            "Justin Bieber",
+            "Usher"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber ha collaborato con David Guetta per la musica e con Sara Sampaio ed Elsa Hosk nella clip di accompagnamento."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Chi ha detto: « Ridere del terrorismo non è politicamente corretto ma essenziale » ?",
+          "propositions": [
+            "Jean-Luc Lemoine",
+            "Alex Vizorek",
+            "François Rollin",
+            "Élie Semoun"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun è una delle celebrità francesi ad aver espresso le proprie paure nell'annuncio della vittoria di Donald Trump."
+        },
+        {
+          "id": 22,
+          "question": "Quale conduttore radiofonico ha visto il suo ristorante a Lège-Cap-Ferret devastato dalle fiamme ?",
+          "propositions": [
+            "Manu Levy",
+            "Alexandre Devoise",
+            "Camille Combal",
+            "Laurent Baffie"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy si è fatto conoscere sotto lo pseudonimo di « Maître Lévy » ospitando programmi insieme a Arthur."
+        },
+        {
+          "id": 23,
+          "question": "Quale calciatore di Angers è morto in un violento incidente d'auto in Brasile ?",
+          "propositions": [
+            "Olivier Auriac",
+            "Yves Deroff",
+            "Jonas Pessalli",
+            "Jérémy Henin"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "Il 1 ° febbraio 2016, nelle ultime ore della finestra di trasferimento, Jonas-Henrique Pessalli ha firmato con Luçon, il club nazionale."
+        },
+        {
+          "id": 24,
+          "question": "Quale ragazza di 18 mesi ha trascorso quasi un anno a dormire senza interruzione ?",
+          "propositions": [
+            "Isolda Dychauk",
+            "Coralie Porrovecchio",
+            "Anya Metyolkina",
+            "Yuliya Snigir"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "I medici di tutto il mondo sono incuriositi da questo bambino addormentato che passa la maggior parte del tempo a dormire."
+        },
+        {
+          "id": 25,
+          "question": "Quale attore ha ricevuto una pesante condanna nel 22017 in appello per aver rovesciato un pedone ?",
+          "propositions": [
+            "Benoît Magimel",
+            "Jean Dujardin",
+            "Olivier Gourmet",
+            "Vincent Lindon"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "Nel 2016, Benoît Magimel è stato multato di  3."
+        },
+        {
+          "id": 26,
+          "question": "Chi ha usato il marchio Ikea per ridisegnare la sua borsa ?",
+          "propositions": [
+            "Virgil Abloh",
+            "Julie Meuriss",
+            "Mandy Harvey",
+            "Michael Kors"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "Il direttore artistico del marchio Off-White ora collabora con il colosso del mobile per creazioni uniche."
+        },
+        {
+          "id": 27,
+          "question": "Quale stella « Angeli » è apparsa nel 2017 sugli autobus RATP ?",
+          "propositions": [
+            "Mélanie Da Cruz",
+            "Sarah Fraisou",
+            "Coralie Porrovecchio",
+            "Aurélie Preston"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "Il principio dello spettacolo è far convivere gli ex candidati alla reality TV in una villa situata in una città famosa."
+        },
+        {
+          "id": 28,
+          "question": "Quale CEO e stella pubblicitaria Rozana ci ha lasciato a giugno 2017 ?",
+          "propositions": [
+            "Arthur Bricout",
+            "Paul Hermelin",
+            "Axel Dumas",
+            "Pierre Papillaud"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, uomo d'affari, volto del marchio Rozana e CEO della società Roxane, è morto all'età di 81 anni."
+        },
+        {
+          "id": 29,
+          "question": "Quale giovane cantante sordo ha sconvolto « America's Got Talent » ?",
+          "propositions": [
+            "Drew Lynch",
+            "Emily West",
+            "Mandy Harvey",
+            "Grace VanderWaal"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Grazie al suo talento e al suo coraggio, ha sconvolto la giuria e il pubblico della versione americana di « Francia ha un talento incredibile »."
+        },
+        {
+          "id": 30,
+          "question": "Quale eroe di « First kisses » ha sposato Raquel Chouiti ?",
+          "propositions": [
+            "Pierre Deny",
+            "Cyril Aubin",
+            "Gérard Pinteau",
+            "Anthony Dupray"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray ha debuttato nel 1992 in una pubblicità per Étienne Chatiliez. Sparerà ad altri in Francia e all'estero."
+        }
+      ]
+    },
+    "nl": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Wiens handen heeft Anne-Elisabeth Lemoine de sleutels van « C à Vous \\u003c/I\\u003e gekregen ?",
+          "propositions": [
+            "Julie Andrieu",
+            "Daphné Bürki",
+            "Alessandra Onderverhuur",
+            "Anne-Sophie Lapix"
+          ],
+          "réponse": "Anne-Sophie Lapix",
+          "anecdote": "Op 12 juni 2017 maakte Anne-Sophie Lapix dit zeer symbolische gebaar naar degene die haar zal opvolgen bij de presentatie van de show."
+        },
+        {
+          "id": 2,
+          "question": "Welke Franse animator was in juni 2017 « In the wild » ?",
+          "propositions": [
+            "J.-P. Foucault",
+            "T. Ardisson",
+            "S. Bern",
+            "C. Dechavanne"
+          ],
+          "réponse": "C. Dechavanne",
+          "anecdote": "Op 12 juni 2017 ontdekten kijkers de vijf dagen die Christophe Dechavanne met Mike Horn in Venezuela doorbracht."
+        },
+        {
+          "id": 3,
+          "question": "Welk veulen van Mr. Pokora won seizoen 6 van het televisieprogramma « The Voice » ?",
+          "propositions": [
+            "Marius",
+            "Lisandro Cuxi",
+            "Ann-Shirley",
+            "Dilomé"
+          ],
+          "réponse": "Lisandro Cuxi",
+          "anecdote": "Lisandro Cuxi won de finale met 34 % van de stemmen, voor Vincent Vinel, Nicola Cavallaro en Lucie."
+        },
+        {
+          "id": 4,
+          "question": "Welk jubileum vierde Denis Brogniart in juni 2017 ?",
+          "propositions": [
+            "Zijn 40 jaar",
+            "Zijn 60 jaar",
+            "Zijn 50 jaar",
+            "Zijn 30 jaar"
+          ],
+          "réponse": "Zijn 50 jaar",
+          "anecdote": "Een verjaardag die Denis Brogniart wilde markeren door hulde te brengen aan zijn vader, die stierf voordat hij dezelfde mijlpaal bereikte."
+        },
+        {
+          "id": 5,
+          "question": "In welke stad in Frankrijk heeft het echtpaar Macron een tweede huis ?",
+          "propositions": [
+            "Ardres",
+            "Carvin",
+            "Le Touquet",
+            "Bethune"
+          ],
+          "réponse": "Le Touquet",
+          "anecdote": "Om de 28e verjaardag van het station op 28 maart 2012 te vieren, probeerde de gemeente het station van elegantie te maken."
+        },
+        {
+          "id": 6,
+          "question": "Wie was in 2017 keizerlijk op Roland-Garros, voor zijn geliefde en zijn knappe kleine zusje ?",
+          "propositions": [
+            "Stanislas Wawrinka",
+            "Roger Federer",
+            "Novak Djokovic",
+            "Rafael Nadal"
+          ],
+          "réponse": "Rafael Nadal",
+          "anecdote": "El Matador werd in 2017 voor de tiende keer gekroond op Parijse klei, voor de grootste trots van zijn dierbaren."
+        },
+        {
+          "id": 7,
+          "question": "Wie heeft sinds 12 juni 2017 een gloednieuwe show gepresenteerd, « The Dress of My Life » ?",
+          "propositions": [
+            "Cristina Cordula",
+            "Anne-Sophie Lapix",
+            "Alessandra Sublet",
+            "Sophie Davant"
+          ],
+          "réponse": "Cristina Cordula",
+          "anecdote": "De koningin van het winkelen, die net met haar partner is getrouwd, maakt van de gelegenheid gebruik om advies te geven over het tot stand brengen van een succesvol huwelijk."
+        },
+        {
+          "id": 8,
+          "question": "Wie volgde Laurie Cholewa op aan het roer van de animatie voor « Nouvelle Star » ?",
+          "propositions": [
+            "Virginie Guilhaume",
+            "Cyril Hanouna",
+            "Virginie Efira",
+            "Shy'm"
+          ],
+          "réponse": "Shy'm",
+          "anecdote": "In 2011 nam Shy'm deel en won het tweede seizoen van de televisieshow « Dance with the Stars »."
+        },
+        {
+          "id": 9,
+          "question": "Welke gastheer eindigde 16 jaar televisienieuws over France 2 in juni 2017 ?",
+          "propositions": [
+            "Bruno Masure",
+            "Daniel Bilalian",
+            "Claude Sérillon",
+            "David Pujadas"
+          ],
+          "réponse": "David Pujadas",
+          "anecdote": "Een afscheid dat plaatsvond in aanwezigheid van zijn ouders, collega's, vrienden en familieleden, die hem allemaal kwamen bedanken voor de gelegenheid."
+        },
+        {
+          "id": 10,
+          "question": "Welke humorist kwam zeker vrij na het beledigen van Nadine Morano in 2013 ?",
+          "propositions": [
+            "Guy Bedos",
+            "Nicolas Canteloup",
+            "Élie Semoun",
+            "Laurent Baffie"
+          ],
+          "réponse": "Guy Bedos",
+          "anecdote": "Tijdens een van zijn shows aarzelde Guy Bedos niet om Nadine Morano, die een beroep op de rechter had gedaan, te beledigen."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Wie heeft Elle Macpherson de scheiding in 2017 aangekondigd na vier jaar huwelijk ?",
+          "propositions": [
+            "Billy Joel",
+            "Jeff Soffer",
+            "Norm Macdonald",
+            "Gilles Bensimon"
+          ],
+          "réponse": "Jeff Soffer",
+          "anecdote": "Na bijna vier jaar huwelijk met zijn miljardair is het de terugkeer naar het celibaat voor The Body, de Australische top van 53 jaar."
+        },
+        {
+          "id": 12,
+          "question": "Wie zei ja tegen Gian Luca Passi de Preposulo in het ouderlijk huis van de bruidegom ?",
+          "propositions": [
+            "Cate Blanchett",
+            "Jessica Chastain",
+            "Julianne Moore",
+            "Brie Larson"
+          ],
+          "réponse": "Jessica Chastain",
+          "anecdote": "Jessica Chastain staat bekend om het intensief voorbereiden van haar rollen, die over het algemeen emotioneel veeleisend zijn."
+        },
+        {
+          "id": 13,
+          "question": "Welke zanger bracht op 23 juni 2017 een single uit ter ere van George Michael ?",
+          "propositions": [
+            "Geri Halliwell",
+            "Emma Bunton",
+            "Melanie Brown",
+            "Victoria Beckham"
+          ],
+          "réponse": "Geri Halliwell",
+          "anecdote": "Om de nagedachtenis van zijn vriend George Michael te eren, besloot de ex Spice Girl Geri Halliwell hem een \u200b\u200beerbetoon te brengen in de muziek."
+        },
+        {
+          "id": 14,
+          "question": "Welke zangeres en actrice beweerde (eindelijk) zichzelf te zijn bij The Weeknd ?",
+          "propositions": [
+            "Hilary Duff",
+            "Lucy Hale",
+            "Sofia Carson",
+            "Selena Gomez"
+          ],
+          "réponse": "Selena Gomez",
+          "anecdote": "Dankzij de serie « The Wizards of Waverly Place », op het Disney Channel, werd Selena Gomez bekend bij een jong publiek."
+        },
+        {
+          "id": 15,
+          "question": "Wie nam het hoofd van « Télématin » over na het vertrek van William Leymergie op de C8 ?",
+          "propositions": [
+            "Laurent Bignolas",
+            "Audrey Pulvar",
+            "Catherine Matausch",
+            "Louis Laforge"
+          ],
+          "réponse": "Laurent Bignolas",
+          "anecdote": "In 1999 zeilde Laurent Bignolas de Atlantische Oceaan over en behaalde in 2000 een 7 goud voor « Faut pas rêver »."
+        },
+        {
+          "id": 16,
+          "question": "Welke verleider van de Amerikaanse reality-tv heet The Lord ?",
+          "propositions": [
+            "Lamar Odom",
+            "Scott Disick",
+            "Jonathan Cheban",
+            "Brandon Jenner"
+          ],
+          "réponse": "Scott Disick",
+          "anecdote": "Scott Disick vermenigvuldigt de avonturen zonder morgen sinds zijn breuk met Kourtney Kardashian na zijn seksverslaving."
+        },
+        {
+          "id": 17,
+          "question": "Welke Franse regisseur wordt vaak verward met acteur Kad Merad ?",
+          "propositions": [
+            "Mathieu Kassovitz",
+            "Cédric Klapisch",
+            "François Ozon",
+            "Patrice Chéreau"
+          ],
+          "réponse": "Cédric Klapisch",
+          "anecdote": "Moe van het moeten corrigeren van de fans van de acteur op straat, speelde de enigszins afgetreden regisseur het spel uiteindelijk."
+        },
+        {
+          "id": 18,
+          "question": "Hoeveel kreeg Johnny Hallyday voor elk « Vieilles canailles » concert ?",
+          "propositions": [
+            "150.000 euro",
+            "60.000 euro",
+            "90.000 euro",
+            "120.000 euro"
+          ],
+          "réponse": "150.000 euro",
+          "anecdote": "Als zijn aanwezigheid al lang onzeker was vanwege zijn gezondheidstoestand, heeft Johnny Hallyday zijn deelname aan de concerten bevestigd."
+        },
+        {
+          "id": 19,
+          "question": "Welke « Power » zangeres vierde in juni 2017 zijn 40e verjaardag ?",
+          "propositions": [
+            "Kanye West",
+            "Big Sean",
+            "Common",
+            "John Legend"
+          ],
+          "réponse": "Kanye West",
+          "anecdote": "Tot grote ongenoegen van het evangelisch christelijk recht aarzelt de kunstenaar, een narcistisch haar, niet om zichzelf te vergelijken met Jezus Christus."
+        },
+        {
+          "id": 20,
+          "question": "Welke zanger werkte samen met David Guetta en de Angels of Victoria's Secret ?",
+          "propositions": [
+            "Justin Timberlake",
+            "Justin Bieber",
+            "Chris Brown",
+            "Usher"
+          ],
+          "réponse": "Justin Bieber",
+          "anecdote": "Justin Bieber werkte samen met David Guetta voor de muziek en met Sara Sampaio en Elsa Hosk in de begeleidende clip."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Wie zei: « lachen om terrorisme is niet politiek correct maar essentieel » ?",
+          "propositions": [
+            "Alex Vizorek",
+            "François Rollin",
+            "Élie Semoun",
+            "Jean-Luc Lemoine"
+          ],
+          "réponse": "Élie Semoun",
+          "anecdote": "Élie Semoun is een van de Franse beroemdheden die hun angst heeft geuit bij de aankondiging van de overwinning van Donald Trump."
+        },
+        {
+          "id": 22,
+          "question": "Welke radiopresentator zag zijn restaurant in Lège-Cap-Ferret geteisterd door vlammen ?",
+          "propositions": [
+            "Camille Combal",
+            "Alexandre Devoise",
+            "Laurent Baffie",
+            "Manu Levy"
+          ],
+          "réponse": "Manu Levy",
+          "anecdote": "Emmanuel Levy maakte zich bekend onder het pseudoniem « Maître Lévy » door naast Arthur programma's te hosten."
+        },
+        {
+          "id": 23,
+          "question": "Welke voetballer van Angers is omgekomen bij een gewelddadig auto-ongeluk in Brazilië ?",
+          "propositions": [
+            "Jonas Pessalli",
+            "Jérémy Henin",
+            "Yves Deroff",
+            "Olivier Auriac"
+          ],
+          "réponse": "Jonas Pessalli",
+          "anecdote": "Op 1 februari 2016, in de laatste uren van de transferperiode, schreef Jonas-Henrique Pessalli zich in bij Luçon, de nationale club."
+        },
+        {
+          "id": 24,
+          "question": "Welk meisje van 18 maanden bracht bijna een jaar bijna continu door met slapen ?",
+          "propositions": [
+            "Anya Metyolkina",
+            "Yuliya Snigir",
+            "Isolda Dychauk",
+            "Coralie Porrovecchio"
+          ],
+          "réponse": "Anya Metyolkina",
+          "anecdote": "Artsen over de hele wereld zijn geïntrigeerd door deze slapende baby die het grootste deel van zijn tijd slaapt."
+        },
+        {
+          "id": 25,
+          "question": "Welke acteur kreeg in 22017 in hoger beroep een zware straf opgelegd wegens het omverwerpen van een voetganger ?",
+          "propositions": [
+            "Vincent Lindon",
+            "Olivier Gourmet",
+            "Benoît Magimel",
+            "Jean Dujardin"
+          ],
+          "réponse": "Benoît Magimel",
+          "anecdote": "Benoît Magimel kreeg in 2016 een boete van  3."
+        },
+        {
+          "id": 26,
+          "question": "Wie heeft het merk Ikea gebruikt om zijn draagtas opnieuw te ontwerpen ?",
+          "propositions": [
+            "Julie Meuriss",
+            "Mandy Harvey",
+            "Michael Kors",
+            "Virgil Abloh"
+          ],
+          "réponse": "Virgil Abloh",
+          "anecdote": "De artistiek leider van het merk Off-White werkt nu samen met de meubelgigant voor unieke creaties."
+        },
+        {
+          "id": 27,
+          "question": "Welke « Angels » ster verscheen in 2017 op RATP-bussen ?",
+          "propositions": [
+            "Aurélie Preston",
+            "Coralie Porrovecchio",
+            "Mélanie Da Cruz",
+            "Sarah Fraisou"
+          ],
+          "réponse": "Coralie Porrovecchio",
+          "anecdote": "Het principe van de show is om voormalige reality-tv-kandidaten samen te laten wonen in een villa in een beroemde stad."
+        },
+        {
+          "id": 28,
+          "question": "Welke CEO en reclamester Rozana verliet ons in juni 2017 ?",
+          "propositions": [
+            "Paul Hermelin",
+            "Arthur Bricout",
+            "Axel Dumas",
+            "Pierre Papillaud"
+          ],
+          "réponse": "Pierre Papillaud",
+          "anecdote": "Pierre Papillaud, zakenman, gezicht van het merk Rozana en CEO van het bedrijf Roxane, stierf op 81-jarige leeftijd."
+        },
+        {
+          "id": 29,
+          "question": "Welke jonge dove zangeres heeft « America's Got Talent » van streek gemaakt ?",
+          "propositions": [
+            "Mandy Harvey",
+            "Grace VanderWaal",
+            "Emily West",
+            "Drew Lynch"
+          ],
+          "réponse": "Mandy Harvey",
+          "anecdote": "Dankzij haar talent en haar moed verstoorde ze de jury en het publiek van de Amerikaanse versie van « Frankrijk heeft een ongelooflijk talent »."
+        },
+        {
+          "id": 30,
+          "question": "Welke held van « First kisses » trouwde met Raquel Chouiti ?",
+          "propositions": [
+            "Gérard Pinteau",
+            "Anthony Dupray",
+            "Cyril Aubin",
+            "Pierre Deny"
+          ],
+          "réponse": "Anthony Dupray",
+          "anecdote": "Anthony Dupray debuteerde in 1992 in een advertentie voor Étienne Chatiliez. Hij zal anderen fotograferen in Frankrijk en in het buitenland."
+        }
+      ]
+    }
+  }
+}

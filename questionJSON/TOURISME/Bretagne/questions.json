@@ -1,0 +1,376 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Bretagne (Entité culturelle à l'identité forte)",
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Combien de départements compte la Bretagne, à l'extrémité ouest de la France ?",
+          "propositions": [
+            "Deux",
+            "Cinq",
+            "Quatre",
+            "Trois"
+          ],
+          "réponse": "Quatre",
+          "anecdote": "La Bretagne est située entre la Manche au nord, la mer Celtique à l'ouest et le golfe de Gascogne au sud."
+        },
+        {
+          "id": 2,
+          "question": "Comment dit-on « Bretagne » en breton, langue parlée par 200 000 personnes en Bretagne ?",
+          "propositions": [
+            "Gomz",
+            "Breizh",
+            "Fenoz",
+            "Kerne"
+          ],
+          "réponse": "Breizh",
+          "anecdote": "La pratique traditionnelle du breton est majoritairement concentrée dans l'ouest de la péninsule."
+        },
+        {
+          "id": 3,
+          "question": "Quelle ville bretonne est connue pour ses alignements de plusieurs milliers de menhirs ?",
+          "propositions": [
+            "Lorient",
+            "Brest",
+            "Rumengol",
+            "Carnac"
+          ],
+          "réponse": "Carnac",
+          "anecdote": "Ce site mégalithique exceptionnel est constitué d'alignements de menhirs, de dolmens et d'allées couvertes."
+        },
+        {
+          "id": 4,
+          "question": "Quelle ville bretonne a pour habitants les briochins et les briochines ?",
+          "propositions": [
+            "Brest",
+            "Betton",
+            "Saint-Brieuc",
+            "Bruz"
+          ],
+          "réponse": "Saint-Brieuc",
+          "anecdote": "Préfecture des Côtes-d'Armor, Saint-Brieuc en est également la ville la plus peuplée."
+        },
+        {
+          "id": 5,
+          "question": "Quel symbole celtique à trois branches est devenu très populaire en Bretagne ?",
+          "propositions": [
+            "Chardon",
+            "Sablier",
+            "Flèche",
+            "Triskèle"
+          ],
+          "réponse": "Triskèle",
+          "anecdote": "Le triskèle est considéré comme une caractéristique importante de l'art celtique à l'époque de la Tène."
+        },
+        {
+          "id": 6,
+          "question": "Quels genres de musique sont célébrés tous les ans à Lorient ?",
+          "propositions": [
+            "Cubaines",
+            "Celtiques",
+            "Classiques",
+            "Religieuses"
+          ],
+          "réponse": "Celtiques",
+          "anecdote": "Le Festival interceltique de Lorient trouve son origine dans l'accueil en 1971 d'une compétition de bagadou."
+        },
+        {
+          "id": 7,
+          "question": "Quelle course à la voile est très souvent associée au port de Saint-Malo ?",
+          "propositions": [
+            "Transat anglaise",
+            "Spi Dauphine",
+            "Vendée Globe",
+            "Route du Rhum"
+          ],
+          "réponse": "Route du Rhum",
+          "anecdote": "Le record de la traversée est détenu depuis 2014 par Loïck Peyron sur le Maxi Solo BP VII."
+        },
+        {
+          "id": 8,
+          "question": "Quelle est la préfecture du Finistère, département situé en région Bretagne ?",
+          "propositions": [
+            "Brest",
+            "Nantes",
+            "Quimper",
+            "Vannes"
+          ],
+          "réponse": "Quimper",
+          "anecdote": "Le Finistère fut créé en 1790 à l'instar de la majorité des départements français."
+        },
+        {
+          "id": 9,
+          "question": "Combien peut-on compter de bandes noires et blanches sur le drapeau breton ?",
+          "propositions": [
+            "Cinq",
+            "Trois",
+            "Sept",
+            "Neuf"
+          ],
+          "réponse": "Neuf",
+          "anecdote": "Un canton supérieur (côté mât) de couleur blanche est quant à lui parsemé d'une multitude de mouchetures d'hermine."
+        },
+        {
+          "id": 10,
+          "question": "À partir de quelle substance est réalisé le chouchen, proche de l'hydromel ?",
+          "propositions": [
+            "Miel",
+            "Lait",
+            "Sirop de menthe",
+            "Foie gras"
+          ],
+          "réponse": "Miel",
+          "anecdote": "Le chouchen se fabriquait autrefois plus particulièrement à partir de miel de sarrasin, jadis très présent en Bretagne."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "En Haute-Bretagne, que désigne le gallo, faisant l'objet d'études universitaires ?",
+          "propositions": [
+            "Un oiseau",
+            "Un dessert",
+            "Une langue",
+            "Un symbole"
+          ],
+          "réponse": "Une langue",
+          "anecdote": "Contrairement au breton, le gallo ne bénéficie pas d'une longue tradition de défense et de protection."
+        },
+        {
+          "id": 12,
+          "question": "Quel festival a lieu tous les ans sur la commune de Carhaix-Plouguer, dans le Finistère ?",
+          "propositions": [
+            "Rocklang",
+            "Vieilles charrues",
+            "Europavox",
+            "Musicalarue"
+          ],
+          "réponse": "Vieilles charrues",
+          "anecdote": "Ce festival annuel dure quatre jours et débute à la mi-juillet dans la commune de Carhaix-Plouguer."
+        },
+        {
+          "id": 13,
+          "question": "Dans quel département français se dresse le phare de l'Île Vierge ?",
+          "propositions": [
+            "Côtes-d'Armor",
+            "Finistère",
+            "Morbihan",
+            "Île et Vilaine"
+          ],
+          "réponse": "Finistère",
+          "anecdote": "Ce phare fait l'objet d'un classement au titre des monuments historiques depuis le 23 mai 2011."
+        },
+        {
+          "id": 14,
+          "question": "Quelle ville est la capitale traditionnelle de la Cornouaille ?",
+          "propositions": [
+            "Lorient",
+            "Saint-Malo",
+            "Quimper",
+            "Morlaix"
+          ],
+          "réponse": "Quimper",
+          "anecdote": "Selon une étude réalisée en 2005, Quimper se classait en 22ème position des villes françaises où il faisait bon vivre."
+        },
+        {
+          "id": 15,
+          "question": "Dans quelle ville de Bretagne est situé le deuxième port militaire français ?",
+          "propositions": [
+            "Nantes",
+            "Vannes",
+            "Quimper",
+            "Brest"
+          ],
+          "réponse": "Brest",
+          "anecdote": "L'arsenal de Brest est un ensemble d'installations militaires et navales situé dans la rivière Penfeld, à Brest, dans le Finistère."
+        },
+        {
+          "id": 16,
+          "question": "Dans quelle ville de Bretagne peut-on admirer la cathédrale Saint-Pierre-et-Saint-Paul ?",
+          "propositions": [
+            "Lorient",
+            "Saint-Brieuc",
+            "Brest",
+            "Nantes"
+          ],
+          "réponse": "Nantes",
+          "anecdote": "On peut y admirer le tombeau et les gisants du duc François II de Bretagne et de son épouse Marguerite de Foix."
+        },
+        {
+          "id": 17,
+          "question": "Quel était l'ancien nom du département des Côtes-d'Armor ?",
+          "propositions": [
+            "Côtes du Roi",
+            "Côtes-du-Nord",
+            "Côtes ciselées",
+            "Côtes franches"
+          ],
+          "réponse": "Côtes-du-Nord",
+          "anecdote": "Les Côtes-d'Armor sont limitrophes du Finistère à l'ouest, du Morbihan au sud et de l'Ille-et-Vilaine à l'est."
+        },
+        {
+          "id": 18,
+          "question": "Quel célèbre navigateur et explorateur français est né à Saint-Malo en 1491 ?",
+          "propositions": [
+            "Jacques Cartier",
+            "Jean Dugain",
+            "Charles Levasseur",
+            "Albert Falco"
+          ],
+          "réponse": "Jacques Cartier",
+          "anecdote": "Un boulevard et une station du métro de Rennes portent le nom de Jacques Cartier, ainsi qu'un lycée public de Saint-Malo."
+        },
+        {
+          "id": 19,
+          "question": "Que mangerez-vous en achetant un petit-gris de Rennes sur un marché breton ?",
+          "propositions": [
+            "Sandwich",
+            "Melon",
+            "Bonbon",
+            "Saucisson"
+          ],
+          "réponse": "Melon",
+          "anecdote": "Il est caractérisé par une petite taille de fruit, une robe gris-verte et un goût très sucré."
+        },
+        {
+          "id": 20,
+          "question": "Quelle ville bretonne est surnommée « La cité des peintres » ?",
+          "propositions": [
+            "Carnac",
+            "Concarneau",
+            "Pont-Aven",
+            "Vannes"
+          ],
+          "réponse": "Pont-Aven",
+          "anecdote": "Pont-Aven était autrefois un bourg très animé : en 1900, on y comptait 40 hôtels, auberges et cafés."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Pour un breton, que représente le Gwenn ha Du, symbole de sa région ?",
+          "propositions": [
+            "Drapeau",
+            "Bateau",
+            "Château",
+            "Gâteau"
+          ],
+          "réponse": "Drapeau",
+          "anecdote": "D'autres drapeaux sont encore utilisés aujourd'hui afin de représenter cette région."
+        },
+        {
+          "id": 22,
+          "question": "En Bretagne, que pouvez-vous contempler en regardant la Table des Marchand ?",
+          "propositions": [
+            "Château-fort",
+            "Statue",
+            "Tableau",
+            "Dolmen"
+          ],
+          "réponse": "Dolmen",
+          "anecdote": "Propriété de l'État, le dolmen fait l'objet d'un classement au titre des monuments historiques depuis 1889."
+        },
+        {
+          "id": 23,
+          "question": "Dans quelle ville peut-on admirer le château des ducs de Bretagne ?",
+          "propositions": [
+            "Nantes",
+            "Lorient",
+            "Morlaix",
+            "Quimper"
+          ],
+          "réponse": "Nantes",
+          "anecdote": "Devenu propriété de la ville de Nantes en 1915, le château est affecté à un usage touristique et muséal depuis 1924."
+        },
+        {
+          "id": 24,
+          "question": "Quel écrivain a été enterré face à la mer sur le rocher du grand Bé, à Saint-Malo ?",
+          "propositions": [
+            "Rousseau",
+            "Balzac",
+            "Chateaubriand",
+            "Montesquieu"
+          ],
+          "réponse": "Chateaubriand",
+          "anecdote": "Chateaubriand est considéré comme l'un des précurseurs du romantisme français."
+        },
+        {
+          "id": 25,
+          "question": "Pour quelle culture la ville de Paimpol est-elle célèbre ?",
+          "propositions": [
+            "Pomme",
+            "Cerise jaune",
+            "Haricot sec",
+            "Raisin blanc"
+          ],
+          "réponse": "Haricot sec",
+          "anecdote": "Construite autour de ses bassins, Paimpol est l'un des principaux ports de pêche et de plaisance donnant sur la Manche."
+        },
+        {
+          "id": 26,
+          "question": "Dans quelle commune de France se trouve le monument mégalithique La Roche-aux-Fées ?",
+          "propositions": [
+            "Sainte-Colombe",
+            "Pont-Aven",
+            "Retiers",
+            "Essé"
+          ],
+          "réponse": "Essé",
+          "anecdote": "Son nom vient d'une légende prétendant que les pierres auraient été apportées par des fées."
+        },
+        {
+          "id": 27,
+          "question": "Quelle est la ville la plus importante et la plus touristique de Belle-Île-en-Mer ?",
+          "propositions": [
+            "Le Palais",
+            "Sauzon",
+            "Essé",
+            "Bangor"
+          ],
+          "réponse": "Le Palais",
+          "anecdote": "Belle-Île est un plateau d'origine volcanique essentiellement constitué de schiste décomposé."
+        },
+        {
+          "id": 28,
+          "question": "Pour quelle spécialité culinaire la ville de Guémené-sur-Scorff est-elle connue ?",
+          "propositions": [
+            "Saucisse",
+            "Boudin",
+            "Andouille",
+            "Haricot sec"
+          ],
+          "réponse": "Andouille",
+          "anecdote": "L'andouille de Guémené est une charcuterie à base de chaudins de porc enfilés les uns sur les autres pour former une andouille."
+        },
+        {
+          "id": 29,
+          "question": "Dans quelle ville de Bretagne se trouve la base de sous-marins de Keroman ?",
+          "propositions": [
+            "Lorient",
+            "Landerneau",
+            "Saint-Malo",
+            "Nantes"
+          ],
+          "réponse": "Lorient",
+          "anecdote": "Depuis la fin des années 1990, le site est reconverti en un pôle nautique spécialisé dans la plaisance et la course au large."
+        },
+        {
+          "id": 30,
+          "question": "Quel chef d'oeuvre architectural de la renaissance la ville de Pontivy abrite-t-elle ?",
+          "propositions": [
+            "Château",
+            "Ferme",
+            "Moulin",
+            "Eglise"
+          ],
+          "réponse": "Château",
+          "anecdote": "Le château de Pontivy est le lieu de la « déclaration d'indépendance bretonne » de 1940."
+        }
+      ]
+    }
+  }
+}
