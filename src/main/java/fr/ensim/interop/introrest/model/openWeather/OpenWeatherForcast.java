@@ -8,7 +8,7 @@ public class OpenWeatherForcast implements OpenWeather {
     private float lon;
     private String timezone;
     private float timezone_offset;
-    ArrayList<Object> daily = new ArrayList<Object>();
+    private ArrayList<Daily> daily = new ArrayList<Daily>();
 
 
     // Getter Methods
@@ -45,6 +45,14 @@ public class OpenWeatherForcast implements OpenWeather {
 
     public void setTimezone_offset( float timezone_offset ) {
         this.timezone_offset = timezone_offset;
+    }
+
+    public ArrayList<Daily> getDaily() {
+        return daily;
+    }
+
+    public void setDaily(ArrayList<Daily> daily) {
+        this.daily = daily;
     }
 }
 
