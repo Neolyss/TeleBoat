@@ -1,11 +1,14 @@
 package fr.ensim.interop.introrest.controller;
 
 import fr.ensim.interop.introrest.model.bot.MeteoObject;
+import fr.ensim.interop.introrest.model.joke.JokeDAO;
+import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
 import fr.ensim.interop.introrest.model.joke.Joke;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.RestController;
@@ -15,11 +18,8 @@ import java.net.URI;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.RestTemplate;
 
-import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.Arrays;
 
 @RestController
 public class MessageRestController {
@@ -34,6 +34,19 @@ public class MessageRestController {
 
 	@Value("${telegram.api.token}")
 	private String telegramApiToken;
+
+	@Value("${blagues.api.url}")
+	private String blaguesApiUrl;
+
+	@Value("${blagues.api.token}")
+	private String blaguesApiToken;
+
+	@Autowired
+	private JokeDAO jokeDAO;
+
+	@Autowired
+	private NotesDAO notesDAO;
+
 
 	//Opérations sur la ressource Message
 	@PostMapping("/message")
@@ -55,6 +68,20 @@ public class MessageRestController {
 				openWeatherUrl,
 				openWeatherToken
 		);
+	}
+
+	@GetMapping("/joke")
+	public Joke getJoke() throws Exception {
+		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
+		System.out.println(joke.joke);
+		System.out.println(joke.answer);
+		return joke;
+	}
+
+	@PostMapping("/joke")
+	public void postNoteJoke (@RequestParam(name = "note") int noteGET) {
+		Joke joke = new Joke();
+		JokeCall.addNote(notesDAO, joke, noteGET);
 	}
 }
 
@@ -103,13 +130,9 @@ final class OpenWeatherCall {
 	}
 }
 
-class JokeCall {
-//	@Value("${blagues.api.url}")
-	private static String blaguesApiUrl = "https://www.blagues-api.fr/";
-//	@Value("${blagues.api.token}")
-	private static String blaguesApiToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzM3NTMyNDg1NTM5ODU2Mzg1IiwibGltaXQiOjEwMCwia2V5IjoiU1E4V0F5UkdNUjV2WHFoOGxQY2tOeE1MYkNLS3JmMFlydXByS0ZCelNMdUN0cUZuc0wiLCJjcmVhdGVkX2F0IjoiMjAyMi0wNS0zMFQxNTozNzo1MiswMDowMCIsImlhdCI6MTY1MzkyNTA3Mn0.MMlUWx5kgfr0jQGYfg7yRhfKgZMKQDJk5H4qf2FhuWY";
+final class JokeCall {
 
-	public static Joke getJoke () throws Exception {
+	public static Joke getJoke (JokeDAO jokeDAO, NotesDAO notesDAO, String blaguesApiUrl, String blaguesApiToken) throws Exception {
 		RestTemplate restTemplate = new RestTemplate();
 		HttpHeaders headers = new HttpHeaders();
 		headers.setBearerAuth(blaguesApiToken);
@@ -117,13 +140,37 @@ class JokeCall {
 				new URI(blaguesApiUrl + "api/random")).headers(headers).build(), Joke.class);
 		if (responseJoke.getStatusCode() != HttpStatus.OK) throw new Exception("Code "+responseJoke.getStatusCode().value());
 		Joke aJoke =  responseJoke.getBody();
-//		aJoke.save();
+		notesDAO.save(aJoke.notes);
+		jokeDAO.save(aJoke);
 		return aJoke;
 	}
 
-	public static void main(String[] args) throws Exception {
-		Joke joke = JokeCall.getJoke();
-		System.out.println(joke.joke);
-		System.out.println(joke.answer);
+	public static boolean addNote (NotesDAO notesDAO, Joke joke, int note) {
+		boolean sucess = true;
+		switch (note) {
+			case 5 :
+				joke.notes.cinq++;
+				break;
+			case 4 :
+				joke.notes.quatre++;
+				break;
+			case 3 :
+				joke.notes.trois++;
+				break;
+			case 2 :
+				joke.notes.deux++;
+				break;
+			case 1 :
+				joke.notes.un++;
+				break;
+			case 0 :
+				joke.notes.zero++;
+				break;
+			default:
+				sucess = false;
+				break;
+		}
+		notesDAO.save(joke.notes);
+		return sucess;
 	}
 }
