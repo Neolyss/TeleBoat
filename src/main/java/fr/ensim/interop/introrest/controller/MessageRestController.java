@@ -1,13 +1,18 @@
 package fr.ensim.interop.introrest.controller;
 
 import fr.ensim.interop.introrest.model.bot.MeteoObject;
+import fr.ensim.interop.introrest.model.joke.JokeDAO;
+import fr.ensim.interop.introrest.model.joke.Notes;
+import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
 import fr.ensim.interop.introrest.model.joke.Joke;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
@@ -35,6 +40,19 @@ public class MessageRestController {
 	@Value("${telegram.api.token}")
 	private String telegramApiToken;
 
+	@Value("${blagues.api.url}")
+	private String blaguesApiUrl;
+
+	@Value("${blagues.api.token}")
+	private String blaguesApiToken;
+
+	@Autowired
+	private JokeDAO jokeDAO;
+
+	@Autowired
+	private NotesDAO notesDAO;
+
+
 	//Opérations sur la ressource Message
 	@PostMapping("/message")
 	public ResponseEntity<ApiResponseTelegram<Message>> sendMessage(@RequestBody MessageObject messageObject) throws URISyntaxException {
@@ -55,6 +73,14 @@ public class MessageRestController {
 				openWeatherUrl,
 				openWeatherToken
 		);
+	}
+
+	@GetMapping("/joke")
+	public Joke postJoke() throws Exception {
+		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
+		System.out.println(joke.joke);
+		System.out.println(joke.answer);
+		return joke;
 	}
 }
 
@@ -104,12 +130,8 @@ final class OpenWeatherCall {
 }
 
 class JokeCall {
-//	@Value("${blagues.api.url}")
-	private static String blaguesApiUrl = "https://www.blagues-api.fr/";
-//	@Value("${blagues.api.token}")
-	private static String blaguesApiToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzM3NTMyNDg1NTM5ODU2Mzg1IiwibGltaXQiOjEwMCwia2V5IjoiU1E4V0F5UkdNUjV2WHFoOGxQY2tOeE1MYkNLS3JmMFlydXByS0ZCelNMdUN0cUZuc0wiLCJjcmVhdGVkX2F0IjoiMjAyMi0wNS0zMFQxNTozNzo1MiswMDowMCIsImlhdCI6MTY1MzkyNTA3Mn0.MMlUWx5kgfr0jQGYfg7yRhfKgZMKQDJk5H4qf2FhuWY";
 
-	public static Joke getJoke () throws Exception {
+	public static Joke getJoke (JokeDAO jokeDAO, NotesDAO notesDAO, String blaguesApiUrl, String blaguesApiToken) throws Exception {
 		RestTemplate restTemplate = new RestTemplate();
 		HttpHeaders headers = new HttpHeaders();
 		headers.setBearerAuth(blaguesApiToken);
@@ -117,13 +139,14 @@ class JokeCall {
 				new URI(blaguesApiUrl + "api/random")).headers(headers).build(), Joke.class);
 		if (responseJoke.getStatusCode() != HttpStatus.OK) throw new Exception("Code "+responseJoke.getStatusCode().value());
 		Joke aJoke =  responseJoke.getBody();
-//		aJoke.save();
+		notesDAO.save(aJoke.notes);
+		jokeDAO.save(aJoke);
 		return aJoke;
 	}
 
-	public static void main(String[] args) throws Exception {
-		Joke joke = JokeCall.getJoke();
-		System.out.println(joke.joke);
-		System.out.println(joke.answer);
-	}
+//	public static void main(String[] args) throws Exception {
+//		Joke joke = JokeCall.getJoke();
+//		System.out.println(joke.joke);
+//		System.out.println(joke.answer);
+//	}
 }
