@@ -4,6 +4,7 @@ import fr.ensim.interop.introrest.model.bot.MeteoObject;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
+import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
@@ -49,6 +50,7 @@ public class MessageRestController {
 				openWeatherToken
 		);
 	}
+
 }
 
 final class OpenWeatherCall {
