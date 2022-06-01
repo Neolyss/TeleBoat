@@ -2,7 +2,6 @@ package fr.ensim.interop.introrest.controller;
 
 import fr.ensim.interop.introrest.model.bot.MeteoObject;
 import fr.ensim.interop.introrest.model.joke.JokeDAO;
-import fr.ensim.interop.introrest.model.joke.Notes;
 import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
@@ -12,7 +11,6 @@ import fr.ensim.interop.introrest.model.joke.Joke;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
@@ -20,11 +18,8 @@ import java.net.URI;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.RestTemplate;
 
-import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.Arrays;
 
 @RestController
 public class MessageRestController {
@@ -76,11 +71,17 @@ public class MessageRestController {
 	}
 
 	@GetMapping("/joke")
-	public Joke postJoke() throws Exception {
+	public Joke getJoke() throws Exception {
 		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
 		System.out.println(joke.joke);
 		System.out.println(joke.answer);
 		return joke;
+	}
+
+	@PostMapping("/joke")
+	public void postNoteJoke (@RequestParam(name = "note") int noteGET) {
+		Joke joke = new Joke();
+		JokeCall.addNote(notesDAO, joke, noteGET);
 	}
 }
 
@@ -129,7 +130,7 @@ final class OpenWeatherCall {
 	}
 }
 
-class JokeCall {
+final class JokeCall {
 
 	public static Joke getJoke (JokeDAO jokeDAO, NotesDAO notesDAO, String blaguesApiUrl, String blaguesApiToken) throws Exception {
 		RestTemplate restTemplate = new RestTemplate();
@@ -144,9 +145,32 @@ class JokeCall {
 		return aJoke;
 	}
 
-//	public static void main(String[] args) throws Exception {
-//		Joke joke = JokeCall.getJoke();
-//		System.out.println(joke.joke);
-//		System.out.println(joke.answer);
-//	}
+	public static boolean addNote (NotesDAO notesDAO, Joke joke, int note) {
+		boolean sucess = true;
+		switch (note) {
+			case 5 :
+				joke.notes.cinq++;
+				break;
+			case 4 :
+				joke.notes.quatre++;
+				break;
+			case 3 :
+				joke.notes.trois++;
+				break;
+			case 2 :
+				joke.notes.deux++;
+				break;
+			case 1 :
+				joke.notes.un++;
+				break;
+			case 0 :
+				joke.notes.zero++;
+				break;
+			default:
+				sucess = false;
+				break;
+		}
+		notesDAO.save(joke.notes);
+		return sucess;
+	}
 }
