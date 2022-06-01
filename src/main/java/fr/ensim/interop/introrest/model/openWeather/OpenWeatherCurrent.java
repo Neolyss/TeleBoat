@@ -13,4 +13,11 @@ public class OpenWeatherCurrent implements OpenWeather{
     public void setWeather(List<Weather> weather) {
         this.weather = weather;
     }
+
+    @Override
+    public String toString() {
+        return "OpenWeatherCurrent{" +
+                "weather=" + weather +
+                '}';
+    }
 }

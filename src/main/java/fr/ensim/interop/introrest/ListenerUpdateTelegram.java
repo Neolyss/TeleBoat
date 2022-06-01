@@ -1,11 +1,14 @@
 package fr.ensim.interop.introrest;
 
 import fr.ensim.interop.introrest.client.UpdatesCall;
+import fr.ensim.interop.introrest.model.bot.UpdateTask;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
+import fr.ensim.interop.introrest.model.telegram.Update;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
+import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 import java.util.logging.Level;
@@ -27,18 +30,7 @@ public class ListenerUpdateTelegram implements CommandLineRunner {
 		
 		// Operation de pooling pour capter les evenements Telegram
 		// Get offset
-		ApiResponseUpdateTelegram responseUpdateTelegram = UpdatesCall.getUpdates();
-		System.out.println(responseUpdateTelegram);
 
-		new Timer().schedule(new TimerTask() {
-
-			private int offset;
-			@Override
-			public void run() {
-
-				System.out.println(offset);
-				offset++;
-			}
-		}, 0, 1000L);
+		new Timer().schedule(new UpdateTask(), 0, 1000L);
 	}
 }

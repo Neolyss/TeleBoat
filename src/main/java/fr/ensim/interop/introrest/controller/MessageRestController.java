@@ -31,24 +31,23 @@ public class MessageRestController {
 	
 	//Opérations sur la ressource Message
 	@PostMapping("/message")
-	public ResponseEntity<ApiResponseTelegram<Message>> sendMessage(@RequestBody MessageObject messageObject) throws URISyntaxException {
+	public Message sendMessage(@RequestBody MessageObject messageObject) throws URISyntaxException {
 		System.out.println(messageObject);
 		RestTemplate restTemplate = new RestTemplate();
 		URI uri = new URI(telegramApiUrl + telegramApiToken + "/sendMessage");
 		System.out.println(uri);
-		ResponseEntity<ApiResponseTelegram> responseTelegram = restTemplate.postForEntity(uri, messageObject, ApiResponseTelegram.class);
-
-		return ResponseEntity.ok().body(responseTelegram.getBody());
+		return restTemplate.postForObject(uri, messageObject, Message.class);
 	}
 
 	@PostMapping("/meteo")
-	public OpenWeather postMeteo(@RequestBody MeteoObject meteoObject) throws Exception {
-		return OpenWeatherCall.getWeather(
+	public String postMeteo(@RequestBody MeteoObject meteoObject) throws Exception {
+		OpenWeather openWeather = OpenWeatherCall.getWeather(
 				meteoObject.getCityName(),
 				TimeOfWeek.valueOf(meteoObject.getDayOfWeek()),
 				openWeatherUrl,
 				openWeatherToken
 		);
+		return openWeather.toString();
 	}
 
 }
