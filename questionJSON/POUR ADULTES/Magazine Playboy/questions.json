@@ -1,0 +1,2216 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Playboy (Divertissement pour hommes)",
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Qui a fondé le magazine masculin de charme américain « Playboy » ?",
+          "propositions": [
+            "Hugh Hefner",
+            "Phil Harvey",
+            "Marc Dorcel",
+            "Larry Flynt"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Son magazine, comme sa vie, font partie des mythes populaires du monde occidental de la seconde moitié du XXe siècle."
+        },
+        {
+          "id": 2,
+          "question": "Quel genre de photographie est proposé dans le magazine « Playboy » ?",
+          "propositions": [
+            "Sports extrêmes",
+            "Fonds marins",
+            "Recettes de cuisine",
+            "Femmes nues"
+          ],
+          "réponse": "Femmes nues",
+          "anecdote": "Le magazine est connu pour ses Playmates et ses photographies érotiques, mais aussi pour certains de ses articles de qualité."
+        },
+        {
+          "id": 3,
+          "question": "Quelle société gère actuellement la marque « Playboy » ainsi que ses produits dérivés ?",
+          "propositions": [
+            "Playboy Enterprises",
+            "Wayda Networks",
+            "Laffin Industries",
+            "Posar World"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "Le siège social de Playboy Enterprises était situé à Chicago jusqu'en 2009, avant de déménager à Beverly Hills en Californie."
+        },
+        {
+          "id": 4,
+          "question": "Quelle femme était en couverture du tout premier numéro de « Playboy » ?",
+          "propositions": [
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Bettie Page",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, divertissement pour hommes. Pour la première fois en couleurs dans la presse, les fameux nus de Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "Quelle était la périodicité initiale du magazine masculin « Playboy » ?",
+          "propositions": [
+            "Trimestrielle",
+            "Mensuelle",
+            "Bimestrielle",
+            "Hebdomadaire"
+          ],
+          "réponse": "Mensuelle",
+          "anecdote": "À partir de 2009, au vu d'un déficit de près de 8 millions de dollars, sa périodicité devient bimestrielle et ses numéros sont thématiques."
+        },
+        {
+          "id": 6,
+          "question": "Quelle Playmate est apparue le plus souvent sur la couverture de « Playboy » ?",
+          "propositions": [
+            "Janet Pilgrim",
+            "Jeane Manson",
+            "Jayne Mansfield",
+            "Pamela Anderson"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "Pendant un certain temps, elle était connue sous le nom de Pamela Anderson Lee suite à son mariage avec Tommy Lee."
+        },
+        {
+          "id": 7,
+          "question": "Comment appelle-t-on un modèle ayant posé pour le dépliant central de « Playboy » ?",
+          "propositions": [
+            "Pink lady",
+            "Bunny",
+            "Playmate",
+            "Cybergirl"
+          ],
+          "réponse": "Playmate",
+          "anecdote": "Le mot ne doit pas être employé pour n'importe quel modèle du magazine ni pour les femmes ayant partagé la vie d'Hugh Hefner."
+        },
+        {
+          "id": 8,
+          "question": "Lequel de ces éléments est caractéristique et distinctif du magazine « Playboy » ?",
+          "propositions": [
+            "Noir et blanc",
+            "Dépliant central",
+            "Petit cadeau",
+            "Papier glacé"
+          ],
+          "réponse": "Dépliant central",
+          "anecdote": "Le dépliant central est intimement lié au concept de la Playmate, à tel point que celle-ci est parfois désignée la fille du dépliant."
+        },
+        {
+          "id": 9,
+          "question": "De combien de parties est aujourd'hui composé le dépliant central de « Playboy » ?",
+          "propositions": [
+            "Quatre",
+            "Cinq",
+            "Trois",
+            "Six"
+          ],
+          "réponse": "Trois",
+          "anecdote": "Le contenu des émissions de « Playboy TV », chaîne payante américaine, est plus explicite que celui des magazines « Playboy »."
+        },
+        {
+          "id": 10,
+          "question": "Comment a été renommé le Palmolive Building, siège social de « Playboy » ?",
+          "propositions": [
+            "Playboy Building",
+            "Hefner Building",
+            "Men's Building",
+            "Bunny Building"
+          ],
+          "réponse": "Playboy Building",
+          "anecdote": "Aujourd'hui, le bâtiment a été transformé pour un usage résidentiel (logements haut de gamme) par Draper et Kramer."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "En quelle année Hugh Hefner a-t-il fondé le magazine « Playboy » ?",
+          "propositions": [
+            "1983",
+            "1973",
+            "1953",
+            "1963"
+          ],
+          "réponse": "1953",
+          "anecdote": "Le magazine s'adresse aux hommes attirés par un style de vie festif et sensuel, sans négliger la dimension politique et sociale."
+        },
+        {
+          "id": 12,
+          "question": "À qui doit-on le profil stylisé du lapin de « Playboy », portant un noeud papillon ?",
+          "propositions": [
+            "Ben Blank",
+            "Gary Grimshaw",
+            "John Fulbrook",
+            "Art Paul"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner a dit qu'il avait choisi le lapin comme mascotte (au lieu du cerf à bois) pour sa connotation sexuelle humoristique."
+        },
+        {
+          "id": 13,
+          "question": "À combien d'exemplaires s'est vendu le tout premier numéro du magazine « Playboy » ?",
+          "propositions": [
+            "50 000",
+            "20 000",
+            "12 000",
+            "1 250"
+          ],
+          "réponse": "50 000",
+          "anecdote": "Véritable succès immédiat, ce premier numéro s'est vendu en quelques semaines seulement, et ce à cinquante cents le numéro."
+        },
+        {
+          "id": 14,
+          "question": "Lequel de ces photographes travailla pour « Playboy » dans les débuts du magazine ?",
+          "propositions": [
+            "Horace Bristol",
+            "Russ Meyer",
+            "Steven Klein",
+            "Henry Draper"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer est principalement connu pour ses réalisations de films de sexploitation dont plusieurs ont eu un certain succès."
+        },
+        {
+          "id": 15,
+          "question": "En France, quelle est la périodicité du magazine « Playboy » depuis 2016 ?",
+          "propositions": [
+            "Bimestrielle",
+            "Hebdomadaire",
+            "Mensuelle",
+            "Trimestrielle"
+          ],
+          "réponse": "Trimestrielle",
+          "anecdote": "Après cinq années de suspension éditoriale, la version française reviendra dans les kiosques, mais proposée sans nudité frontale."
+        },
+        {
+          "id": 16,
+          "question": "Quel nom donne-t-on à une serveuse dans un club de la marque « Playboy » ?",
+          "propositions": [
+            "Cybergirl",
+            "Pink lady",
+            "Playmate",
+            "Bunny"
+          ],
+          "réponse": "Bunny",
+          "anecdote": "Le costume des Bunny girls consiste en un body, des oreilles de lapin, un col, des manchettes et une queue duveteuse en coton."
+        },
+        {
+          "id": 17,
+          "question": "En quelle année fut clôturée la version française de « Playboy », avant de ressortir en 2016 ?",
+          "propositions": [
+            "2003",
+            "2007",
+            "1999",
+            "2011"
+          ],
+          "réponse": "2011",
+          "anecdote": "La version française est apparue en 1973 sous l'égide de Daniel Filipacchi, qui avait déjà créé le magazine « Lui » dix ans auparavant."
+        },
+        {
+          "id": 18,
+          "question": "Sur quel site internet du groupe Playboy peut-on contempler des Cybergirls ?",
+          "propositions": [
+            "Magic Playboy",
+            "Playboy City",
+            "Playboy Plus",
+            "Under Playboy"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organise des castings dans de grandes villes ou sur des campus d'universités pour recruter ses nouvelles Cybergirls."
+        },
+        {
+          "id": 19,
+          "question": "Jusqu'en 2017, qui décidait du choix de la gagnante de la Playmate de l'Année ?",
+          "propositions": [
+            "Mario Casilli",
+            "Pompeo Posar",
+            "Richard Fegley",
+            "Hugh Hefner"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "S'appuyant sur l'opinion des lecteurs, la première Playmate of the Year officielle fut Ellen Stratton élue en 1960."
+        },
+        {
+          "id": 20,
+          "question": "Combien gagne en moyenne une Playmate pour son apparition dans le magazine « Playboy » ?",
+          "propositions": [
+            "25 000 $",
+            "10 000 $",
+            "20 000 $",
+            "15 000 $"
+          ],
+          "réponse": "25 000 $",
+          "anecdote": "La Playmate de l'année remporte quant à elle 100 000 $ ainsi qu'une voiture, souvent de couleur rose (les premières années)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Qui a dirigé la version française de « Playboy », apparue en 1973 ?",
+          "propositions": [
+            "Daniel Filipacchi",
+            "Jacques Duroux",
+            "Claude Perrier",
+            "Patrick Hurbain"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "Durant les premières années, le magazine réussit à attirer en couverture quelques actrices françaises de premier plan."
+        },
+        {
+          "id": 22,
+          "question": "Quelle Playmate de 1989 a épousé Hugh Hefner la même année ?",
+          "propositions": [
+            "Kimberley Conrad",
+            "Donna Edmondson",
+            "Cynthia Myers",
+            "Liv Lindeland"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "Cette actrice et mannequin américaine lui donnera deux fils, Marston Glenn et Cooper Bradford, avant de divorcer en mars 2010."
+        },
+        {
+          "id": 23,
+          "question": "Avec quel capital Hugh Hefner a-t-il fondé en 1953 la HMH Publishing Corporation ?",
+          "propositions": [
+            "3 000 $",
+            "30 000 $",
+            "3 000 000 $",
+            "300 000 $"
+          ],
+          "réponse": "3 000 $",
+          "anecdote": "Le budget de lancement réduit était composé de 600 dollars d'apport personnel et de 8 000 dollars d'actions cédées à des amis."
+        },
+        {
+          "id": 24,
+          "question": "Quelle miss du mois d'août 1964 fut la première Playmate d'origine et de type asiatique ?",
+          "propositions": [
+            "Sayo Akasaka",
+            "Liu Wen",
+            "China Lee",
+            "Naomi Shimada"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Les playmates de type non-européen, parfois Playmate de l'Année, accrurent rapidement leur présence au fil des ans."
+        },
+        {
+          "id": 25,
+          "question": "Avec quel associé Hugh Hefner a-t-il choisi le nom de « Playboy » pour son magazine ?",
+          "propositions": [
+            "George Brummell",
+            "Russ Meyer",
+            "Eldon Sellers",
+            "Daniel Filipacchi"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "L'amitié d'Eldon Sellers avec Hugh Hefner a ouvert la voie à l'implication de Sellers dans l'une des plus grandes start-ups."
+        },
+        {
+          "id": 26,
+          "question": "Qui a fait la couverture de la meilleure vente du magazine « Playboy », en 1972 ?",
+          "propositions": [
+            "Jayne Mansfield",
+            "Bettie Page",
+            "Marilyn Monroe",
+            "Pam Rawlings"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "La meilleure vente de « Playboy » est celle du numéro de novembre 1972 de l'édition américaine (7 161 561 copies)."
+        },
+        {
+          "id": 27,
+          "question": "Combien d'éditions locales de « Playboy » sont publiées dans le monde ?",
+          "propositions": [
+            "26",
+            "46",
+            "36",
+            "56"
+          ],
+          "réponse": "26",
+          "anecdote": "Plus étonnant, une édition en braille est publiée depuis 1970 aux États-Unis par la Bibliothèque du Congrès."
+        },
+        {
+          "id": 28,
+          "question": "Quelle Playmate de l'année 1987 a été élue la Playmate vierge ?",
+          "propositions": [
+            "Marilyn Cole",
+            "Cynthia Myers",
+            "Donna Edmondson",
+            "Liv Lindeland"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson affirme en interview qu'elle avait encore sa virginité, n'ayant jamais fait l'amour avant de poser pour « Playboy »."
+        },
+        {
+          "id": 29,
+          "question": "Qui fut la première de toutes les Playmates à succomber aux implants mammaires ?",
+          "propositions": [
+            "Sue Williams",
+            "Kimberley Conrad",
+            "China Lee",
+            "Donna Edmondson"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Nombre de Playmates ont recours à la chirurgie esthétique pour améliorer la photogénie de leur silhouette."
+        },
+        {
+          "id": 30,
+          "question": "Quelles soeurs prénommées Erica, Jaclyn et Nicole ont été Playmates triplées ?",
+          "propositions": [
+            "Reed",
+            "Collins",
+            "Dahm",
+            "Knox"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "Les soeurs Dahm sont les deuxièmes triplées présentent dans l'édition américaine de « Playboy », après le Trio de Rio."
+        }
+      ]
+    },
+    "en": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Who founded the charming American magazine « Playboy » ?",
+          "propositions": [
+            "Larry Flynt",
+            "Marc Dorcel",
+            "Phil Harvey",
+            "Hugh Hefner"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "His magazine, like his life, is one of the popular myths of the Western world of the second half of the XXth century."
+        },
+        {
+          "id": 2,
+          "question": "What kind of photography is offered in « Playboy » magazine ?",
+          "propositions": [
+            "Cooking recipes",
+            "Extreme sports",
+            "Seabed",
+            "Naked women"
+          ],
+          "réponse": "Naked women",
+          "anecdote": "The magazine is known for its Playmates and erotic photographs, but also for some of its quality articles."
+        },
+        {
+          "id": 3,
+          "question": "Which company currently manages the « Playboy » brand and its related products ?",
+          "propositions": [
+            "Posar World",
+            "Laffin Industries",
+            "Wayda Networks",
+            "Playboy Enterprises"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "The headquarters of Playboy Enterprises was located in Chicago until 2009, before moving to Beverly Hills in California."
+        },
+        {
+          "id": 4,
+          "question": "Which woman was on the cover of the very first issue of « Playboy » ?",
+          "propositions": [
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Bettie Page",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, entertainment for men. For the first time in color in the press, the famous nudes of Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "What was the initial periodicity of the male magazine « Playboy » ?",
+          "propositions": [
+            "Bi-monthly",
+            "Monthly",
+            "Quarterly",
+            "Weekly"
+          ],
+          "réponse": "Monthly",
+          "anecdote": "Starting in 2009, in view of a deficit of nearly $ 8 million, its periodicity becomes bimonthly and its numbers are thematic."
+        },
+        {
+          "id": 6,
+          "question": "Which Playmate appeared most often on the cover of « Playboy » ?",
+          "propositions": [
+            "Pamela Anderson",
+            "Jayne Mansfield",
+            "Jeane Manson",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "For a time she was known as Pamela Anderson Lee after her marriage to Tommy Lee."
+        },
+        {
+          "id": 7,
+          "question": "What do you call a model who posed for the central leaflet of « Playboy » ?",
+          "propositions": [
+            "Cybergirl",
+            "Playmate",
+            "Pink lady",
+            "Bunny"
+          ],
+          "réponse": "Playmate",
+          "anecdote": "The word should not be used for any model in the magazine or for the women who shared the life of Hugh Hefner."
+        },
+        {
+          "id": 8,
+          "question": "Which of these elements is characteristic and distinctive of « Playboy » magazine ?",
+          "propositions": [
+            "Glossy paper",
+            "Small gift",
+            "Black and white",
+            "Central leaflet"
+          ],
+          "réponse": "Central leaflet",
+          "anecdote": "The central flyer is intimately linked to the concept of the Playmate, to the point that it is sometimes referred to as the leaflet's daughter."
+        },
+        {
+          "id": 9,
+          "question": "How many parts is there today in the central leaflet of « Playboy » ?",
+          "propositions": [
+            "Four",
+            "Six",
+            "Five",
+            "Three"
+          ],
+          "réponse": "Three",
+          "anecdote": "The content of « Playboy TV », an American pay-TV channel, is more explicit than that of « Playboy » magazines."
+        },
+        {
+          "id": 10,
+          "question": "How was the Palmolive Building, « Playboy » headquarters, renamed ?",
+          "propositions": [
+            "Bunny Building",
+            "Hefner Building",
+            "Playboy Building",
+            "Men's Building"
+          ],
+          "réponse": "Playboy Building",
+          "anecdote": "Today, the building has been transformed for residential use (high-end housing) by Draper and Kramer."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In what year did Hugh Hefner found « Playboy » magazine ?",
+          "propositions": [
+            "1953",
+            "1973",
+            "1983",
+            "1963"
+          ],
+          "réponse": "1953",
+          "anecdote": "The magazine is aimed at men attracted by a festive and sensual lifestyle, without neglecting the political and social dimension."
+        },
+        {
+          "id": 12,
+          "question": "To whom do we owe the stylized profile of the « Playboy » rabbit, wearing a bow tie ?",
+          "propositions": [
+            "Ben Blank",
+            "Art Paul",
+            "John Fulbrook",
+            "Gary Grimshaw"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner said he chose the rabbit as the mascot (instead of the wood deer) for its humorous sexual overtones."
+        },
+        {
+          "id": 13,
+          "question": "How many copies did the very first issue of « Playboy » magazine sell for ?",
+          "propositions": [
+            "12,000",
+            "50,000",
+            "1,250",
+            "20,000"
+          ],
+          "réponse": "50,000",
+          "anecdote": "Real immediate success, this first number sold in just a few weeks, and at fifty cents the number."
+        },
+        {
+          "id": 14,
+          "question": "Which of these artists was a photographer for « Playboy » during the magazine's first years ?",
+          "propositions": [
+            "Steven Klein",
+            "Horace Bristol",
+            "Henry Draper",
+            "Russ Meyer"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer is mainly known for his productions of sex exploitation films, several of which have had some success."
+        },
+        {
+          "id": 15,
+          "question": "In France, how often has « Playboy » magazine since 2016 ?",
+          "propositions": [
+            "Bi-monthly",
+            "Monthly",
+            "Weekly",
+            "Quarterly"
+          ],
+          "réponse": "Quarterly",
+          "anecdote": "After five years of editorial suspension, the French version will return to the kiosks, but offered without frontal nudity."
+        },
+        {
+          "id": 16,
+          "question": "What name is given to a waitress in a club of the « Playboy » brand ?",
+          "propositions": [
+            "Cybergirl",
+            "Bunny",
+            "Pink lady",
+            "Playmate"
+          ],
+          "réponse": "Bunny",
+          "anecdote": "The costume of the Bunny girls consists of a bodysuit, rabbit ears, a collar, cuffs and a fluffy cotton tail."
+        },
+        {
+          "id": 17,
+          "question": "In what year was the French version of « Playboy » closed, before being released in 2016 ?",
+          "propositions": [
+            "2003",
+            "2007",
+            "1999",
+            "2011"
+          ],
+          "réponse": "2011",
+          "anecdote": "The French version appeared in 1973 under the aegis of Daniel Filipacchi, who had already created the magazine « Lui » ten years ago."
+        },
+        {
+          "id": 18,
+          "question": "On which Playboy group website can you watch Cybergirls ?",
+          "propositions": [
+            "Playboy Plus",
+            "Playboy City",
+            "Under Playboy",
+            "Magic Playboy"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organizes castings in big cities or on university campuses to recruit his new Cybergirls."
+        },
+        {
+          "id": 19,
+          "question": "Until 2017, who decided on the winner of the Playmate of the Year election ?",
+          "propositions": [
+            "Pompeo Posar",
+            "Richard Fegley",
+            "Mario Casilli",
+            "Hugh Hefner"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Based on readers' opinions, the first official Playmate of the Year was Ellen Stratton, played in 1960."
+        },
+        {
+          "id": 20,
+          "question": "How much does an average Playmate earn for appearing in « Playboy » magazine ?",
+          "propositions": [
+            "$ 10,000",
+            "$ 15,000",
+            "$ 20,000",
+            "$ 25,000"
+          ],
+          "réponse": "$ 25,000",
+          "anecdote": "The Playmate of the Year won $ 100,000 and a car, often pink (the first years)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Who directed the French version of « Playboy », which appeared in 1973 ?",
+          "propositions": [
+            "Jacques Duroux",
+            "Daniel Filipacchi",
+            "Claude Perrier",
+            "Patrick Hurbain"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "During the first years, the magazine succeeded in attracting on the cover some leading French actresses."
+        },
+        {
+          "id": 22,
+          "question": "Which 1989 Playmate married Hugh Hefner in the same year ?",
+          "propositions": [
+            "Cynthia Myers",
+            "Donna Edmondson",
+            "Liv Lindeland",
+            "Kimberley Conrad"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "This American actress and model will give him two sons, Marston Glenn and Cooper Bradford, before divorcing in March 2010."
+        },
+        {
+          "id": 23,
+          "question": "With what capital did Hugh Hefner found the HMH Publishing Corporation in 1953 ?",
+          "propositions": [
+            "$ 300,000",
+            "$ 3,000,000",
+            "$ 30,000",
+            "$ 3,000"
+          ],
+          "réponse": "$ 3,000",
+          "anecdote": "The reduced start-up budget consisted of $ 600 in personal contributions and $ 8,000 in shares sold to friends."
+        },
+        {
+          "id": 24,
+          "question": "Which miss of August 1964 was the first Playmate of Asian origin and type ?",
+          "propositions": [
+            "Sayo Akasaka",
+            "Naomi Shimada",
+            "Liu Wen",
+            "China Lee"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Non-European playmates, sometimes Playmate of the Year, quickly increased their presence over the years."
+        },
+        {
+          "id": 25,
+          "question": "With which partner did Hugh Hefner choose the name of « Playboy » for his magazine ?",
+          "propositions": [
+            "Daniel Filipacchi",
+            "Eldon Sellers",
+            "George Brummell",
+            "Russ Meyer"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "Eldon Sellers 'friendship with Hugh Hefner paved the way for Sellers' involvement in one of the largest start-ups."
+        },
+        {
+          "id": 26,
+          "question": "Who made the cover of the best selling magazine « Playboy » in 1972 ?",
+          "propositions": [
+            "Jayne Mansfield",
+            "Pam Rawlings",
+            "Bettie Page",
+            "Marilyn Monroe"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "The best seller for « Playboy » is the November 1972 issue of the American edition (7,161,561 copies)."
+        },
+        {
+          "id": 27,
+          "question": "How many local editions of « Playboy » are published worldwide ?",
+          "propositions": [
+            "36",
+            "26",
+            "46",
+            "56"
+          ],
+          "réponse": "26",
+          "anecdote": "More surprisingly, a scrap edition has been published since 1970 in the United States by the Library of Congress."
+        },
+        {
+          "id": 28,
+          "question": "Which Playmate of 1987 was the Virgin Playmate ?",
+          "propositions": [
+            "Donna Edmondson",
+            "Marilyn Cole",
+            "Cynthia Myers",
+            "Liv Lindeland"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson says in an interview that she still had her virginity, having never made love before posing for « Playboy »."
+        },
+        {
+          "id": 29,
+          "question": "Who was the first of all Playmates to succumb to breast implants ?",
+          "propositions": [
+            "Kimberley Conrad",
+            "Sue Williams",
+            "Donna Edmondson",
+            "China Lee"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Many Playmates resort to cosmetic surgery to improve the photogenesis of their silhouette."
+        },
+        {
+          "id": 30,
+          "question": "Which sisters named Erica, Jaclyn and Nicole were tripled Playmates ?",
+          "propositions": [
+            "Dahm",
+            "Collins",
+            "Knox",
+            "Reed"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "The Sisters Dahm are the second triplets present in the American edition of « Playboy », after the Rio Trio."
+        }
+      ]
+    },
+    "de": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Wer hat das charmante amerikanische Magazin « Playboy » gegründet ?",
+          "propositions": [
+            "Marc Dorcel",
+            "Hugh Hefner",
+            "Larry Flynt",
+            "Phil Harvey"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Seine Zeitschrift ist wie sein Leben einer der populären Mythen der westlichen Welt der zweiten Hälfte des 20."
+        },
+        {
+          "id": 2,
+          "question": "Welche Art von Fotografie wird in der Zeitschrift « Playboy » angeboten ?",
+          "propositions": [
+            "Nackte Frauen",
+            "Kochrezepte",
+            "Extremsportarten",
+            "Meeresboden"
+          ],
+          "réponse": "Nackte Frauen",
+          "anecdote": "Das Magazin ist bekannt für seine Playmates und erotischen Fotografien, aber auch für einige seiner Qualitätsartikel."
+        },
+        {
+          "id": 3,
+          "question": "Welches Unternehmen verwaltet derzeit die Marke « Playboy » und die damit verbundenen Produkte ?",
+          "propositions": [
+            "Wayda Networks",
+            "Laffin Industries",
+            "Playboy Enterprises",
+            "Posar World"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "Der Hauptsitz von Playboy Enterprises befand sich bis 2009 in Chicago, bevor er nach Beverly Hills in Kalifornien zog."
+        },
+        {
+          "id": 4,
+          "question": "Welche Frau war auf dem Cover der allerersten Ausgabe von « Playboy » ?",
+          "propositions": [
+            "Jayne Mansfield",
+            "Janet Pilgrim",
+            "Bettie Seite",
+            "Marilyn Monroe"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, Unterhaltung für Männer. Zum ersten Mal in Farbe in der Presse die berühmten Akte von Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "Was war die anfängliche Periodizität des männlichen Magazins « Playboy » ?",
+          "propositions": [
+            "Wöchentlich",
+            "Vierteljährlich",
+            "Zweimonatlich",
+            "Monatlich"
+          ],
+          "réponse": "Monatlich",
+          "anecdote": "Ab 2009 wird die Periodizität angesichts eines Defizits von fast 8 Millionen US-Dollar zweimonatlich und die Anzahl ist thematisch."
+        },
+        {
+          "id": 6,
+          "question": "Welcher Playmate erschien am häufigsten auf dem Cover von « Playboy » ?",
+          "propositions": [
+            "Pamela Anderson",
+            "Janet Pilgrim",
+            "Jayne Mansfield",
+            "Jeane Manson"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "Eine Zeit lang war sie nach ihrer Heirat mit Tommy Lee als Pamela Anderson Lee bekannt."
+        },
+        {
+          "id": 7,
+          "question": "Wie nennt man ein Model, das für die zentrale Broschüre von « Playboy » posierte ?",
+          "propositions": [
+            "Spielkamerad",
+            "Cybergirl",
+            "Rosa Dame",
+            "Hase"
+          ],
+          "réponse": "Spielkamerad",
+          "anecdote": "Das Wort sollte nicht für ein Modell in der Zeitschrift oder für die Frauen verwendet werden, die das Leben von Hugh Hefner teilten."
+        },
+        {
+          "id": 8,
+          "question": "Welches dieser Elemente ist charakteristisch und charakteristisch für das « Playboy » Magazin ?",
+          "propositions": [
+            "Kleines Geschenk",
+            "Schwarz und Weiß",
+            "Zentrale Packungsbeilage",
+            "Hochglanzpapier"
+          ],
+          "réponse": "Zentrale Packungsbeilage",
+          "anecdote": "Der zentrale Flyer ist so eng mit dem Konzept des Playmate verbunden, dass er manchmal als Tochter der Broschüre bezeichnet wird."
+        },
+        {
+          "id": 9,
+          "question": "Wie viele Teile enthält heute die zentrale Broschüre von « Playboy » ?",
+          "propositions": [
+            "Sechs",
+            "Vier",
+            "Drei",
+            "Fünf"
+          ],
+          "réponse": "Drei",
+          "anecdote": "Der Inhalt von « Playboy TV », einem amerikanischen Pay-TV-Kanal, ist expliziter als der von « Playboy » Magazinen."
+        },
+        {
+          "id": 10,
+          "question": "Wie wurde das Palmolive-Gebäude, « Playboy » Hauptquartier, umbenannt ?",
+          "propositions": [
+            "Häschengebäude",
+            "Hefner Gebäude",
+            "Herrenhaus",
+            "Playboy-Gebäude"
+          ],
+          "réponse": "Playboy-Gebäude",
+          "anecdote": "Heute wurde das Gebäude von Draper und Kramer für Wohnzwecke (High-End-Wohnungen) umgebaut."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In welchem Jahr hat Hugh Hefner das Magazin « Playboy » gegründet ?",
+          "propositions": [
+            "1983",
+            "1953",
+            "1963",
+            "1973"
+          ],
+          "réponse": "1953",
+          "anecdote": "Das Magazin richtet sich an Männer, die von einem festlichen und sinnlichen Lebensstil angezogen werden, ohne die politische und soziale Dimension zu vernachlässigen."
+        },
+        {
+          "id": 12,
+          "question": "Wem verdanken wir das stilisierte Profil des « Playboy » Kaninchens, das eine Fliege trägt ?",
+          "propositions": [
+            "John Fulbrook",
+            "Gary Grimshaw",
+            "Ben Blank",
+            "Art Paul"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner sagte, er habe das Kaninchen wegen seiner humorvollen sexuellen Obertöne als Maskottchen (anstelle des Waldhirsches) gewählt."
+        },
+        {
+          "id": 13,
+          "question": "Für wie viele Exemplare wurde die allererste Ausgabe des « Playboy » Magazins verkauft ?",
+          "propositions": [
+            "20.000",
+            "50.000",
+            "1.250",
+            "12.000"
+          ],
+          "réponse": "50.000",
+          "anecdote": "Wirklich erster Erfolg, diese erste Nummer verkaufte sich in nur wenigen Wochen und bei fünfzig Cent die Nummer."
+        },
+        {
+          "id": 14,
+          "question": "Welcher dieser Künstler war in den ersten Jahren des Magazins Fotograf für « Playboy » ?",
+          "propositions": [
+            "Horace Bristol",
+            "Henry Draper",
+            "Russ Meyer",
+            "Steven Klein"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer ist hauptsächlich für seine Produktionen von Sex-Ausbeutungsfilmen bekannt, von denen einige einige Erfolge hatten."
+        },
+        {
+          "id": 15,
+          "question": "Wie oft hat das « Playboy » Magazin in Frankreich seit 2016 ?",
+          "propositions": [
+            "Zweimonatlich",
+            "Monatlich",
+            "Wöchentlich",
+            "Vierteljährlich"
+          ],
+          "réponse": "Vierteljährlich",
+          "anecdote": "Nach fünf Jahren redaktioneller Suspendierung wird die französische Version an die Kioske zurückkehren, jedoch ohne frontale Nacktheit angeboten."
+        },
+        {
+          "id": 16,
+          "question": "Wie heißt eine Kellnerin in einem Club der Marke « Playboy » ?",
+          "propositions": [
+            "Rosa Dame",
+            "Hase",
+            "Spielkamerad",
+            "Cybergirl"
+          ],
+          "réponse": "Hase",
+          "anecdote": "Das Kostüm der Bunny Girls besteht aus einem Body, Hasenohren, einem Kragen, Manschetten und einem flauschigen Baumwollschwanz."
+        },
+        {
+          "id": 17,
+          "question": "In welchem Jahr wurde die französische Version von « Playboy » geschlossen, bevor sie 2016 veröffentlicht wurde ?",
+          "propositions": [
+            "2011",
+            "2007",
+            "2003",
+            "1999"
+          ],
+          "réponse": "2011",
+          "anecdote": "Die französische Fassung erschien 1973 unter der Schirmherrschaft von Daniel Filipacchi, der bereits vor zehn Jahren die Zeitschrift « Lui » gegründet hatte."
+        },
+        {
+          "id": 18,
+          "question": "Auf welcher Playboy-Gruppenwebsite kannst du Cybergirls sehen ?",
+          "propositions": [
+            "Playboy Plus",
+            "Magischer Playboy",
+            "Unter Playboy",
+            "Playboy City"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organisiert Castings in Großstädten oder auf Universitätsgeländen, um seine neuen Cybergirls zu rekrutieren."
+        },
+        {
+          "id": 19,
+          "question": "Wer hat sich bis 2017 für den Gewinner der Wahl zum Playmate des Jahres entschieden ?",
+          "propositions": [
+            "Hugh Hefner",
+            "Pompeo Posar",
+            "Mario Casilli",
+            "Richard Fegley"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Nach Meinung der Leser war Ellen Stratton, die 1960 gespielt wurde, die erste offizielle Spielkameradin des Jahres."
+        },
+        {
+          "id": 20,
+          "question": "Wie viel verdient ein durchschnittlicher Playmate, wenn er in der Zeitschrift « Playboy » erscheint ?",
+          "propositions": [
+            "$ 10.000",
+            "$ 25.000",
+            "$ 20.000",
+            "$ 15.000"
+          ],
+          "réponse": "$ 25.000",
+          "anecdote": "Der Playmate des Jahres gewann 100.000 US-Dollar und ein Auto, das oft rosa war (in den ersten Jahren)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Wer hat die französische Version von « Playboy » inszeniert, die 1973 erschien ?",
+          "propositions": [
+            "Jacques Duroux",
+            "Patrick Hurbain",
+            "Daniel Filipacchi",
+            "Claude Perrier"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "In den ersten Jahren gelang es dem Magazin, einige führende französische Schauspielerinnen auf das Cover zu locken."
+        },
+        {
+          "id": 22,
+          "question": "Welcher Playmate von 1989 heiratete im selben Jahr Hugh Hefner ?",
+          "propositions": [
+            "Liv Lindeland",
+            "Kimberley Conrad",
+            "Donna Edmondson",
+            "Cynthia Myers"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "Diese amerikanische Schauspielerin und Model wird ihm zwei Söhne geben, Marston Glenn und Cooper Bradford, bevor er sich im März 2010 scheiden lässt."
+        },
+        {
+          "id": 23,
+          "question": "Mit welchem Kapital gründete Hugh Hefner 1953 die HMH Publishing Corporation ?",
+          "propositions": [
+            "$ 30.000",
+            "$ 3.000.000",
+            "$ 3.000",
+            "$ 300.000"
+          ],
+          "réponse": "$ 3.000",
+          "anecdote": "Das reduzierte Startbudget bestand aus 600 USD an persönlichen Beiträgen und 8."
+        },
+        {
+          "id": 24,
+          "question": "Welcher Miss vom August 1964 war der erste Playmate asiatischer Herkunft und Art ?",
+          "propositions": [
+            "Liu Wen",
+            "China Lee",
+            "Naomi Shimada",
+            "Sayo Akasaka"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Nichteuropäische Spielkameraden, manchmal Spielkameraden des Jahres, haben ihre Präsenz im Laufe der Jahre schnell erhöht."
+        },
+        {
+          "id": 25,
+          "question": "Mit welchem Partner hat Hugh Hefner den Namen « Playboy » für seine Zeitschrift gewählt ?",
+          "propositions": [
+            "Eldon Sellers",
+            "Daniel Filipacchi",
+            "Russ Meyer",
+            "George Brummell"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "Die Freundschaft von Eldon Sellers mit Hugh Hefner ebnete den Weg für das Engagement von Sellers in einem der größten Start-ups."
+        },
+        {
+          "id": 26,
+          "question": "Wer hat 1972 das Cover des Bestseller-Magazins « Playboy » gemacht ?",
+          "propositions": [
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Bettie Seite",
+            "Pam Rawlings"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "Der Bestseller für « Playboy » ist die Novemberausgabe 1972 der amerikanischen Ausgabe (7.161.561 Exemplare)."
+        },
+        {
+          "id": 27,
+          "question": "Wie viele lokale Ausgaben von « Playboy » werden weltweit veröffentlicht ?",
+          "propositions": [
+            "46",
+            "26",
+            "56",
+            "36"
+          ],
+          "réponse": "26",
+          "anecdote": "Überraschenderweise wurde seit 1970 in den USA eine Schrottausgabe von der Library of Congress veröffentlicht."
+        },
+        {
+          "id": 28,
+          "question": "Welcher Playmate von 1987 war der Virgin Playmate ?",
+          "propositions": [
+            "Liv Lindeland",
+            "Cynthia Myers",
+            "Donna Edmondson",
+            "Marilyn Cole"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson sagt in einem Interview, dass sie immer noch ihre Jungfräulichkeit hatte, noch nie miteinander geschlafen hatte, bevor sie für « Playboy » posierte."
+        },
+        {
+          "id": 29,
+          "question": "Wer war der erste Playmates, der Brustimplantaten erlag ?",
+          "propositions": [
+            "China Lee",
+            "Donna Edmondson",
+            "Sue Williams",
+            "Kimberley Conrad"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Viele Playmates greifen auf Schönheitsoperationen zurück, um die Photogenese ihrer Silhouette zu verbessern."
+        },
+        {
+          "id": 30,
+          "question": "Welche Schwestern namens Erica, Jaclyn und Nicole waren verdreifachte Playmates ?",
+          "propositions": [
+            "Dahm",
+            "Reed",
+            "Collins",
+            "Knox"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "Die Sisters Dahm sind nach dem Rio Trio die zweiten Drillinge in der amerikanischen Ausgabe von « Playboy »."
+        }
+      ]
+    },
+    "es": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "¿Quién fundó la encantadora revista estadounidense « Playboy » ?",
+          "propositions": [
+            "Marc Dorcel",
+            "Hugh Hefner",
+            "Phil Harvey",
+            "Larry Flynt"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Su revista, como su vida, es uno de los mitos populares del mundo occidental de la segunda mitad del siglo XX."
+        },
+        {
+          "id": 2,
+          "question": "¿Qué tipo de fotografía se ofrece en la revista « Playboy » ?",
+          "propositions": [
+            "Fondo marino",
+            "Deportes extremos",
+            "Recetas de cocina",
+            "Mujeres desnudas"
+          ],
+          "réponse": "Mujeres desnudas",
+          "anecdote": "La revista es conocida por sus Playmates y sus fotografías eróticas, pero también por algunos de sus artículos de calidad."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué empresa administra actualmente la marca « Playboy » y sus productos relacionados ?",
+          "propositions": [
+            "Playboy Enterprises",
+            "Mundo Posar",
+            "Wayda Networks",
+            "Industrias Laffin"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "La sede de Playboy Enterprises estuvo ubicada en Chicago hasta 2009, antes de mudarse a Beverly Hills en California."
+        },
+        {
+          "id": 4,
+          "question": "¿Qué mujer apareció en la portada del primer número de « Playboy » ?",
+          "propositions": [
+            "Bettie Page",
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, entretenimiento para hombres. Por primera vez en color en la prensa, los famosos desnudos de Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "¿Cuál fue la periodicidad inicial de la revista masculina « Playboy » ?",
+          "propositions": [
+            "Semanal",
+            "Bimensual",
+            "Mensual",
+            "Trimestral"
+          ],
+          "réponse": "Mensual",
+          "anecdote": "A partir de 2009, en vista de un déficit de casi $ 8 millones, su periodicidad se vuelve bimestral y sus números son temáticos."
+        },
+        {
+          "id": 6,
+          "question": "¿Qué Playmate apareció con más frecuencia en la portada de « Playboy » ?",
+          "propositions": [
+            "Janet Pilgrim",
+            "Jeane Manson",
+            "Jayne Mansfield",
+            "Pamela Anderson"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "Durante un tiempo fue conocida como Pamela Anderson Lee después de su matrimonio con Tommy Lee."
+        },
+        {
+          "id": 7,
+          "question": "¿Cómo llamas a una modelo que posó para el folleto central de « Playboy » ?",
+          "propositions": [
+            "Cybergirl",
+            "Dama rosa",
+            "Conejito",
+            "Playmate"
+          ],
+          "réponse": "Playmate",
+          "anecdote": "La palabra no debe usarse para ningún modelo en la revista o para las mujeres que compartieron la vida de Hugh Hefner."
+        },
+        {
+          "id": 8,
+          "question": "¿Cuál de estos elementos es característico y distintivo de la revista « Playboy » ?",
+          "propositions": [
+            "Blanco y negro",
+            "Papel brillante",
+            "Pequeño regalo",
+            "Folleto central"
+          ],
+          "réponse": "Folleto central",
+          "anecdote": "El volante central está íntimamente relacionado con el concepto de Playmate, tanto que a veces se le conoce como la hija del folleto."
+        },
+        {
+          "id": 9,
+          "question": "¿Cuántas partes hay hoy en el folleto central de « Playboy » ?",
+          "propositions": [
+            "Cinco",
+            "Cuatro",
+            "Seis",
+            "Tres"
+          ],
+          "réponse": "Tres",
+          "anecdote": "El contenido de « Playboy TV », un canal estadounidense de televisión de pago, es más explícito que el de las revistas « Playboy »."
+        },
+        {
+          "id": 10,
+          "question": "¿Cómo se renombró el Edificio Palmolive, sede de « Playboy » ?",
+          "propositions": [
+            "Edificio de hombres",
+            "Edificio Playboy",
+            "Edificio Hefner",
+            "Bunny Building"
+          ],
+          "réponse": "Edificio Playboy",
+          "anecdote": "Hoy, el edificio ha sido transformado para uso residencial (viviendas de alta gama) por Draper y Kramer."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "¿En qué año encontró Hugh Hefner la revista « Playboy » ?",
+          "propositions": [
+            "1973",
+            "1963",
+            "1983",
+            "1953"
+          ],
+          "réponse": "1953",
+          "anecdote": "La revista está dirigida a hombres atraídos por un estilo de vida festivo y sensual, sin descuidar la dimensión política y social."
+        },
+        {
+          "id": 12,
+          "question": "¿A quién le debemos el perfil estilizado del conejo « Playboy », que lleva una pajarita ?",
+          "propositions": [
+            "Gary Grimshaw",
+            "Ben Blank",
+            "John Fulbrook",
+            "Art Paul"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner dijo que eligió al conejo como mascota (en lugar del venado) por sus connotaciones sexuales humorísticas."
+        },
+        {
+          "id": 13,
+          "question": "¿Por cuántas copias se vendió el primer número de la revista « Playboy » ?",
+          "propositions": [
+            "20,000",
+            "50,000",
+            "1,250",
+            "12,000"
+          ],
+          "réponse": "50,000",
+          "anecdote": "Real éxito inmediato, este primer número se vendió en solo unas pocas semanas, y a cincuenta centavos el número."
+        },
+        {
+          "id": 14,
+          "question": "¿Cuál de estos artistas fue fotógrafo de « Playboy » durante los primeros años de la revista ?",
+          "propositions": [
+            "Russ Meyer",
+            "Steven Klein",
+            "Horace Bristol",
+            "Henry Draper"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer es conocido principalmente por sus producciones de películas de explotación sexual, varias de las cuales han tenido cierto éxito."
+        },
+        {
+          "id": 15,
+          "question": "En Francia, ¿con qué frecuencia tiene la revista « Playboy » desde 2016 ?",
+          "propositions": [
+            "Mensual",
+            "Trimestral",
+            "Semanal",
+            "Bimensual"
+          ],
+          "réponse": "Trimestral",
+          "anecdote": "Después de cinco años de suspensión editorial, la versión francesa volverá a los quioscos, pero se ofrece sin desnudos frontales."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué nombre se le da a una camarera en un club de la marca « Playboy » ?",
+          "propositions": [
+            "Cybergirl",
+            "Conejito",
+            "Dama rosa",
+            "Playmate"
+          ],
+          "réponse": "Conejito",
+          "anecdote": "El disfraz de las conejitas consiste en un traje, orejas de conejo, cuello, puños y una cola de algodón esponjoso."
+        },
+        {
+          "id": 17,
+          "question": "¿En qué año se cerró la versión francesa de « Playboy » antes de ser lanzada en 2016 ?",
+          "propositions": [
+            "2007",
+            "2003",
+            "1999",
+            "2011"
+          ],
+          "réponse": "2011",
+          "anecdote": "La versión francesa apareció en 1973 bajo los auspicios de Daniel Filipacchi, quien ya había creado la revista « Lui » hace diez años."
+        },
+        {
+          "id": 18,
+          "question": "¿En qué sitio web del grupo Playboy puedes ver Cybergirls ?",
+          "propositions": [
+            "Playboy City",
+            "Magic Playboy",
+            "Bajo playboy",
+            "Playboy Plus"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organiza castings en grandes ciudades o en campus universitarios para reclutar a sus nuevas Cybergirls."
+        },
+        {
+          "id": 19,
+          "question": "Hasta 2017, ¿quién decidió el ganador de la elección Playmate del año ?",
+          "propositions": [
+            "Richard Fegley",
+            "Mario Casilli",
+            "Hugh Hefner",
+            "Pompeo Posar"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Según las opiniones de los lectores, la primera Playmate oficial del año fue Ellen Stratton, interpretada en 1960."
+        },
+        {
+          "id": 20,
+          "question": "¿Cuánto gana un Playmate promedio por aparecer en la revista « Playboy » ?",
+          "propositions": [
+            "$ 15,000",
+            "$ 10,000",
+            "$ 20,000",
+            "$ 25,000"
+          ],
+          "réponse": "$ 25,000",
+          "anecdote": "El Playmate del año ganó $ 100,000 y un automóvil, a menudo de color rosa (los primeros años)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "¿Quién dirigió la versión francesa de « Playboy », que apareció en 1973 ?",
+          "propositions": [
+            "Daniel Filipacchi",
+            "Patrick Hurbain",
+            "Jacques Duroux",
+            "Claude Perrier"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "Durante los primeros años, la revista logró atraer a la portada a algunas de las principales actrices francesas."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué Playmate de 1989 se casó con Hugh Hefner en el mismo año ?",
+          "propositions": [
+            "Kimberley Conrad",
+            "Donna Edmondson",
+            "Liv Lindeland",
+            "Cynthia Myers"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "Esta actriz y modelo estadounidense le dará dos hijos, Marston Glenn y Cooper Bradford, antes de divorciarse en marzo de 2010."
+        },
+        {
+          "id": 23,
+          "question": "¿Con qué capital encontró Hugh Hefner la Corporación Editorial HMH en 1953 ?",
+          "propositions": [
+            "$ 3,000",
+            "$ 30,000",
+            "$ 300,000",
+            "$ 3,000,000"
+          ],
+          "réponse": "$ 3,000",
+          "anecdote": "El presupuesto inicial reducido consistió en $ 600 en contribuciones personales y $ 8,000 en acciones vendidas a amigos."
+        },
+        {
+          "id": 24,
+          "question": "¿Qué señorita de agosto de 1964 fue la primera Playmate de origen y tipo asiático ?",
+          "propositions": [
+            "Liu Wen",
+            "China Lee",
+            "Naomi Shimada",
+            "Sayo Akasaka"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Los compañeros de juego no europeos, a veces Playmate del año, aumentaron rápidamente su presencia a lo largo de los años."
+        },
+        {
+          "id": 25,
+          "question": "¿Con qué compañero eligió Hugh Hefner el nombre de « Playboy » para su revista ?",
+          "propositions": [
+            "Daniel Filipacchi",
+            "Eldon Sellers",
+            "George Brummell",
+            "Russ Meyer"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "La amistad de Eldon Sellers con Hugh Hefner allanó el camino para la participación de Sellers en una de las empresas más grandes."
+        },
+        {
+          "id": 26,
+          "question": "¿Quién apareció en la portada de la revista más vendida « Playboy » en 1972 ?",
+          "propositions": [
+            "Pam Rawlings",
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Bettie Page"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "El éxito de ventas de « Playboy » es la edición de noviembre de 1972 de la edición estadounidense (7.161.561 copias)."
+        },
+        {
+          "id": 27,
+          "question": "¿Cuántas ediciones locales de « Playboy » se publican en todo el mundo ?",
+          "propositions": [
+            "36",
+            "56",
+            "46",
+            "26"
+          ],
+          "réponse": "26",
+          "anecdote": "Más sorprendentemente, la Biblioteca del Congreso ha publicado una edición de chatarra desde 1970 en los Estados Unidos."
+        },
+        {
+          "id": 28,
+          "question": "¿Qué Playmate de 1987 fue Virgin Playmate ?",
+          "propositions": [
+            "Cynthia Myers",
+            "Liv Lindeland",
+            "Marilyn Cole",
+            "Donna Edmondson"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson dice en una entrevista que todavía tenía su virginidad, ya que nunca había hecho el amor antes de posar para « Playboy »."
+        },
+        {
+          "id": 29,
+          "question": "¿Quién fue el primero de todos los Playmates en sucumbir a los implantes mamarios ?",
+          "propositions": [
+            "Sue Williams",
+            "China Lee",
+            "Donna Edmondson",
+            "Kimberley Conrad"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Muchos Playmates recurren a la cirugía estética para mejorar la fotogénesis de su silueta."
+        },
+        {
+          "id": 30,
+          "question": "¿Qué hermanas llamadas Erica, Jaclyn y Nicole fueron Playmates triplicadas ?",
+          "propositions": [
+            "Caña",
+            "Dahm",
+            "Collins",
+            "Knox"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "Las Hermanas Dahm son las segundas trillizas presentes en la edición americana de « Playboy », después del Rio Trio."
+        }
+      ]
+    },
+    "it": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Chi ha fondato l'affascinante rivista americana « Playboy » ?",
+          "propositions": [
+            "Larry Flynt",
+            "Hugh Hefner",
+            "Phil Harvey",
+            "Marc Dorcel"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "La sua rivista, come la sua vita, è uno dei miti popolari del mondo occidentale della seconda metà del XX secolo."
+        },
+        {
+          "id": 2,
+          "question": "Che tipo di fotografia è offerta nella rivista « Playboy » ?",
+          "propositions": [
+            "Fondale",
+            "Ricette di cucina",
+            "Donne nude",
+            "Sport estremi"
+          ],
+          "réponse": "Donne nude",
+          "anecdote": "La rivista è nota per i suoi compagni di gioco e fotografie erotiche, ma anche per alcuni dei suoi articoli di qualità."
+        },
+        {
+          "id": 3,
+          "question": "Quale azienda attualmente gestisce il marchio « Playboy » e i relativi prodotti ?",
+          "propositions": [
+            "Reti Wayda",
+            "Posar World",
+            "Playboy Enterprises",
+            "Laffin Industries"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "Il quartier generale della Playboy Enterprises si trovava a Chicago fino al 2009, prima di trasferirsi a Beverly Hills in California."
+        },
+        {
+          "id": 4,
+          "question": "Quale donna era sulla copertina del primo numero di « Playboy » ?",
+          "propositions": [
+            "Marilyn Monroe",
+            "Pagina Bettie",
+            "Jayne Mansfield",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, intrattenimento per uomini. Per la prima volta a colori sulla stampa, i famosi nudi di Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "Qual è stata la periodicità iniziale della rivista maschile « Playboy » ?",
+          "propositions": [
+            "Trimestrale",
+            "Bimestrale",
+            "Settimanale",
+            "Mensile"
+          ],
+          "réponse": "Mensile",
+          "anecdote": "A partire dal 2009, in vista di un disavanzo di quasi $ 8 milioni, la sua periodicità diventa bimestrale e i suoi numeri sono tematici."
+        },
+        {
+          "id": 6,
+          "question": "Quale compagno di giochi è apparso più spesso sulla copertina di « Playboy » ?",
+          "propositions": [
+            "Janet Pilgrim",
+            "Jayne Mansfield",
+            "Jeane Manson",
+            "Pamela Anderson"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "Per un certo periodo è stata conosciuta come Pamela Anderson Lee dopo il suo matrimonio con Tommy Lee."
+        },
+        {
+          "id": 7,
+          "question": "Come si chiama un modello che ha posato per il volantino centrale di « Playboy » ?",
+          "propositions": [
+            "Signora rosa",
+            "Cybergirl",
+            "Bunny",
+            "Compagno di giochi"
+          ],
+          "réponse": "Compagno di giochi",
+          "anecdote": "La parola non deve essere usata per nessun modello nella rivista o per le donne che hanno condiviso la vita di Hugh Hefner."
+        },
+        {
+          "id": 8,
+          "question": "Quale di questi elementi è caratteristico e distintivo della rivista « Playboy » ?",
+          "propositions": [
+            "In bianco e nero",
+            "Carta lucida",
+            "Piccolo regalo",
+            "Opuscolo centrale"
+          ],
+          "réponse": "Opuscolo centrale",
+          "anecdote": "Il volantino centrale è intimamente collegato al concetto del compagno di giochi, al punto che a volte viene chiamato figlia dell'opuscolo."
+        },
+        {
+          "id": 9,
+          "question": "Quante parti ci sono oggi nell'opuscolo centrale di « Playboy » ?",
+          "propositions": [
+            "Cinque",
+            "Sei",
+            "Tre",
+            "Quattro"
+          ],
+          "réponse": "Tre",
+          "anecdote": "Il contenuto dei programmi di « Playboy TV », un canale di pagamento americano, è più esplicito di quello delle riviste « Playboy »."
+        },
+        {
+          "id": 10,
+          "question": "Come è stato rinominato il Palmolive Building, « Playboy » ?",
+          "propositions": [
+            "Edificio per uomini",
+            "Edificio Hefner",
+            "Bunny Building",
+            "Edificio Playboy"
+          ],
+          "réponse": "Edificio Playboy",
+          "anecdote": "Oggi l'edificio è stato trasformato per uso residenziale (abitazioni di alta gamma) da Draper e Kramer."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In quale anno Hugh Hefner ha trovato la rivista « Playboy » ?",
+          "propositions": [
+            "1983",
+            "1953",
+            "1963",
+            "1973"
+          ],
+          "réponse": "1953",
+          "anecdote": "La rivista è rivolta agli uomini attratti da uno stile di vita festivo e sensuale, senza trascurare la dimensione politica e sociale."
+        },
+        {
+          "id": 12,
+          "question": "A chi dobbiamo il profilo stilizzato del coniglio « Playboy », che indossa un papillon ?",
+          "propositions": [
+            "John Fulbrook",
+            "Gary Grimshaw",
+            "Art Paul",
+            "Ben Blank"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner ha affermato di aver scelto il coniglio come mascotte (invece del cervo selvatico) per i suoi umoristici toni sessuali."
+        },
+        {
+          "id": 13,
+          "question": "Per quante copie è stato venduto il primo numero della rivista « Playboy » ?",
+          "propositions": [
+            "50.000",
+            "1.250",
+            "20.000",
+            "12.000"
+          ],
+          "réponse": "50.000",
+          "anecdote": "Davvero un successo immediato, questo primo numero è stato venduto in poche settimane e a cinquanta centesimi il numero."
+        },
+        {
+          "id": 14,
+          "question": "Quale di questi artisti è stato un fotografo di « Playboy » durante i primi anni della rivista ?",
+          "propositions": [
+            "Russ Meyer",
+            "Steven Klein",
+            "Orazio Bristol",
+            "Henry Draper"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer è noto principalmente per le sue produzioni di film sullo sfruttamento sessuale, molti dei quali hanno avuto un certo successo."
+        },
+        {
+          "id": 15,
+          "question": "In Francia, quanto spesso ha la rivista « Playboy » dal 2016 ?",
+          "propositions": [
+            "Bimestrale",
+            "Settimanale",
+            "Mensile",
+            "Trimestrale"
+          ],
+          "réponse": "Trimestrale",
+          "anecdote": "Dopo cinque anni di sospensione editoriale, la versione francese tornerà ai chioschi, ma offerta senza nudità frontale."
+        },
+        {
+          "id": 16,
+          "question": "Quale nome viene dato a una cameriera in un club del marchio « Playboy » ?",
+          "propositions": [
+            "Cybergirl",
+            "Signora rosa",
+            "Compagno di giochi",
+            "Bunny"
+          ],
+          "réponse": "Bunny",
+          "anecdote": "Il costume delle conigliette è composto da un body, orecchie da coniglio, un colletto, polsini e una soffice coda di cotone."
+        },
+        {
+          "id": 17,
+          "question": "In quale anno è stata chiusa la versione francese di « Playboy », prima di essere pubblicata nel 2016 ?",
+          "propositions": [
+            "2003",
+            "1999",
+            "2007",
+            "2011"
+          ],
+          "réponse": "2011",
+          "anecdote": "La versione francese apparve nel 1973 sotto l'egida di Daniel Filipacchi, che aveva già creato la rivista « Lui » dieci anni fa."
+        },
+        {
+          "id": 18,
+          "question": "Su quale sito web del gruppo Playboy puoi guardare Cybergirls ?",
+          "propositions": [
+            "Sotto Playboy",
+            "Playboy magico",
+            "Playboy City",
+            "Playboy Plus"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organizza casting in grandi città o in campus universitari per reclutare i suoi nuovi Cybergirls."
+        },
+        {
+          "id": 19,
+          "question": "Fino al 2017, chi ha deciso il vincitore delle elezioni del compagno di giochi dell'anno ?",
+          "propositions": [
+            "Pompeo Posar",
+            "Mario Casilli",
+            "Richard Fegley",
+            "Hugh Hefner"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Basato sulle opinioni dei lettori, il primo Playmate dell'anno ufficiale è stato Ellen Stratton, suonato nel 1960."
+        },
+        {
+          "id": 20,
+          "question": "Quanto guadagna un compagno di giochi medio per apparire sulla rivista « Playboy » ?",
+          "propositions": [
+            "$ 15.000",
+            "$ 10.000",
+            "$ 20.000",
+            "$ 25.000"
+          ],
+          "réponse": "$ 25.000",
+          "anecdote": "Il compagno di giochi dell'anno ha vinto $ 100.000 e un'auto, spesso di colore rosa (i primi anni)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Chi ha diretto la versione francese di « Playboy », che apparve nel 1973 ?",
+          "propositions": [
+            "Daniel Filipacchi",
+            "Patrick Hurbain",
+            "Jacques Duroux",
+            "Claude Perrier"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "Durante i primi anni, la rivista è riuscita ad attrarre in copertina alcune delle principali attrici francesi."
+        },
+        {
+          "id": 22,
+          "question": "Quale compagno di giochi del 1989 ha sposato Hugh Hefner nello stesso anno ?",
+          "propositions": [
+            "Liv Lindeland",
+            "Cynthia Myers",
+            "Donna Edmondson",
+            "Kimberley Conrad"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "Questa attrice e modella americana gli darà due figli, Marston Glenn e Cooper Bradford, prima di divorziare nel marzo 2010."
+        },
+        {
+          "id": 23,
+          "question": "Con quale capitale Hugh Hefner fondò la HMH Publishing Corporation nel 1953 ?",
+          "propositions": [
+            "$ 30.000",
+            "$ 3.000.000",
+            "$ 3.000",
+            "$ 300.000"
+          ],
+          "réponse": "$ 3.000",
+          "anecdote": "Il budget iniziale ridotto consisteva in $ 600 in contributi personali e $ 8."
+        },
+        {
+          "id": 24,
+          "question": "Quale miss dell'agosto 1964 fu il primo compagno di giochi di origine e tipo asiatico ?",
+          "propositions": [
+            "China Lee",
+            "Naomi Shimada",
+            "Sayo Akasaka",
+            "Liu Wen"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Compagni di giochi non europei, a volte Playmate of the Year, hanno rapidamente aumentato la loro presenza nel corso degli anni."
+        },
+        {
+          "id": 25,
+          "question": "Con quale partner Hugh Hefner ha scelto il nome di « Playboy » per la sua rivista ?",
+          "propositions": [
+            "Russ Meyer",
+            "Daniel Filipacchi",
+            "George Brummell",
+            "Eldon Sellers"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "L'amicizia di Eldon Sellers con Hugh Hefner ha spianato la strada al coinvolgimento dei venditori in una delle più grandi start-up."
+        },
+        {
+          "id": 26,
+          "question": "Chi ha realizzato la copertina della rivista più venduta « Playboy » nel 1972 ?",
+          "propositions": [
+            "Pam Rawlings",
+            "Marilyn Monroe",
+            "Jayne Mansfield",
+            "Pagina Bettie"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "Il best seller per « Playboy » è il numero di novembre 1972 dell'edizione americana (7.161.561 copie)."
+        },
+        {
+          "id": 27,
+          "question": "Quante edizioni locali di « Playboy » sono pubblicate in tutto il mondo ?",
+          "propositions": [
+            "56",
+            "26",
+            "46",
+            "36"
+          ],
+          "réponse": "26",
+          "anecdote": "Più sorprendentemente, un'edizione di scarto è stata pubblicata dal 1970 negli Stati Uniti dalla Library of Congress."
+        },
+        {
+          "id": 28,
+          "question": "Quale compagno di giochi del 1987 era il Virgin Playmate ?",
+          "propositions": [
+            "Marilyn Cole",
+            "Cynthia Myers",
+            "Donna Edmondson",
+            "Liv Lindeland"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson afferma in un'intervista che aveva ancora la sua verginità, non avendo mai fatto l'amore prima di posare per « Playboy »."
+        },
+        {
+          "id": 29,
+          "question": "Chi è stato il primo di tutti i compagni di gioco a soccombere alle protesi mammarie ?",
+          "propositions": [
+            "Donna Edmondson",
+            "Kimberley Conrad",
+            "Sue Williams",
+            "China Lee"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Molti compagni di gioco ricorrono alla chirurgia estetica per migliorare la fotogenesi della loro silhouette."
+        },
+        {
+          "id": 30,
+          "question": "Quali sorelle di nome Erica, Jaclyn e Nicole erano triplicate compagni di gioco ?",
+          "propositions": [
+            "Collins",
+            "Knox",
+            "Reed",
+            "Dahm"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "Le Sisters Dahm sono le seconde tre gemelle presenti nell'edizione americana di « Playboy », dopo il Rio Trio."
+        }
+      ]
+    },
+    "nl": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Wie heeft het charmante Amerikaanse tijdschrift « Playboy » opgericht ?",
+          "propositions": [
+            "Marc Dorcel",
+            "Phil Harvey",
+            "Hugh Hefner",
+            "Larry Flynt"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Zijn tijdschrift is, net als zijn leven, een van de populaire mythen van de westerse wereld van de tweede helft van de twintigste eeuw."
+        },
+        {
+          "id": 2,
+          "question": "Wat voor soort fotografie wordt er aangeboden in het « Playboy » tijdschrift ?",
+          "propositions": [
+            "Koken recepten",
+            "Extreme sporten",
+            "Naakte vrouwen",
+            "Zeebodem"
+          ],
+          "réponse": "Naakte vrouwen",
+          "anecdote": "Het tijdschrift staat bekend om zijn Playmates en erotische foto's, maar ook om enkele van zijn kwaliteitsartikelen."
+        },
+        {
+          "id": 3,
+          "question": "Welk bedrijf beheert momenteel het merk « Playboy » en de gerelateerde producten ?",
+          "propositions": [
+            "Posar Wereld",
+            "Playboy Enterprises",
+            "Wayda-netwerken",
+            "Laffin Industries"
+          ],
+          "réponse": "Playboy Enterprises",
+          "anecdote": "Het hoofdkantoor van Playboy Enterprises was tot 2009 gevestigd in Chicago, voordat het verhuisde naar Beverly Hills in Californië."
+        },
+        {
+          "id": 4,
+          "question": "Welke vrouw stond op de cover van het allereerste nummer van « Playboy » ?",
+          "propositions": [
+            "Janet Pilgrim",
+            "Bettie Page",
+            "Marilyn Monroe",
+            "Jayne Mansfield"
+          ],
+          "réponse": "Marilyn Monroe",
+          "anecdote": "Playboy, entertainment voor mannen. Voor het eerst in kleur in de pers, de bekende naakten van Marilyn Monroe."
+        },
+        {
+          "id": 5,
+          "question": "Wat was de initi ?le periodiciteit van het mannenblad « Playboy » ?",
+          "propositions": [
+            "Wekelijks",
+            "Maandelijks",
+            "Halfjaarlijks",
+            "Driemaandelijks"
+          ],
+          "réponse": "Maandelijks",
+          "anecdote": "Met ingang van 2009, met een tekort van bijna 8 miljoen dollar, wordt de periodiciteit tweemaandelijks en zijn de aantallen thematisch."
+        },
+        {
+          "id": 6,
+          "question": "Welke Playmate verscheen het vaakst op de cover van « Playboy » ?",
+          "propositions": [
+            "Jayne Mansfield",
+            "Jeane Manson",
+            "Pamela Anderson",
+            "Janet Pilgrim"
+          ],
+          "réponse": "Pamela Anderson",
+          "anecdote": "Ze stond een tijdje bekend als Pamela Anderson Lee na haar huwelijk met Tommy Lee."
+        },
+        {
+          "id": 7,
+          "question": "Hoe noem je een model dat poseerde voor de centrale folder van « Playboy » ?",
+          "propositions": [
+            "Playmate",
+            "Cybergirl",
+            "Roze dame",
+            "Konijntje"
+          ],
+          "réponse": "Playmate",
+          "anecdote": "Het woord mag voor geen enkel model in het tijdschrift worden gebruikt of voor de vrouwen die het leven van Hugh Hefner deelden."
+        },
+        {
+          "id": 8,
+          "question": "Welke van deze elementen is kenmerkend en onderscheidend voor « Playboy » magazine ?",
+          "propositions": [
+            "Glanzend papier",
+            "Klein geschenk",
+            "Centrale folder",
+            "Zwart-wit"
+          ],
+          "réponse": "Centrale folder",
+          "anecdote": "De centrale flyer is nauw verbonden met het concept van de Playmate, tot het punt dat het soms de dochter van de folder wordt genoemd."
+        },
+        {
+          "id": 9,
+          "question": "Hoeveel delen staan er vandaag in de centrale folder van « Playboy » ?",
+          "propositions": [
+            "Zes",
+            "Drie",
+            "Vier",
+            "Vijf"
+          ],
+          "réponse": "Drie",
+          "anecdote": "De inhoud van « Playboy TV », een Amerikaans betaaltelevisiekanaal, is explicieter dan die van « Playboy » tijdschriften."
+        },
+        {
+          "id": 10,
+          "question": "Hoe werd de naam van het Palmolive-gebouw, het hoofdkantoor van « Playboy », gewijzigd ?",
+          "propositions": [
+            "Hefner-gebouw",
+            "Playboy Building",
+            "Bunny Building",
+            "Herengebouw"
+          ],
+          "réponse": "Playboy Building",
+          "anecdote": "Tegenwoordig is het gebouw getransformeerd voor residentieel gebruik (hoogwaardige woningen) door Draper en Kramer."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In welk jaar vond Hugh Hefner het tijdschrift « Playboy » ?",
+          "propositions": [
+            "1953",
+            "1983",
+            "1973",
+            "1963"
+          ],
+          "réponse": "1953",
+          "anecdote": "Het tijdschrift is gericht op mannen die worden aangetrokken door een feestelijke en sensuele levensstijl, zonder de politieke en sociale dimensie te verwaarlozen."
+        },
+        {
+          "id": 12,
+          "question": "Aan wie hebben we het gestileerde profiel van het « Playboy » konijn met strikje te danken ?",
+          "propositions": [
+            "Art Paul",
+            "Ben Blank",
+            "Gary Grimshaw",
+            "John Fulbrook"
+          ],
+          "réponse": "Art Paul",
+          "anecdote": "Hugh Hefner zei dat hij het konijn als mascotte koos (in plaats van het hert) vanwege zijn humoristische seksuele ondertoon."
+        },
+        {
+          "id": 13,
+          "question": "Voor hoeveel exemplaren verkocht het allereerste nummer van « Playboy » magazine ?",
+          "propositions": [
+            "20.000",
+            "50.000",
+            "12.000",
+            "1.250"
+          ],
+          "réponse": "50.000",
+          "anecdote": "Echt onmiddellijk succes, dit eerste nummer verkocht in slechts een paar weken, en tegen vijftig cent het nummer."
+        },
+        {
+          "id": 14,
+          "question": "Welke van deze artiesten was een fotograaf voor « Playboy » tijdens de eerste jaren van het tijdschrift ?",
+          "propositions": [
+            "Steven Klein",
+            "Horace Bristol",
+            "Henry Draper",
+            "Russ Meyer"
+          ],
+          "réponse": "Russ Meyer",
+          "anecdote": "Russ Meyer staat vooral bekend om zijn producties van films over seksuele uitbuiting, waarvan er verschillende enig succes hebben gehad."
+        },
+        {
+          "id": 15,
+          "question": "In Frankrijk, hoe vaak heeft het tijdschrift « Playboy » sinds 2016 ?",
+          "propositions": [
+            "Driemaandelijks",
+            "Maandelijks",
+            "Wekelijks",
+            "Halfjaarlijks"
+          ],
+          "réponse": "Driemaandelijks",
+          "anecdote": "Na vijf jaar redactionele schorsing keert de Franse versie terug naar de kiosken, maar wordt aangeboden zonder frontale naaktheid."
+        },
+        {
+          "id": 16,
+          "question": "Welke naam krijgt een serveerster in een club van het merk « Playboy » ?",
+          "propositions": [
+            "Konijntje",
+            "Roze dame",
+            "Playmate",
+            "Cybergirl"
+          ],
+          "réponse": "Konijntje",
+          "anecdote": "Het kostuum van de Bunny-meisjes bestaat uit een bodysuit, konijnenoren, een kraag, manchetten en een donzige katoenen staart."
+        },
+        {
+          "id": 17,
+          "question": "In welk jaar was de Franse versie van « Playboy » gesloten voordat deze in 2016 werd uitgebracht ?",
+          "propositions": [
+            "2007",
+            "2011",
+            "2003",
+            "1999"
+          ],
+          "réponse": "2011",
+          "anecdote": "De Franse versie verscheen in 1973 onder auspiciën van Daniel Filipacchi, die al tien jaar geleden het tijdschrift « Lui » had gemaakt."
+        },
+        {
+          "id": 18,
+          "question": "Op welke Playboy-groepswebsite kun je Cybergirls bekijken ?",
+          "propositions": [
+            "Onder Playboy",
+            "Playboy Plus",
+            "Magische Playboy",
+            "Playboy City"
+          ],
+          "réponse": "Playboy Plus",
+          "anecdote": "« Playboy » organiseert castings in grote steden of op universiteitscampussen om zijn nieuwe Cybergirls te rekruteren."
+        },
+        {
+          "id": 19,
+          "question": "Wie heeft tot 2017 de winnaar van de Playmate of the Year-verkiezing gekozen ?",
+          "propositions": [
+            "Pompeo Posar",
+            "Richard Fegley",
+            "Hugh Hefner",
+            "Mario Casilli"
+          ],
+          "réponse": "Hugh Hefner",
+          "anecdote": "Op basis van de mening van lezers was Ellen Stratton, gespeeld in 1960, de eerste officiële speelkameraad van het jaar."
+        },
+        {
+          "id": 20,
+          "question": "Hoeveel verdient een gemiddelde Playmate om in « Playboy » te verschijnen ?",
+          "propositions": [
+            "$ 20.000",
+            "$ 25.000",
+            "$ 10.000",
+            "$ 15.000"
+          ],
+          "réponse": "$ 25.000",
+          "anecdote": "De Playmate of the Year won $ 100.000 en een auto, vaak roze van kleur (de eerste jaren)."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Wie regisseerde de Franse versie van « Playboy », die in 1973 verscheen ?",
+          "propositions": [
+            "Patrick Hurbain",
+            "Claude Perrier",
+            "Jacques Duroux",
+            "Daniel Filipacchi"
+          ],
+          "réponse": "Daniel Filipacchi",
+          "anecdote": "De eerste jaren wist het blad enkele vooraanstaande Franse actrices op de cover aan te trekken."
+        },
+        {
+          "id": 22,
+          "question": "Welke Playmate uit 1989 trouwde in hetzelfde jaar met Hugh Hefner ?",
+          "propositions": [
+            "Liv Lindeland",
+            "Donna Edmondson",
+            "Kimberley Conrad",
+            "Cynthia Myers"
+          ],
+          "réponse": "Kimberley Conrad",
+          "anecdote": "Deze Amerikaanse actrice en model geeft hem twee zonen, Marston Glenn en Cooper Bradford, voordat hij in maart 2010 gaat scheiden."
+        },
+        {
+          "id": 23,
+          "question": "Met welk kapitaal heeft Hugh Hefner in 1953 de HMH Publishing Corporation opgericht ?",
+          "propositions": [
+            "$ 30.000",
+            "$ 3.000.000",
+            "$ 300.000",
+            "$ 3.000"
+          ],
+          "réponse": "$ 3.000",
+          "anecdote": "Het verlaagde opstartbudget bestond uit $ 600 aan persoonlijke bijdragen en $ 8."
+        },
+        {
+          "id": 24,
+          "question": "Welke misser van augustus 1964 was de eerste Playmate van Aziatische afkomst en type ?",
+          "propositions": [
+            "China Lee",
+            "Sayo Akasaka",
+            "Naomi Shimada",
+            "Liu Wen"
+          ],
+          "réponse": "China Lee",
+          "anecdote": "Niet-Europese speelkameraden, soms Playmate of the Year, hebben hun aanwezigheid in de loop der jaren snel uitgebreid."
+        },
+        {
+          "id": 25,
+          "question": "Met welke partner koos Hugh Hefner voor zijn tijdschrift de naam « Playboy » ?",
+          "propositions": [
+            "Eldon Sellers",
+            "Russ Meyer",
+            "George Brummell",
+            "Daniel Filipacchi"
+          ],
+          "réponse": "Eldon Sellers",
+          "anecdote": "De vriendschap van Eldon Sellers met Hugh Hefner maakte de weg vrij voor de betrokkenheid van Sellers bij een van de grootste start-ups."
+        },
+        {
+          "id": 26,
+          "question": "Wie haalde in 1972 de omslag van het bestverkopende tijdschrift « Playboy » ?",
+          "propositions": [
+            "Bettie Page",
+            "Pam Rawlings",
+            "Marilyn Monroe",
+            "Jayne Mansfield"
+          ],
+          "réponse": "Pam Rawlings",
+          "anecdote": "De bestseller voor « Playboy » is de uitgave van november 1972 van de Amerikaanse editie (7.161.561 exemplaren)."
+        },
+        {
+          "id": 27,
+          "question": "Hoeveel lokale edities van « Playboy » worden er wereldwijd gepubliceerd ?",
+          "propositions": [
+            "36",
+            "56",
+            "26",
+            "46"
+          ],
+          "réponse": "26",
+          "anecdote": "Nog verrassender is dat er sinds 1970 een scrap-editie in de Verenigde Staten wordt uitgegeven door de Library of Congress."
+        },
+        {
+          "id": 28,
+          "question": "Welke Playmate van 1987 was de Virgin Playmate ?",
+          "propositions": [
+            "Marilyn Cole",
+            "Cynthia Myers",
+            "Liv Lindeland",
+            "Donna Edmondson"
+          ],
+          "réponse": "Donna Edmondson",
+          "anecdote": "Donna Edmondson zegt in een interview dat ze nog steeds haar maagdelijkheid had, nog nooit de liefde bedreven voordat ze poseerde voor « Playboy »."
+        },
+        {
+          "id": 29,
+          "question": "Wie was de eerste van alle Playmates die bezweek aan borstimplantaten ?",
+          "propositions": [
+            "Kimberley Conrad",
+            "Donna Edmondson",
+            "Sue Williams",
+            "China Lee"
+          ],
+          "réponse": "Sue Williams",
+          "anecdote": "Veel Playmates nemen hun toevlucht tot cosmetische chirurgie om de fotogenese van hun silhouet te verbeteren."
+        },
+        {
+          "id": 30,
+          "question": "Welke zussen genaamd Erica, Jaclyn en Nicole waren verdrievoudigd Playmates ?",
+          "propositions": [
+            "Knox",
+            "Riet",
+            "Collins",
+            "Dahm"
+          ],
+          "réponse": "Dahm",
+          "anecdote": "De Sisters Dahm zijn de tweede drieling in de Amerikaanse editie van « Playboy », na het Rio Trio."
+        }
+      ]
+    }
+  }
+}

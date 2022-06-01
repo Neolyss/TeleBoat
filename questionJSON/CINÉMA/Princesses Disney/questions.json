@@ -1,0 +1,2216 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Princesses Disney (Ces héroïnes de notre enfance)",
+  "difficulté": "1 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Quelle fleur représentant l'amour est porteuse de mauvais sort dans « La Belle et la Bête » ?",
+          "propositions": [
+            "Une jonquille",
+            "Une rose",
+            "Un oeillet",
+            "Une tulipe"
+          ],
+          "réponse": "Une rose",
+          "anecdote": "Bien que non mentionné dans le film, le jeune Prince, dont la devise est « Vainc qui se vainc », se prénomme Adam."
+        },
+        {
+          "id": 2,
+          "question": "Passé minuit, en quoi le somptueux carrosse de Cendrillon se transforme-t-il ?",
+          "propositions": [
+            "En citrouille",
+            "En souris",
+            "En gâteau",
+            "En pomme"
+          ],
+          "réponse": "En citrouille",
+          "anecdote": "Cendrillon est une jeune femme soumise à l'autorité de sa marâtre, Lady Trémaine, et à celle de ses deux demi-soeurs."
+        },
+        {
+          "id": 3,
+          "question": "Quelle princesse de Disney peut-on entendre chanter « Siffler en travaillant » ? ",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Pocahontas",
+            "Blanche-Neige"
+          ],
+          "réponse": "Blanche-Neige",
+          "anecdote": "La version créée par les studios Disney diffère légèrement des autres adaptations du conte."
+        },
+        {
+          "id": 4,
+          "question": "Combien de nains ont accueilli Blanche-Neige dans leur chaumière au fond des bois ?",
+          "propositions": [
+            "Cinq",
+            "Quatre",
+            "Six",
+            "Sept"
+          ],
+          "réponse": "Sept",
+          "anecdote": "« Blanche-Neige et les Sept Nains » est le premier long-métrage d'animation Disney."
+        },
+        {
+          "id": 5,
+          "question": "Qui chante « Un jour, mon prince viendra » dans un dessin animé Disney ?",
+          "propositions": [
+            "Jasmine",
+            "Cendrillon",
+            "Alice",
+            "Blanche-Neige"
+          ],
+          "réponse": "Blanche-Neige",
+          "anecdote": "Le film « Blanche-Neige » est une adaptation du conte éponyme des frères Grimm paru en 1812."
+        },
+        {
+          "id": 6,
+          "question": "De quelle manière le prince charmant réveille-t-il Blanche-Neige ?",
+          "propositions": [
+            "Par une morsure",
+            "Par un baiser",
+            "Par un chant",
+            "Par une gifle"
+          ],
+          "réponse": "Par un baiser",
+          "anecdote": "La version la plus connue de « Blanche-Neige » est celle de Jacob et Wilhelm Grimm, parue en 1812."
+        },
+        {
+          "id": 7,
+          "question": "Quelle célèbre princesse du grand écran est empoisonnée avec une pomme ?",
+          "propositions": [
+            "Blanche-Neige",
+            "Cendrillon",
+            "Ariel",
+            "Raiponce"
+          ],
+          "réponse": "Blanche-Neige",
+          "anecdote": "Blanche-Neige est une princesse d'une très grande beauté, ce qui rend jalouse sa belle-mère, la Reine."
+        },
+        {
+          "id": 8,
+          "question": "Quelle héroïne de Disney se voit refuser le droit de rester au bal après minuit ?",
+          "propositions": [
+            "Alice",
+            "Cendrillon",
+            "Blanche-Neige",
+            "Aurore"
+          ],
+          "réponse": "Cendrillon",
+          "anecdote": "Certaines versions de Cendrillon peuvent être très différentes les unes des autres."
+        },
+        {
+          "id": 9,
+          "question": "À quelle heure les vêtements de Cendrillon redeviennent-ils ses haillons habituels ?",
+          "propositions": [
+            "Trois heures",
+            "Minuit",
+            "Onze heures",
+            "Midi"
+          ],
+          "réponse": "Minuit",
+          "anecdote": "L'Occident connaît surtout l'histoire de Cendrillon au travers des versions de Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "Qui a été placée dans un cercueil de verre par des nains puis réveillée par un prince ?",
+          "propositions": [
+            "Fiona",
+            "Esmeralda",
+            "Blanche-Neige",
+            "Cendrillon"
+          ],
+          "réponse": "Blanche-Neige",
+          "anecdote": "Blanche-Neige montre qu'il ne faut pas s'attacher à des choses éphémères telles la beauté et la jeunesse."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Quelle couleur est souvent associée à Aurore dans « La Belle au bois dormant » ?",
+          "propositions": [
+            "Rouge",
+            "Rose",
+            "Bleue",
+            "Verte"
+          ],
+          "réponse": "Rose",
+          "anecdote": "Le célèbre château de la princesse Aurore est utilisé dans les parcs de Disneyland comme icône de la zone Fantasyland."
+        },
+        {
+          "id": 12,
+          "question": "Quelles aventures de Disney se déroulent dans le nord de la Chine ?",
+          "propositions": [
+            "Raiponce",
+            "Rebelle",
+            "Mulan",
+            "Pocahontas"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Le caractère du personnage de Mulan est différent des classiques Disney, notamment de celui des princesses."
+        },
+        {
+          "id": 13,
+          "question": "Quelle princesse Disney est une sirène vivant auprès de son père, le roi Triton ?",
+          "propositions": [
+            "Ariel",
+            "Tiana",
+            "Merida",
+            "Jasmine"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "L'animateur Glen Keane aurait déclaré dans une conférence que l'apparence du personnage était fondée sur sa propre femme."
+        },
+        {
+          "id": 14,
+          "question": "Dans le monde de Disney, quelle princesse chante « Ce rêve bleu » ?",
+          "propositions": [
+            "Merida",
+            "Jasmine",
+            "Ariel",
+            "Tiana"
+          ],
+          "réponse": "Jasmine",
+          "anecdote": "Jasmine est un personnage de fiction qui est apparu pour la première fois en 1992 dans le long métrage d'animation « Aladdin »."
+        },
+        {
+          "id": 15,
+          "question": "Quelle princesse de Disney est célèbre pour sa longue chevelure blonde ?",
+          "propositions": [
+            "Tiana",
+            "Ariel",
+            "Merida",
+            "Raiponce"
+          ],
+          "réponse": "Raiponce",
+          "anecdote": "Si on coupe une mèche de cheveux de Raiponce, ceux-ci deviennent bruns et perdent leurs effets magiques."
+        },
+        {
+          "id": 16,
+          "question": "Quel film de Disney a réuni sur les écrans un pauvre voleur et une belle princesse ?",
+          "propositions": [
+            "Rebelle",
+            "Pocahontas",
+            "Aladdin",
+            "Raiponce"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "L'apparence de Jasmine fut inspirée de Jennifer Connelly mais également de la soeur de l'animateur du personnage."
+        },
+        {
+          "id": 17,
+          "question": "Qui a fabriqué la première robe de bal qu'a portée Cendrillon ?",
+          "propositions": [
+            "Des sorcières",
+            "Des enfants",
+            "Des chouettes",
+            "Des souris"
+          ],
+          "réponse": "Des souris",
+          "anecdote": "Cendrillon est appelée ainsi car elle se repose dans la cendre une fois le travail terminé."
+        },
+        {
+          "id": 18,
+          "question": "Qui est Meeko dans « Pocahontas, une légende indienne » ?",
+          "propositions": [
+            "Un oiseau",
+            "Un raton-laveur",
+            "Un ours",
+            "Un sanglier"
+          ],
+          "réponse": "Un raton-laveur",
+          "anecdote": "Disney a donné à Pocahontas les traits et la plastique du mannequin planétaire Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "Quelle princesse Disney ne quitte pour ainsi dire jamais son arc et ses flèches ?",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Ariel",
+            "Jasmine"
+          ],
+          "réponse": "Merida",
+          "anecdote": "Merida est le personnage principal du long métrage d'animation « Rebelle », sorti en 2012."
+        },
+        {
+          "id": 20,
+          "question": "Quelle première princesse afro-américaine a été mise en scène par Disney ?",
+          "propositions": [
+            "Ariel",
+            "Tiana",
+            "Jasmine",
+            "Aurore"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "Disney revient ici sur sa décision de ne pourtant plus réaliser des films en deux dimensions."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Quelle princesse Disney est savamment entraînée aux arts martiaux ?",
+          "propositions": [
+            "Mulan",
+            "Merida",
+            "Tiana",
+            "Ariel"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Le courage, la détermination et l'ingéniosité de Mulan l'aideront dans ses aventures à gagner le respect des autres."
+        },
+        {
+          "id": 22,
+          "question": "Que recherchent les sept nains de Blanche-Neige dans leur mine ?",
+          "propositions": [
+            "Du pétrole",
+            "Du schiste",
+            "Des diamants",
+            "Du charbon"
+          ],
+          "réponse": "Des diamants",
+          "anecdote": "Dans le parc d'attractions Efteling, les nains vivent dans le Bois des contes, jouxtant le château de sa belle-mère."
+        },
+        {
+          "id": 23,
+          "question": "En 2037, quel âge aura le célèbre dessin animé « Blanche-Neige » des studios Disney ?",
+          "propositions": [
+            "125 ans",
+            "100 ans",
+            "75 ans",
+            "50 ans"
+          ],
+          "réponse": "100 ans",
+          "anecdote": "Le budget de production, 1.48 million de dollars, marque un record historique pour l'époque."
+        },
+        {
+          "id": 24,
+          "question": "Quel est le prénom du chat de la belle-mère de Cendrillon ?",
+          "propositions": [
+            "Lucifer",
+            "Satan",
+            "Belzébuth",
+            "Diabolo"
+          ],
+          "réponse": "Lucifer",
+          "anecdote": "Lucifer est le chat de Lady Trémaine : fourbe et paresseux, il représente une menace pour Jack."
+        },
+        {
+          "id": 25,
+          "question": "Dans « Mulan », quel est le nom du dragon, le gardien de la famille ?",
+          "propositions": [
+            "Shang",
+            "Mushu",
+            "Yao",
+            "Général Li"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "C'est Eddie Murphy qui campe la voix originale de Mushu, tandis que la voix française est assurée par José Garcia."
+        },
+        {
+          "id": 26,
+          "question": "Pour Disney, qui est Rajah, animal de compagnie de la princesse Jasmine ?",
+          "propositions": [
+            "Un raton-laveur",
+            "Un sanglier",
+            "Un oiseau",
+            "Un tigre"
+          ],
+          "réponse": "Un tigre",
+          "anecdote": "Jasmine et Aladdin sont apparus en 2002 dans une bande-annonce du film « Lilo et Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "Dans « Cendrillon », quels animaux sont transformés en chevaux de trait ?",
+          "propositions": [
+            "Oies",
+            "Moutons",
+            "Souris",
+            "Lapins"
+          ],
+          "réponse": "Souris",
+          "anecdote": "La composition des pantoufles de Cendrillon fait l'objet d'un débat récurrent en Europe."
+        },
+        {
+          "id": 28,
+          "question": "La plastique de quelle mannequin a servi à créer les principaux traits de Pocahontas ?",
+          "propositions": [
+            "Sienna Miller",
+            "Kelly Brook",
+            "Naomi Campbell",
+            "Katie Price"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "Le personnage de Pocahontas s'inspire librement du personnage historique Matoaka (« Petite plume de neige »)."
+        },
+        {
+          "id": 29,
+          "question": "Quelle princesse Disney communique librement avec la nature et les animaux ?",
+          "propositions": [
+            "Merida",
+            "Mulan",
+            "Pocahontas",
+            "Tiana"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "Les scénaristes du film ont inventé une Pocahontas écologiste, volontaire et physiquement attirante."
+        },
+        {
+          "id": 30,
+          "question": "Laquelle de ces princesses est très souvent représentée dans sa robe de bal jaune or ?",
+          "propositions": [
+            "Belle",
+            "Tiana",
+            "Mulan",
+            "Merida"
+          ],
+          "réponse": "Belle",
+          "anecdote": "Depuis 2011, Belle est l'un des personnages principaux de la série télévisée « Once Upon a Time »."
+        }
+      ]
+    },
+    "en": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Which flower representing love is the bearer of bad luck in « Beauty and the Beast » ?",
+          "propositions": [
+            "A carnation",
+            "A tulip",
+            "A daffodil",
+            "A rose"
+          ],
+          "réponse": "A rose",
+          "anecdote": "Although not mentioned in the film, the young Prince, whose motto is Vanquish who defeats himself, is named Adam."
+        },
+        {
+          "id": 2,
+          "question": "After midnight, what does Cinderella's sumptuous carriage turn into ?",
+          "propositions": [
+            "In mouse",
+            "In cake",
+            "In pumpkin",
+            "Apple"
+          ],
+          "réponse": "In pumpkin",
+          "anecdote": "Cinderella is a young woman subject to the authority of her stepmother, Lady Trémaine, and that of her two half-sisters."
+        },
+        {
+          "id": 3,
+          "question": "Which Disney princess can you hear singing « Whistle while working » ?",
+          "propositions": [
+            "Pocahontas",
+            "Snow White",
+            "Merida",
+            "Tiana"
+          ],
+          "réponse": "Snow White",
+          "anecdote": "The version created by Disney Studios differs slightly from other adaptations of the tale."
+        },
+        {
+          "id": 4,
+          "question": "How many dwarves have welcomed Snow White to their cottage deep in the woods ?",
+          "propositions": [
+            "Four",
+            "Six",
+            "Seven",
+            "Five"
+          ],
+          "réponse": "Seven",
+          "anecdote": "« Snow White and the Seven Dwarfs » is the first Disney animated feature film."
+        },
+        {
+          "id": 5,
+          "question": "Who sings « One day my prince will come » in a Disney cartoon ?",
+          "propositions": [
+            "Jasmine",
+            "Snow White",
+            "Alice",
+            "Cinderella"
+          ],
+          "réponse": "Snow White",
+          "anecdote": "The film « Blanche-Neige » is an adaptation of the eponymous tale of the Brothers Grimm published in 1812."
+        },
+        {
+          "id": 6,
+          "question": "How does Prince Charming wake up Snow White ?",
+          "propositions": [
+            "By a slap",
+            "By a bite",
+            "By a kiss",
+            "By a song"
+          ],
+          "réponse": "By a kiss",
+          "anecdote": "The best-known version of « Blanche-Neige » is that of Jacob and Wilhelm Grimm, published in 1812."
+        },
+        {
+          "id": 7,
+          "question": "Which famous princess from the big screen is poisoned with an apple ?",
+          "propositions": [
+            "Rapunzel",
+            "Cinderella",
+            "Ariel",
+            "Snow White"
+          ],
+          "réponse": "Snow White",
+          "anecdote": "Snow White is a very beautiful princess, which makes her stepmother, the Queen, jealous."
+        },
+        {
+          "id": 8,
+          "question": "Which Disney heroine is denied the right to stay at the ball after midnight ?",
+          "propositions": [
+            "Aurora",
+            "Snow White",
+            "Alice",
+            "Cinderella"
+          ],
+          "réponse": "Cinderella",
+          "anecdote": "Some versions of Cinderella can be very different from each other."
+        },
+        {
+          "id": 9,
+          "question": "At what time do Cinderella's clothes revert to her usual rags ?",
+          "propositions": [
+            "Midnight",
+            "Three hours",
+            "Noon",
+            "Eleven o'clock"
+          ],
+          "réponse": "Midnight",
+          "anecdote": "The West knows especially the story of Cinderella through the versions of Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "Who was placed in a glass coffin by dwarves and then awakened by a prince ?",
+          "propositions": [
+            "Cinderella",
+            "Esmeralda",
+            "Fiona",
+            "Snow White"
+          ],
+          "réponse": "Snow White",
+          "anecdote": "Snow White shows that you shouldn't get attached to ephemeral things like beauty and youth."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "What color is often associated with Aurora in « Sleeping Beauty » ?",
+          "propositions": [
+            "Green",
+            "Red",
+            "Blue",
+            "Rose"
+          ],
+          "réponse": "Rose",
+          "anecdote": "The famous Princess Aurora Castle is used in Disneyland parks as an icon of the Fantasyland area."
+        },
+        {
+          "id": 12,
+          "question": "What Disney adventures take place in northern China ?",
+          "propositions": [
+            "Pocahontas",
+            "Mulan",
+            "Rebelle",
+            "Raiponce"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "The character of Mulan's character is different from the Disney classics, especially the princesses."
+        },
+        {
+          "id": 13,
+          "question": "Which Disney princess is a mermaid living with her father, King Triton ?",
+          "propositions": [
+            "Ariel",
+            "Tiana",
+            "Merida",
+            "Jasmine"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "Host Glen Keane reportedly said in a talk that the character's appearance was based on his own wife."
+        },
+        {
+          "id": 14,
+          "question": "In the world of Disney, which princess sings « This blue dream » ?",
+          "propositions": [
+            "Merida",
+            "Ariel",
+            "Jasmine",
+            "Tiana"
+          ],
+          "réponse": "Jasmine",
+          "anecdote": "Jasmine is a fictional character who first appeared in 1992 in the animated feature « Aladdin »."
+        },
+        {
+          "id": 15,
+          "question": "Which Disney princess is famous for her long blonde hair ?",
+          "propositions": [
+            "Rapunzel",
+            "Tiana",
+            "Ariel",
+            "Merida"
+          ],
+          "réponse": "Rapunzel",
+          "anecdote": "If you cut a section of Rapunzel's hair, it turns brown and loses its magical effects."
+        },
+        {
+          "id": 16,
+          "question": "Which Disney movie brought together a poor thief and a beautiful princess on the screens ?",
+          "propositions": [
+            "Aladdin",
+            "Rebelle",
+            "Raiponce",
+            "Pocahontas"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "Jasmine's appearance was inspired by Jennifer Connelly but also the sister of the character's host."
+        },
+        {
+          "id": 17,
+          "question": "Who made the first ball gown Cinderella wore ?",
+          "propositions": [
+            "Mice",
+            "Children",
+            "Owls",
+            "Witches"
+          ],
+          "réponse": "Mice",
+          "anecdote": "Cinderella is so called because she rests in the ashes after the job is done."
+        },
+        {
+          "id": 18,
+          "question": "Who is Meeko in « Pocahontas, an Indian legend » ?",
+          "propositions": [
+            "A raccoon",
+            "A bird",
+            "A wild boar",
+            "A bear"
+          ],
+          "réponse": "A raccoon",
+          "anecdote": "Disney gave Pocahontas the features and looks of planetary model Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "Which Disney princess hardly ever leaves her bow and arrows ?",
+          "propositions": [
+            "Ariel",
+            "Merida",
+            "Jasmine",
+            "Tiana"
+          ],
+          "réponse": "Merida",
+          "anecdote": "Merida is the main character of the animated feature « Rebel », released in 2012."
+        },
+        {
+          "id": 20,
+          "question": "Which first African American princess was staged by Disney ?",
+          "propositions": [
+            "Ariel",
+            "Jasmine",
+            "Aurora",
+            "Tiana"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "Disney is here reversing its decision to no longer make two-dimensional films."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Which Disney princess is expertly trained in martial arts ?",
+          "propositions": [
+            "Ariel",
+            "Tiana",
+            "Merida",
+            "Mulan"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Mulan's courage, determination and resourcefulness will help her on her adventures to earn the respect of others."
+        },
+        {
+          "id": 22,
+          "question": "What are the seven dwarfs of Snow White looking for in their mine ?",
+          "propositions": [
+            "Coal",
+            "Oil",
+            "Diamonds",
+            "From shale"
+          ],
+          "réponse": "Diamonds",
+          "anecdote": "In the amusement park Efteling, the dwarves live in the Fairytale Forest, next to his mother-in-law's castle."
+        },
+        {
+          "id": 23,
+          "question": "In 2037, how old will the famous cartoon « Blanche-Neige » from Disney studios be ?",
+          "propositions": [
+            "100 years",
+            "75 years old",
+            "50 years",
+            "125 years"
+          ],
+          "réponse": "100 years",
+          "anecdote": "The production budget, $ 1.48 million, marks an all-time high for the time."
+        },
+        {
+          "id": 24,
+          "question": "What is the name of Cinderella's mother-in-law's cat ?",
+          "propositions": [
+            "Beelzebub",
+            "Lucifer",
+            "Diabolo",
+            "Satan"
+          ],
+          "réponse": "Lucifer",
+          "anecdote": "Lucifer is Lady Trémaine's cat: deceitful and lazy, he represents a threat to Jack."
+        },
+        {
+          "id": 25,
+          "question": "In « Mulan », what is the name of the dragon, the keeper of the family ?",
+          "propositions": [
+            "Mushu",
+            "Yao",
+            "General Li",
+            "Shang"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "It is Eddie Murphy who plays the original voice of Mushu, while the French voice is provided by José Garcia."
+        },
+        {
+          "id": 26,
+          "question": "For Disney, who is Rajah, pet of Princess Jasmine ?",
+          "propositions": [
+            "A tiger",
+            "A wild boar",
+            "A bird",
+            "A raccoon"
+          ],
+          "réponse": "A tiger",
+          "anecdote": "Jasmine and Aladdin appeared in a 2002 trailer for the movie « Lilo and Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "In « Cinderella », which animals are transformed into work horses ?",
+          "propositions": [
+            "Rabbits",
+            "Sheep",
+            "Mouse",
+            "Geese"
+          ],
+          "réponse": "Mouse",
+          "anecdote": "The composition of Cinderella's slippers is the subject of recurring debate in Europe."
+        },
+        {
+          "id": 28,
+          "question": "The plastic of which mannequin was used to create the main features of Pocahontas ?",
+          "propositions": [
+            "Sienna Miller",
+            "Naomi Campbell",
+            "Katie Price",
+            "Kelly Brook"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "The character of Pocahontas is loosely inspired by the historical character Matoaka (Little snow feather)."
+        },
+        {
+          "id": 29,
+          "question": "Which Disney princess communicates freely with nature and animals ?",
+          "propositions": [
+            "Mulan",
+            "Merida",
+            "Pocahontas",
+            "Tiana"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "The writers of the film have invented an ecological, determined and physically attractive Pocahontas."
+        },
+        {
+          "id": 30,
+          "question": "Which of these princesses is very often represented in her golden yellow ball gown ?",
+          "propositions": [
+            "Tiana",
+            "Mulan",
+            "Beautiful",
+            "Merida"
+          ],
+          "réponse": "Beautiful",
+          "anecdote": "Since 2011, Belle has been one of the main characters in the television series « Once Upon a Time »."
+        }
+      ]
+    },
+    "de": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Welche Blume, die die Liebe darstellt, trägt das Unglück in « Die Schöne und das Biest » ?",
+          "propositions": [
+            "Eine Nelke",
+            "Eine Tulpe",
+            "Eine Narzisse",
+            "Eine Rose"
+          ],
+          "réponse": "Eine Rose",
+          "anecdote": "Obwohl im Film nicht erwähnt, heißt der junge Prinz, dessen Motto Vainc qui se vaincre lautet, Adam."
+        },
+        {
+          "id": 2,
+          "question": "Was wird aus Aschenputtels prächtiger Kutsche nach Mitternacht ?",
+          "propositions": [
+            "In Kürbis",
+            "In Kuchen",
+            "In der Maus",
+            "Apple"
+          ],
+          "réponse": "In Kürbis",
+          "anecdote": "Cinderella ist eine junge Frau, die der Autorität ihrer Stiefmutter Lady Trémaine und der ihrer beiden Halbschwestern unterliegt."
+        },
+        {
+          "id": 3,
+          "question": "Welche Disney-Prinzessin können Sie während der Arbeit « Pfeifen » singen hören ?",
+          "propositions": [
+            "Pocahontas",
+            "Tiana",
+            "Merida",
+            "Schneewittchen"
+          ],
+          "réponse": "Schneewittchen",
+          "anecdote": "Die von Disney Studios erstellte Version unterscheidet sich geringfügig von anderen Anpassungen der Geschichte."
+        },
+        {
+          "id": 4,
+          "question": "Wie viele Zwerge haben Schneewittchen in ihrem Haus tief im Wald willkommen geheißen ?",
+          "propositions": [
+            "Sechs",
+            "Fünf",
+            "Sieben",
+            "Vier"
+          ],
+          "réponse": "Sieben",
+          "anecdote": "« Schneewittchen und die sieben Zwerge » ist der erste animierte Disney-Spielfilm."
+        },
+        {
+          "id": 5,
+          "question": "Wer singt « Eines Tages wird mein Prinz » in einem Disney-Cartoon kommen ?",
+          "propositions": [
+            "Aschenputtel",
+            "Schneewittchen",
+            "Alice",
+            "Jasmin"
+          ],
+          "réponse": "Schneewittchen",
+          "anecdote": "Der Film « Blanche-Neige » ist eine Adaption der 1812 veröffentlichten gleichnamigen Geschichte der Brüder Grimm."
+        },
+        {
+          "id": 6,
+          "question": "Wie weckt Prince Charming Schneewittchen ?",
+          "propositions": [
+            "Durch ein Lied",
+            "Durch einen Schlag",
+            "Durch einen Kuss",
+            "Durch einen Bissen"
+          ],
+          "réponse": "Durch einen Kuss",
+          "anecdote": "Die bekannteste Version von « Blanche-Neige » ist die von Jacob und Wilhelm Grimm, die 1812 veröffentlicht wurde."
+        },
+        {
+          "id": 7,
+          "question": "Welche berühmte Prinzessin von der Leinwand ist mit einem Apfel vergiftet ?",
+          "propositions": [
+            "Schneewittchen",
+            "Ariel",
+            "Aschenputtel",
+            "Rapunzel"
+          ],
+          "réponse": "Schneewittchen",
+          "anecdote": "Schneewittchen ist eine sehr schöne Prinzessin, was ihre Stiefmutter, die Königin, eifersüchtig macht."
+        },
+        {
+          "id": 8,
+          "question": "Welcher Disney-Heldin wird das Recht verweigert, nach Mitternacht am Ball zu bleiben ?",
+          "propositions": [
+            "Aurora",
+            "Alice",
+            "Schneewittchen",
+            "Aschenputtel"
+          ],
+          "réponse": "Aschenputtel",
+          "anecdote": "Einige Versionen von Cinderella können sehr unterschiedlich sein."
+        },
+        {
+          "id": 9,
+          "question": "Zu welcher Zeit kehren Aschenputtels Kleider zu ihren üblichen Lumpen zurück ?",
+          "propositions": [
+            "Drei Stunden",
+            "Mittag",
+            "Elf Uhr",
+            "Mitternacht"
+          ],
+          "réponse": "Mitternacht",
+          "anecdote": "Der Westen kennt besonders die Geschichte von Aschenputtel durch die Versionen von Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "Wer wurde von Zwergen in einen Glassarg gelegt und dann von einem Prinzen geweckt ?",
+          "propositions": [
+            "Schneewittchen",
+            "Fiona",
+            "Aschenputtel",
+            "Esmeralda"
+          ],
+          "réponse": "Schneewittchen",
+          "anecdote": "Schneewittchen zeigt, dass Sie sich nicht an vergängliche Dinge wie Schönheit und Jugend binden sollten."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Welche Farbe wird in « Dornröschen » häufig mit Aurora assoziiert ?",
+          "propositions": [
+            "Rose",
+            "Grün",
+            "Blau",
+            "Rot"
+          ],
+          "réponse": "Rose",
+          "anecdote": "Das berühmte Schloss von Prinzessin Aurora wird in den Parks von Disneyland als Ikone des Fantasyland-Gebiets verwendet."
+        },
+        {
+          "id": 12,
+          "question": "Welche Disney-Abenteuer finden in Nordchina statt ?",
+          "propositions": [
+            "Raiponce",
+            "Pocahontas",
+            "Rebelle",
+            "Mulan"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Der Charakter von Mulans Charakter unterscheidet sich von den Disney-Klassikern, insbesondere von den Prinzessinnen."
+        },
+        {
+          "id": 13,
+          "question": "Welche Disney-Prinzessin ist eine Meerjungfrau, die mit ihrem Vater, König Triton, lebt ?",
+          "propositions": [
+            "Tiana",
+            "Merida",
+            "Jasmin",
+            "Ariel"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "Gastgeber Glen Keane sagte Berichten zufolge in einem Gespräch, dass das Aussehen des Charakters auf seiner eigenen Frau beruhte."
+        },
+        {
+          "id": 14,
+          "question": "Welche Prinzessin singt in der Welt von Disney « diesen blauen Traum » ?",
+          "propositions": [
+            "Ariel",
+            "Merida",
+            "Jasmin",
+            "Tiana"
+          ],
+          "réponse": "Jasmin",
+          "anecdote": "Jasmine ist eine fiktive Figur, die 1992 erstmals in dem Zeichentrickfilm « Aladdin » auftrat."
+        },
+        {
+          "id": 15,
+          "question": "Welche Disney-Prinzessin ist berühmt für ihre langen blonden Haare ?",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Rapunzel",
+            "Ariel"
+          ],
+          "réponse": "Rapunzel",
+          "anecdote": "Wenn Sie einen Teil von Rapunzels Haar schneiden, wird es braun und verliert seine magischen Effekte."
+        },
+        {
+          "id": 16,
+          "question": "Welcher Disney-Film brachte einen armen Dieb und eine schöne Prinzessin auf den Bildschirmen zusammen ?",
+          "propositions": [
+            "Pocahontas",
+            "Raiponce",
+            "Rebelle",
+            "Aladdin"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "Jasmines Auftritt wurde von Jennifer Connelly inspiriert, aber auch von der Schwester des Gastgebers des Charakters."
+        },
+        {
+          "id": 17,
+          "question": "Wer hat das erste Ballkleid gemacht, das Aschenputtel trug ?",
+          "propositions": [
+            "Hexen",
+            "Mäuse",
+            "Eulen",
+            "Kinder"
+          ],
+          "réponse": "Mäuse",
+          "anecdote": "Aschenputtel wird so genannt, weil sie nach getaner Arbeit in der Asche ruht."
+        },
+        {
+          "id": 18,
+          "question": "Wer ist Meeko in « Pocahontas, einer indischen Legende » ?",
+          "propositions": [
+            "Ein Waschbär",
+            "Ein Vogel",
+            "Ein Wildschwein",
+            "Ein Bär"
+          ],
+          "réponse": "Ein Waschbär",
+          "anecdote": "Disney gab Pocahontas die Merkmale und das Aussehen des Planetenmodells Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "Welche Disney-Prinzessin verlässt Pfeil und Bogen kaum ?",
+          "propositions": [
+            "Merida",
+            "Ariel",
+            "Tiana",
+            "Jasmin"
+          ],
+          "réponse": "Merida",
+          "anecdote": "Merida ist die Hauptfigur des 2012 veröffentlichten animierten Features « Rebel »."
+        },
+        {
+          "id": 20,
+          "question": "Welche erste afroamerikanische Prinzessin wurde von Disney inszeniert ?",
+          "propositions": [
+            "Jasmin",
+            "Ariel",
+            "Tiana",
+            "Aurora"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "Disney kehrt hier seine Entscheidung um, keine zweidimensionalen Filme mehr zu machen."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Welche Disney-Prinzessin ist fachmännisch in Kampfkunst ausgebildet ?",
+          "propositions": [
+            "Tiana",
+            "Ariel",
+            "Merida",
+            "Mulan"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Mulans Mut, Entschlossenheit und Einfallsreichtum werden ihr auf ihren Abenteuern helfen, den Respekt anderer zu verdienen."
+        },
+        {
+          "id": 22,
+          "question": "Was suchen die sieben Zwerge von Schneewittchen in ihrer Mine ?",
+          "propositions": [
+            "Aus Schiefer",
+            "Diamanten",
+            "Öl",
+            "Kohle"
+          ],
+          "réponse": "Diamanten",
+          "anecdote": "Im Vergnügungspark Efteling leben die Zwerge im Märchenwald neben dem Schloss seiner Schwiegermutter."
+        },
+        {
+          "id": 23,
+          "question": "Wie alt wird der berühmte Cartoon « Blanche-Neige » aus den Disney-Studios im Jahr 2037 sein ?",
+          "propositions": [
+            "100 Jahre",
+            "75 Jahre alt",
+            "125 Jahre",
+            "50 Jahre"
+          ],
+          "réponse": "100 Jahre",
+          "anecdote": "Das Produktionsbudget von 1,48 Millionen US-Dollar markiert ein Allzeithoch für diese Zeit."
+        },
+        {
+          "id": 24,
+          "question": "Wie heißt Aschenputtels Schwiegermutterkatze ?",
+          "propositions": [
+            "Luzifer",
+            "Satan",
+            "Diabolo",
+            "Beelzebub"
+          ],
+          "réponse": "Luzifer",
+          "anecdote": "Luzifer ist Lady Trémaines Katze: Betrügerisch und faul stellt er eine Bedrohung für Jack dar."
+        },
+        {
+          "id": 25,
+          "question": "Wie heißt in « Mulan » der Drache, der Hüter der Familie ?",
+          "propositions": [
+            "Shang",
+            "Mushu",
+            "General Li",
+            "Yao"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "Es ist Eddie Murphy, der die Originalstimme von Mushu spielt, während die französische Stimme von José Garcia zur Verfügung gestellt wird."
+        },
+        {
+          "id": 26,
+          "question": "Für Disney, wer ist Rajah, Haustier von Prinzessin Jasmine ?",
+          "propositions": [
+            "Ein Tiger",
+            "Ein Wildschwein",
+            "Ein Vogel",
+            "Ein Waschbär"
+          ],
+          "réponse": "Ein Tiger",
+          "anecdote": "Jasmine und Aladdin erschienen 2002 in einem Trailer zum Film « Lilo und Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "Welche Tiere werden in « Aschenputtel » in Arbeitspferde verwandelt ?",
+          "propositions": [
+            "Gänse",
+            "Schafe",
+            "Maus",
+            "Kaninchen"
+          ],
+          "réponse": "Maus",
+          "anecdote": "Die Zusammensetzung von Aschenputtels Hausschuhen ist Gegenstand einer wiederkehrenden Debatte in Europa."
+        },
+        {
+          "id": 28,
+          "question": "Aus welchem Kunststoff wurde die Hauptmerkmale von Pocahontas hergestellt ?",
+          "propositions": [
+            "Sienna Miller",
+            "Kelly Brook",
+            "Katie Price",
+            "Naomi Campbell"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "Der Charakter von Pocahontas ist lose vom historischen Charakter Matoaka (kleine Schneefeder) inspiriert."
+        },
+        {
+          "id": 29,
+          "question": "Welche Disney-Prinzessin kommuniziert frei mit Natur und Tieren ?",
+          "propositions": [
+            "Merida",
+            "Pocahontas",
+            "Mulan",
+            "Tiana"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "Die Autoren des Films haben einen ökologischen, entschlossenen und körperlich attraktiven Pocahontas erfunden."
+        },
+        {
+          "id": 30,
+          "question": "Welche dieser Prinzessinnen ist sehr oft in ihrem goldgelben Ballkleid vertreten ?",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Schön",
+            "Mulan"
+          ],
+          "réponse": "Schön",
+          "anecdote": "Seit 2011 ist Belle eine der Hauptfiguren in der Fernsehserie « Es war einmal »."
+        }
+      ]
+    },
+    "es": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "¿Qué flor que representa el amor es portadora de mala suerte en « La bella y la bestia » ?",
+          "propositions": [
+            "Un narciso",
+            "Un tulipán",
+            "Una rosa",
+            "Un clavel"
+          ],
+          "réponse": "Una rosa",
+          "anecdote": "Aunque no se menciona en la película, el joven príncipe, cuyo lema es Vainc qui se vaincre, se llama Adam."
+        },
+        {
+          "id": 2,
+          "question": "Después de la medianoche, ¿en qué se convierte el suntuoso carruaje de Cenicienta ?",
+          "propositions": [
+            "En ratón",
+            "En pastel",
+            "En calabaza",
+            "Apple"
+          ],
+          "réponse": "En calabaza",
+          "anecdote": "Cenicienta es una mujer joven sujeta a la autoridad de su madrastra, Lady Trémaine, y la de sus dos hermanastras."
+        },
+        {
+          "id": 3,
+          "question": "¿Qué princesa de Disney puedes oír cantar « Silbato mientras trabajas » ?",
+          "propositions": [
+            "Mérida",
+            "Blancanieves",
+            "Tiana",
+            "Pocahontas"
+          ],
+          "réponse": "Blancanieves",
+          "anecdote": "La versión creada por Disney Studios difiere ligeramente de otras adaptaciones del cuento."
+        },
+        {
+          "id": 4,
+          "question": "¿Cuántos enanos han recibido a Blancanieves en su cabaña en lo profundo del bosque ?",
+          "propositions": [
+            "Siete",
+            "Cinco",
+            "Cuatro",
+            "Seis"
+          ],
+          "réponse": "Siete",
+          "anecdote": "« Blancanieves y los siete enanitos » es el primer largometraje animado de Disney."
+        },
+        {
+          "id": 5,
+          "question": "¿Quién canta « Un día vendrá mi príncipe » en una caricatura de Disney ?",
+          "propositions": [
+            "Blancanieves",
+            "Jasmine",
+            "Alice",
+            "Cenicienta"
+          ],
+          "réponse": "Blancanieves",
+          "anecdote": "La película « Blanche-Neige » es una adaptación del cuento homónimo de los hermanos Grimm publicado en 1812."
+        },
+        {
+          "id": 6,
+          "question": "¿Cómo despierta el príncipe azul a Blancanieves ?",
+          "propositions": [
+            "Por un mordisco",
+            "Por un beso",
+            "Por una canción",
+            "Por una bofetada"
+          ],
+          "réponse": "Por un beso",
+          "anecdote": "La versión más conocida de « Blanche-Neige » es la de Jacob y Wilhelm Grimm, publicada en 1812."
+        },
+        {
+          "id": 7,
+          "question": "¿Qué princesa famosa de la pantalla grande es envenenada con una manzana ?",
+          "propositions": [
+            "Rapunzel",
+            "Blancanieves",
+            "Ariel",
+            "Cenicienta"
+          ],
+          "réponse": "Blancanieves",
+          "anecdote": "Blancanieves es una princesa muy hermosa, lo que pone celosa a su madrastra, la Reina."
+        },
+        {
+          "id": 8,
+          "question": "¿A qué heroína de Disney se le niega el derecho a permanecer en el baile después de la medianoche ?",
+          "propositions": [
+            "Aurora",
+            "Cenicienta",
+            "Alice",
+            "Blancanieves"
+          ],
+          "réponse": "Cenicienta",
+          "anecdote": "Algunas versiones de Cenicienta pueden ser muy diferentes entre sí."
+        },
+        {
+          "id": 9,
+          "question": "¿A qué hora la ropa de Cenicienta vuelve a sus harapos habituales ?",
+          "propositions": [
+            "Once en punto",
+            "Tres horas",
+            "Medianoche",
+            "Mediodía"
+          ],
+          "réponse": "Medianoche",
+          "anecdote": "Occidente conoce especialmente la historia de Cenicienta a través de las versiones de Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "¿Quién fue colocado en un ataúd de vidrio por los enanos y luego despertado por un príncipe ?",
+          "propositions": [
+            "Blancanieves",
+            "Cenicienta",
+            "Fiona",
+            "Esmeralda"
+          ],
+          "réponse": "Blancanieves",
+          "anecdote": "Blancanieves demuestra que no debes apegarte a cosas efímeras como la belleza y la juventud."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "¿Qué color se asocia a menudo con Aurora en « La bella durmiente » ?",
+          "propositions": [
+            "Rojo",
+            "Rose",
+            "Verde",
+            "Azul"
+          ],
+          "réponse": "Rose",
+          "anecdote": "El famoso castillo de la Princesa Aurora se utiliza en los parques de Disneyland como un ícono del área de Fantasyland."
+        },
+        {
+          "id": 12,
+          "question": "¿Qué aventuras de Disney tienen lugar en el norte de China ?",
+          "propositions": [
+            "Pocahontas",
+            "Rebelle",
+            "Mulan",
+            "Raiponce"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "El personaje del personaje de Mulan es diferente a los clásicos de Disney, especialmente a las princesas."
+        },
+        {
+          "id": 13,
+          "question": "¿Qué princesa de Disney es una sirena que vive con su padre, el rey Tritón ?",
+          "propositions": [
+            "Mérida",
+            "Ariel",
+            "Tiana",
+            "Jasmine"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "Según los informes, el presentador Glen Keane dijo en una charla que la apariencia del personaje se basaba en su propia esposa."
+        },
+        {
+          "id": 14,
+          "question": "En el mundo de Disney, ¿qué princesa canta « Este sueño azul » ?",
+          "propositions": [
+            "Jasmine",
+            "Tiana",
+            "Ariel",
+            "Mérida"
+          ],
+          "réponse": "Jasmine",
+          "anecdote": "Jasmine es un personaje de ficción que apareció por primera vez en 1992 en la película animada « Aladdin »."
+        },
+        {
+          "id": 15,
+          "question": "¿Qué princesa de Disney es famosa por su largo cabello rubio ?",
+          "propositions": [
+            "Rapunzel",
+            "Mérida",
+            "Ariel",
+            "Tiana"
+          ],
+          "réponse": "Rapunzel",
+          "anecdote": "Si cortas una sección del cabello de Rapunzel, se vuelve marrón y pierde sus efectos mágicos."
+        },
+        {
+          "id": 16,
+          "question": "¿Qué película de Disney reunió a un pobre ladrón y una hermosa princesa en las pantallas ?",
+          "propositions": [
+            "Rebelle",
+            "Pocahontas",
+            "Raiponce",
+            "Aladdin"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "La apariencia de Jasmine se inspiró en Jennifer Connelly, pero también en la hermana del anfitrión del personaje."
+        },
+        {
+          "id": 17,
+          "question": "¿Quién hizo el primer vestido de baile que usó Cenicienta ?",
+          "propositions": [
+            "Niños",
+            "Ratones",
+            "Brujas",
+            "Búhos"
+          ],
+          "réponse": "Ratones",
+          "anecdote": "Cenicienta se llama así porque descansa en las cenizas después de que el trabajo está terminado."
+        },
+        {
+          "id": 18,
+          "question": "¿Quién es Meeko en « Pocahontas, una leyenda india » ?",
+          "propositions": [
+            "Un pájaro",
+            "Un oso",
+            "Un mapache",
+            "Un jabalí"
+          ],
+          "réponse": "Un mapache",
+          "anecdote": "Disney le dio a Pocahontas las características y el aspecto de la modelo planetaria Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "¿Qué princesa de Disney casi nunca deja su arco y flechas ?",
+          "propositions": [
+            "Mérida",
+            "Ariel",
+            "Tiana",
+            "Jasmine"
+          ],
+          "réponse": "Mérida",
+          "anecdote": "Mérida es el personaje principal de la película animada « Rebel », lanzada en 2012."
+        },
+        {
+          "id": 20,
+          "question": "¿Qué primera princesa afroamericana fue puesta en escena por Disney ?",
+          "propositions": [
+            "Tiana",
+            "Aurora",
+            "Jasmine",
+            "Ariel"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "Disney está revirtiendo aquí su decisión de dejar de hacer películas bidimensionales."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "¿Qué princesa de Disney está expertamente entrenada en artes marciales ?",
+          "propositions": [
+            "Mérida",
+            "Mulan",
+            "Tiana",
+            "Ariel"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "El valor, la determinación y el ingenio de Mulan la ayudarán en sus aventuras para ganarse el respeto de los demás."
+        },
+        {
+          "id": 22,
+          "question": "¿Qué buscan los siete enanos de Blancanieves en su mina ?",
+          "propositions": [
+            "Carbón",
+            "Diamantes",
+            "De pizarra",
+            "Petróleo ","Du pétrole"
+          ],
+          "réponse": "Diamantes",
+          "anecdote": "En el parque de atracciones Efteling, los enanos viven en el bosque de cuento de hadas, junto al castillo de su suegra."
+        },
+        {
+          "id": 23,
+          "question": "En 2037, ¿qué edad tendrá la famosa caricatura « Blanche-Neige » de los estudios Disney ?",
+          "propositions": [
+            "100 años",
+            "75 años",
+            "50 años",
+            "125 años"
+          ],
+          "réponse": "100 años",
+          "anecdote": "El presupuesto de producción, 1,48 millones de dólares, marca un récord histórico para la época."
+        },
+        {
+          "id": 24,
+          "question": "¿Cómo se llama el gato de la suegra de Cenicienta ?",
+          "propositions": [
+            "Satanás",
+            "Lucifer",
+            "Diabolo",
+            "Beelzebub"
+          ],
+          "réponse": "Lucifer",
+          "anecdote": "Lucifer es el gato de Lady Trémaine: engañoso y perezoso, representa una amenaza para Jack."
+        },
+        {
+          "id": 25,
+          "question": "En « Mulan », ¿cómo se llama el dragón, el guardián de la familia ?",
+          "propositions": [
+            "General Li",
+            "Yao",
+            "Mushu",
+            "Shang"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "Es Eddie Murphy quien interpreta la voz original de Mushu, mientras que la voz francesa corre a cargo de José García."
+        },
+        {
+          "id": 26,
+          "question": "Para Disney, ¿quién es Rajah, la mascota de la princesa Jasmine ?",
+          "propositions": [
+            "Un jabalí",
+            "Un pájaro",
+            "Un mapache",
+            "Un tigre"
+          ],
+          "réponse": "Un tigre",
+          "anecdote": "Jasmine y Aladdin aparecieron en un tráiler de 2002 de la película « Lilo e Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "En « Cenicienta », ¿qué animales se transforman en caballos de trabajo ?",
+          "propositions": [
+            "Ratón",
+            "Gansos",
+            "Ovejas",
+            "Conejos"
+          ],
+          "réponse": "Ratón",
+          "anecdote": "La composición de las zapatillas de Cenicienta es objeto de un debate recurrente en Europa."
+        },
+        {
+          "id": 28,
+          "question": "¿El plástico de qué maniquí se utilizó para crear las principales características de Pocahontas ?",
+          "propositions": [
+            "Naomi Campbell",
+            "Sienna Miller",
+            "Precio de Katie",
+            "Kelly Brook"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "El personaje de Pocahontas está vagamente inspirado en el personaje histórico Matoaka (Pequeña pluma de nieve)."
+        },
+        {
+          "id": 29,
+          "question": "¿Qué princesa de Disney se comunica libremente con la naturaleza y los animales ?",
+          "propositions": [
+            "Mulan",
+            "Pocahontas",
+            "Mérida",
+            "Tiana"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "Los guionistas de la película han inventado una Pocahontas ecológica, decidida y físicamente atractiva."
+        },
+        {
+          "id": 30,
+          "question": "¿Cuál de estas princesas se representa muy a menudo con su vestido de baile amarillo dorado ?",
+          "propositions": [
+            "Tiana",
+            "Hermosa",
+            "Mulan",
+            "Mérida"
+          ],
+          "réponse": "Hermosa",
+          "anecdote": "Desde 2011, Belle ha sido uno de los personajes principales de la serie de televisión « Once Upon a Time »."
+        }
+      ]
+    },
+    "it": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Quale fiore che rappresenta l'amore è portatore di sfortuna in « La bella e la bestia » ?",
+          "propositions": [
+            "Un garofano",
+            "Un narciso",
+            "Una rosa",
+            "Un tulipano"
+          ],
+          "réponse": "Una rosa",
+          "anecdote": "Sebbene non sia menzionato nel film, il giovane principe, il cui motto è Vainc qui se vaincre, si chiama Adam."
+        },
+        {
+          "id": 2,
+          "question": "Dopo mezzanotte, in cosa si trasforma la sontuosa carrozza di Cenerentola ?",
+          "propositions": [
+            "Nella zucca",
+            "Nel mouse",
+            "Apple",
+            "Nella torta"
+          ],
+          "réponse": "Nella zucca",
+          "anecdote": "Cenerentola è una giovane donna soggetta all'autorità della sua matrigna, Lady Trémaine, e a quella delle sue due sorellastre."
+        },
+        {
+          "id": 3,
+          "question": "Quale principessa Disney puoi sentire cantare « Fischietto mentre lavori » ?",
+          "propositions": [
+            "Pocahontas",
+            "Biancaneve",
+            "Merida",
+            "Tiana"
+          ],
+          "réponse": "Biancaneve",
+          "anecdote": "La versione creata da Disney Studios differisce leggermente dagli altri adattamenti del racconto."
+        },
+        {
+          "id": 4,
+          "question": "Quanti nani hanno accolto Biancaneve nella loro casetta nel bosco ?",
+          "propositions": [
+            "Cinque",
+            "Seven",
+            "Quattro",
+            "Sei"
+          ],
+          "réponse": "Seven",
+          "anecdote": "« Biancaneve e i sette nani » è il primo film d'animazione Disney."
+        },
+        {
+          "id": 5,
+          "question": "Chi canta « Un giorno il mio principe verrà » in un cartone animato Disney ?",
+          "propositions": [
+            "Cenerentola",
+            "Biancaneve",
+            "Jasmine",
+            "Alice"
+          ],
+          "réponse": "Biancaneve",
+          "anecdote": "Il film « Blanche-Neige » è un adattamento dell'omonimo racconto dei fratelli Grimm pubblicato nel 1812."
+        },
+        {
+          "id": 6,
+          "question": "Come fa il principe azzurro a svegliare Biancaneve ?",
+          "propositions": [
+            "Con un bacio",
+            "Con uno schiaffo",
+            "Con una canzone",
+            "Per un morso"
+          ],
+          "réponse": "Con un bacio",
+          "anecdote": "La versione più nota di « Blanche-Neige » è quella di Jacob e Wilhelm Grimm, pubblicata nel 1812."
+        },
+        {
+          "id": 7,
+          "question": "Quale famosa principessa del grande schermo è avvelenata con una mela ?",
+          "propositions": [
+            "Biancaneve",
+            "Cenerentola",
+            "Rapunzel",
+            "Ariel"
+          ],
+          "réponse": "Biancaneve",
+          "anecdote": "Biancaneve è una principessa molto bella, il che rende gelosa la sua matrigna, la regina."
+        },
+        {
+          "id": 8,
+          "question": "A quale eroina Disney viene negato il diritto di restare al ballo dopo mezzanotte ?",
+          "propositions": [
+            "Aurora",
+            "Biancaneve",
+            "Cenerentola",
+            "Alice"
+          ],
+          "réponse": "Cenerentola",
+          "anecdote": "Alcune versioni di Cenerentola possono essere molto diverse l'una dall'altra."
+        },
+        {
+          "id": 9,
+          "question": "A che ora i vestiti di Cenerentola tornano ai suoi soliti stracci ?",
+          "propositions": [
+            "Mezzogiorno",
+            "Undici in punto",
+            "Tre ore",
+            "Mezzanotte"
+          ],
+          "réponse": "Mezzanotte",
+          "anecdote": "L'Occidente conosce soprattutto la storia di Cenerentola attraverso le versioni di Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "Chi è stato messo in una bara di vetro dai nani e poi risvegliato da un principe ?",
+          "propositions": [
+            "Biancaneve",
+            "Fiona",
+            "Esmeralda",
+            "Cenerentola"
+          ],
+          "réponse": "Biancaneve",
+          "anecdote": "Biancaneve mostra che non dovresti attaccarti a cose effimere come la bellezza e la giovinezza."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Di che colore è spesso associato Aurora in « La bella addormentata » ?",
+          "propositions": [
+            "Rose",
+            "Blu",
+            "Verde",
+            "Rosso"
+          ],
+          "réponse": "Rose",
+          "anecdote": "Il famoso castello della principessa Aurora viene utilizzato nei parchi Disneyland come icona dell'area di Fantasyland."
+        },
+        {
+          "id": 12,
+          "question": "Quali avventure Disney si svolgono nel nord della Cina ?",
+          "propositions": [
+            "Pocahontas",
+            "Mulan",
+            "Rebelle",
+            "Raiponce"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Il personaggio del personaggio di Mulan è diverso dai classici Disney, in particolare le principesse."
+        },
+        {
+          "id": 13,
+          "question": "Quale principessa Disney è una sirena che vive con suo padre, il re Tritone ?",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Jasmine",
+            "Ariel"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "Secondo quanto riferito, il conduttore Glen Keane ha detto in un discorso che l'aspetto del personaggio era basato su sua moglie."
+        },
+        {
+          "id": 14,
+          "question": "Nel mondo Disney, quale principessa canta « Questo sogno blu » ?",
+          "propositions": [
+            "Tiana",
+            "Jasmine",
+            "Merida",
+            "Ariel"
+          ],
+          "réponse": "Jasmine",
+          "anecdote": "Jasmine è un personaggio immaginario apparso per la prima volta nel 1992 nel film d'animazione « Aladdin »."
+        },
+        {
+          "id": 15,
+          "question": "Quale principessa Disney è famosa per i suoi lunghi capelli biondi ?",
+          "propositions": [
+            "Ariel",
+            "Rapunzel",
+            "Merida",
+            "Tiana"
+          ],
+          "réponse": "Rapunzel",
+          "anecdote": "Se tagli una sezione dei capelli di Rapunzel, diventa marrone e perde i suoi effetti magici."
+        },
+        {
+          "id": 16,
+          "question": "Quale film Disney ha messo insieme un povero ladro e una bellissima principessa sugli schermi ?",
+          "propositions": [
+            "Pocahontas",
+            "Rebelle",
+            "Aladdin",
+            "Raiponce"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "L'aspetto di Jasmine è stato ispirato da Jennifer Connelly ma anche dalla sorella dell'ospite del personaggio."
+        },
+        {
+          "id": 17,
+          "question": "Chi ha realizzato il primo abito da ballo indossato da Cenerentola ?",
+          "propositions": [
+            "Gufi",
+            "Streghe",
+            "Topi",
+            "Bambini"
+          ],
+          "réponse": "Topi",
+          "anecdote": "Cenerentola è così chiamata perché riposa tra le ceneri dopo che il lavoro è finito."
+        },
+        {
+          "id": 18,
+          "question": "Chi è Meeko in « Pocahontas, una leggenda indiana » ?",
+          "propositions": [
+            "Un uccello",
+            "Un procione",
+            "Un cinghiale",
+            "Un orso"
+          ],
+          "réponse": "Un procione",
+          "anecdote": "Disney ha dato a Pocahontas le caratteristiche e l'aspetto del modello planetario Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "Quale principessa Disney lascia raramente il suo arco e le sue frecce ?",
+          "propositions": [
+            "Merida",
+            "Tiana",
+            "Ariel",
+            "Jasmine"
+          ],
+          "réponse": "Merida",
+          "anecdote": "Merida è la protagonista del film d'animazione « Rebel », uscito nel 2012."
+        },
+        {
+          "id": 20,
+          "question": "Quale prima principessa afroamericana è stata messa in scena dalla Disney ?",
+          "propositions": [
+            "Ariel",
+            "Aurora",
+            "Tiana",
+            "Jasmine"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "La Disney torna qui sulla sua decisione di non fare più film bidimensionali."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Quale principessa Disney è esperta nelle arti marziali ?",
+          "propositions": [
+            "Mulan",
+            "Merida",
+            "Tiana",
+            "Ariel"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Il coraggio, la determinazione e l'intraprendenza di Mulan la aiuteranno nelle sue avventure a guadagnarsi il rispetto degli altri."
+        },
+        {
+          "id": 22,
+          "question": "Cosa cercano i sette nani di Biancaneve nella loro miniera ?",
+          "propositions": [
+            "Olio",
+            "Carbone",
+            "Diamanti",
+            "Dallo scisto"
+          ],
+          "réponse": "Diamanti",
+          "anecdote": "Nel parco dei divertimenti Efteling, i nani vivono nella Foresta delle fiabe, vicino al castello di sua suocera."
+        },
+        {
+          "id": 23,
+          "question": "Nel 2037, quanti anni avrà il famoso cartone animato « Blanche-Neige » degli studi Disney ?",
+          "propositions": [
+            "125 anni",
+            "100 anni",
+            "75 anni",
+            "50 anni"
+          ],
+          "réponse": "100 anni",
+          "anecdote": "Il budget di produzione, 1,48 milioni di dollari, segna il massimo storico per l'epoca."
+        },
+        {
+          "id": 24,
+          "question": "Qual è il nome del gatto della suocera di Cenerentola ?",
+          "propositions": [
+            "Diabolo",
+            "Lucifero",
+            "Belzebù",
+            "Satana"
+          ],
+          "réponse": "Lucifero",
+          "anecdote": "Lucifero è il gatto di Lady Trémaine: ingannevole e pigro, rappresenta una minaccia per Jack."
+        },
+        {
+          "id": 25,
+          "question": "In « Mulan », qual è il nome del drago, il custode della famiglia ?",
+          "propositions": [
+            "Mushu",
+            "Shang",
+            "Yao",
+            "Generale Li"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "È Eddie Murphy che interpreta la voce originale di Mushu, mentre la voce francese è fornita da José Garcia."
+        },
+        {
+          "id": 26,
+          "question": "Per la Disney, chi è Rajah, animale domestico della principessa Jasmine ?",
+          "propositions": [
+            "Un cinghiale",
+            "Un procione",
+            "Un uccello",
+            "Una tigre"
+          ],
+          "réponse": "Una tigre",
+          "anecdote": "Jasmine e Aladdin sono apparsi nel trailer del 2002 del film « Lilo e Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "In « Cenerentola », quali animali si trasformano in cavalli da lavoro ?",
+          "propositions": [
+            "Mouse",
+            "Oche",
+            "Conigli",
+            "Pecora"
+          ],
+          "réponse": "Mouse",
+          "anecdote": "La composizione delle pantofole di Cenerentola è oggetto di dibattito ricorrente in Europa."
+        },
+        {
+          "id": 28,
+          "question": "La plastica di quale manichino è stata utilizzata per creare le caratteristiche principali di Pocahontas ?",
+          "propositions": [
+            "Kelly Brook",
+            "Katie Price",
+            "Naomi Campbell",
+            "Sienna Miller"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "Il personaggio di Pocahontas è vagamente ispirato al personaggio storico Matoaka (Piccola piuma di neve)."
+        },
+        {
+          "id": 29,
+          "question": "Quale principessa Disney comunica liberamente con la natura e gli animali ?",
+          "propositions": [
+            "Mulan",
+            "Tiana",
+            "Merida",
+            "Pocahontas"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "Gli autori del film hanno inventato una Pocahontas ecologica, determinata e fisicamente attraente."
+        },
+        {
+          "id": 30,
+          "question": "Quale di queste principesse è molto spesso rappresentata nel suo abito da ballo giallo dorato ?",
+          "propositions": [
+            "Mulan",
+            "Bello",
+            "Tiana",
+            "Merida"
+          ],
+          "réponse": "Bello",
+          "anecdote": "Dal 2011, Belle è stata uno dei personaggi principali della serie televisiva « C'era una volta »."
+        }
+      ]
+    },
+    "nl": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Welke bloem die liefde vertegenwoordigt, is de drager van pech in « Beauty and the Beast » ?",
+          "propositions": [
+            "Een roos",
+            "Een anjer",
+            "Een narcis",
+            "Een tulp"
+          ],
+          "réponse": "Een roos",
+          "anecdote": "Hoewel niet vermeld in de film, wordt de jonge prins, wiens motto Vainc qui se vaincre is, Adam genoemd."
+        },
+        {
+          "id": 2,
+          "question": "Wat verandert het weelderige rijtuig van Assepoester na middernacht in ?",
+          "propositions": [
+            "In muis",
+            "In pompoen",
+            "Appel",
+            "In cake"
+          ],
+          "réponse": "In pompoen",
+          "anecdote": "Assepoester is een jonge vrouw die onder het gezag staat van haar stiefmoeder, Lady Trémaine, en dat van haar twee halfzussen."
+        },
+        {
+          "id": 3,
+          "question": "Welke Disney-prinses kun je « Fluitje horen zingen tijdens het werken » ?",
+          "propositions": [
+            "Pocahontas",
+            "Tiana",
+            "Merida",
+            "Sneeuwwitje"
+          ],
+          "réponse": "Sneeuwwitje",
+          "anecdote": "De versie gemaakt door Disney Studios verschilt enigszins van andere aanpassingen van het verhaal."
+        },
+        {
+          "id": 4,
+          "question": "Hoeveel dwergen hebben Sneeuwwitje verwelkomd in hun huisje diep in het bos ?",
+          "propositions": [
+            "Vijf",
+            "Vier",
+            "Zeven",
+            "Zes"
+          ],
+          "réponse": "Zeven",
+          "anecdote": "« Sneeuwwitje en de zeven dwergen » is de eerste animatiefilm van Disney."
+        },
+        {
+          "id": 5,
+          "question": "Wie zingt « Op een dag komt mijn prins » in een Disney-tekenfilm ?",
+          "propositions": [
+            "Assepoester",
+            "Jasmijn",
+            "Sneeuwwitje",
+            "Alice"
+          ],
+          "réponse": "Sneeuwwitje",
+          "anecdote": "De film « Blanche-Neige » is een bewerking van het gelijknamige verhaal van de gebroeders Grimm uit 1812."
+        },
+        {
+          "id": 6,
+          "question": "Hoe maakt Prince Charming Sneeuwwitje wakker ?",
+          "propositions": [
+            "Door een klap",
+            "Door een hapje",
+            "Door een lied",
+            "Door een kus"
+          ],
+          "réponse": "Door een kus",
+          "anecdote": "De bekendste versie van « Blanche-Neige » is die van Jacob en Wilhelm Grimm, gepubliceerd in 1812."
+        },
+        {
+          "id": 7,
+          "question": "Welke beroemde prinses van het grote scherm is vergiftigd met een appel ?",
+          "propositions": [
+            "Assepoester",
+            "Sneeuwwitje",
+            "Raponsje",
+            "Ariel"
+          ],
+          "réponse": "Sneeuwwitje",
+          "anecdote": "Sneeuwwitje is een heel mooie prinses, waar haar stiefmoeder, de koningin, jaloers op wordt."
+        },
+        {
+          "id": 8,
+          "question": "Welke Disney-heldin krijgt het recht om na middernacht bij het bal te blijven ?",
+          "propositions": [
+            "Aurora",
+            "Assepoester",
+            "Alice",
+            "Sneeuwwitje"
+          ],
+          "réponse": "Assepoester",
+          "anecdote": "Sommige versies van Assepoester kunnen erg van elkaar verschillen."
+        },
+        {
+          "id": 9,
+          "question": "Hoe laat keren de kleren van Assepoester terug naar haar gebruikelijke vodden ?",
+          "propositions": [
+            "Middag",
+            "Middernacht",
+            "Elf uur",
+            "Drie uur"
+          ],
+          "réponse": "Middernacht",
+          "anecdote": "Het Westen kent vooral het verhaal van Assepoester door de versies van Charles Perrault."
+        },
+        {
+          "id": 10,
+          "question": "Wie werd er door dwergen in een glazen kist gelegd en vervolgens gewekt door een prins ?",
+          "propositions": [
+            "Esmeralda",
+            "Fiona",
+            "Assepoester",
+            "Sneeuwwitje"
+          ],
+          "réponse": "Sneeuwwitje",
+          "anecdote": "Sneeuwwitje laat zien dat je niet gehecht moet raken aan kortstondige dingen als schoonheid en jeugd."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Welke kleur wordt vaak geassocieerd met Aurora in « Doornroosje » ?",
+          "propositions": [
+            "Blauw",
+            "Groen",
+            "Rood",
+            "Roos"
+          ],
+          "réponse": "Roos",
+          "anecdote": "Het beroemde Princess Aurora Castle wordt in de Disneyland-parken gebruikt als een icoon van het Fantasyland-gebied."
+        },
+        {
+          "id": 12,
+          "question": "Welke Disney-avonturen vinden plaats in Noord-China ?",
+          "propositions": [
+            "Raiponce",
+            "Pocahontas",
+            "Rebelle",
+            "Mulan"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Het karakter van Mulans personage verschilt van de Disney-klassiekers, vooral de prinsessen."
+        },
+        {
+          "id": 13,
+          "question": "Welke Disney-prinses is een zeemeermin die bij haar vader, koning Triton, woont ?",
+          "propositions": [
+            "Merida",
+            "Ariel",
+            "Jasmijn",
+            "Tiana"
+          ],
+          "réponse": "Ariel",
+          "anecdote": "Gastheer Glen Keane zei naar verluidt in een gesprek dat het uiterlijk van het personage was gebaseerd op zijn eigen vrouw."
+        },
+        {
+          "id": 14,
+          "question": "Welke prinses zingt in de wereld van Disney « Deze blauwe droom » ?",
+          "propositions": [
+            "Tiana",
+            "Jasmijn",
+            "Merida",
+            "Ariel"
+          ],
+          "réponse": "Jasmijn",
+          "anecdote": "Jasmine is een fictief personage dat voor het eerst verscheen in 1992 in de animatiefilm « Aladdin »."
+        },
+        {
+          "id": 15,
+          "question": "Welke Disney-prinses staat bekend om haar lange blonde haar ?",
+          "propositions": [
+            "Raponsje",
+            "Tiana",
+            "Merida",
+            "Ariel"
+          ],
+          "réponse": "Raponsje",
+          "anecdote": "Als je een deel van Raponsje's haar knipt, wordt het bruin en verliest het zijn magische effecten."
+        },
+        {
+          "id": 16,
+          "question": "Welke Disney-film bracht een arme dief en een mooie prinses samen op de schermen ?",
+          "propositions": [
+            "Raiponce",
+            "Rebelle",
+            "Pocahontas",
+            "Aladdin"
+          ],
+          "réponse": "Aladdin",
+          "anecdote": "Jasmine's uiterlijk werd geïnspireerd door Jennifer Connelly, maar ook door de zus van de gastheer van het personage."
+        },
+        {
+          "id": 17,
+          "question": "Wie maakte de eerste baljurk die Assepoester droeg ?",
+          "propositions": [
+            "Muizen",
+            "Kinderen",
+            "Heksen",
+            "Uilen"
+          ],
+          "réponse": "Muizen",
+          "anecdote": "Assepoester wordt zo genoemd omdat ze in de as rust nadat de klus is geklaard."
+        },
+        {
+          "id": 18,
+          "question": "Wie is Meeko in « Pocahontas, een Indiase legende » ?",
+          "propositions": [
+            "Een wild zwijn",
+            "Een wasbeer",
+            "Een vogel",
+            "Een beer"
+          ],
+          "réponse": "Een wasbeer",
+          "anecdote": "Disney gaf Pocahontas de kenmerken en het uiterlijk van planetair model Naomi Campbell."
+        },
+        {
+          "id": 19,
+          "question": "Welke Disney-prinses verlaat haar pijl en boog bijna nooit ?",
+          "propositions": [
+            "Tiana",
+            "Merida",
+            "Jasmijn",
+            "Ariel"
+          ],
+          "réponse": "Merida",
+          "anecdote": "Merida is de hoofdpersoon van de animatiefilm « Rebel », uitgebracht in 2012."
+        },
+        {
+          "id": 20,
+          "question": "Welke eerste Afro-Amerikaanse prinses werd opgevoerd door Disney ?",
+          "propositions": [
+            "Jasmijn",
+            "Aurora",
+            "Ariel",
+            "Tiana"
+          ],
+          "réponse": "Tiana",
+          "anecdote": "Disney draait hier zijn beslissing om geen tweedimensionale films meer te maken terug."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Welke Disney-prinses is vakkundig getraind in vechtsporten ?",
+          "propositions": [
+            "Ariel",
+            "Tiana",
+            "Mulan",
+            "Merida"
+          ],
+          "réponse": "Mulan",
+          "anecdote": "Mulans moed, vastberadenheid en vindingrijkheid zullen haar helpen bij haar avonturen om het respect van anderen te verdienen."
+        },
+        {
+          "id": 22,
+          "question": "Waar zoeken de zeven dwergen van Sneeuwwitje naar in hun mijn ?",
+          "propositions": [
+            "Olie",
+            "Steenkool",
+            "Van schalie",
+            "Diamanten"
+          ],
+          "réponse": "Diamanten",
+          "anecdote": "In attractiepark de Efteling wonen de dwergen in het Sprookjesbos, naast het kasteel van zijn schoonmoeder."
+        },
+        {
+          "id": 23,
+          "question": "Hoe oud zal de beroemde tekenfilm « Blanche-Neige » uit de Disney-studio's in 2037 zijn ?",
+          "propositions": [
+            "75 jaar",
+            "50 jaar",
+            "100 jaar",
+            "125 jaar"
+          ],
+          "réponse": "100 jaar",
+          "anecdote": "Het productiebudget, $ 1,48 miljoen, markeert een recordhoogte voor die tijd."
+        },
+        {
+          "id": 24,
+          "question": "Hoe heet de kat van Assepoester's schoonmoeder ?",
+          "propositions": [
+            "Beëlzebub",
+            "Satan",
+            "Lucifer",
+            "Diabolo"
+          ],
+          "réponse": "Lucifer",
+          "anecdote": "Lucifer is de kat van Lady Trémaine: bedrieglijk en lui, hij vormt een bedreiging voor Jack."
+        },
+        {
+          "id": 25,
+          "question": "In « Mulan », wat is de naam van de draak, de bewaker van de familie ?",
+          "propositions": [
+            "Generaal Li",
+            "Yao",
+            "Mushu",
+            "Shang"
+          ],
+          "réponse": "Mushu",
+          "anecdote": "Het is Eddie Murphy die de originele stem van Mushu speelt, terwijl de Franse stem wordt verzorgd door José Garcia."
+        },
+        {
+          "id": 26,
+          "question": "Voor Disney, wie is Rajah, het huisdier van prinses Jasmine ?",
+          "propositions": [
+            "Een vogel",
+            "Een wild zwijn",
+            "Een tijger",
+            "Een wasbeer"
+          ],
+          "réponse": "Een tijger",
+          "anecdote": "Jasmine en Aladdin verschenen in een trailer uit 2002 voor de film « Lilo en Stitch »."
+        },
+        {
+          "id": 27,
+          "question": "Welke dieren worden in « Assepoester » omgevormd tot werkpaarden ?",
+          "propositions": [
+            "Konijnen",
+            "Schaap",
+            "Ganzen",
+            "Muis"
+          ],
+          "réponse": "Muis",
+          "anecdote": "De samenstelling van de pantoffels van Assepoester is een onderwerp van terugkerende discussie in Europa."
+        },
+        {
+          "id": 28,
+          "question": "Van welk plastic is een paspop gebruikt om de belangrijkste kenmerken van Pocahontas te creëren ?",
+          "propositions": [
+            "Katie Price",
+            "Kelly Brook",
+            "Naomi Campbell",
+            "Sienna Miller"
+          ],
+          "réponse": "Naomi Campbell",
+          "anecdote": "Het karakter van Pocahontas is losjes geïnspireerd op het historische karakter Matoaka (kleine sneeuwveer)."
+        },
+        {
+          "id": 29,
+          "question": "Welke Disney-prinses communiceert vrijuit met de natuur en dieren ?",
+          "propositions": [
+            "Tiana",
+            "Mulan",
+            "Merida",
+            "Pocahontas"
+          ],
+          "réponse": "Pocahontas",
+          "anecdote": "De schrijvers van de film hebben een ecologische, vastberaden en fysiek aantrekkelijke Pocahontas uitgevonden."
+        },
+        {
+          "id": 30,
+          "question": "Welke van deze prinsessen wordt heel vaak afgebeeld in haar goudgele baljurk ?",
+          "propositions": [
+            "Mooi",
+            "Merida",
+            "Tiana",
+            "Mulan"
+          ],
+          "réponse": "Mooi",
+          "anecdote": "Sinds 2011 is Belle een van de hoofdpersonen in de televisieserie « Once Upon a Time »."
+        }
+      ]
+    }
+  }
+}

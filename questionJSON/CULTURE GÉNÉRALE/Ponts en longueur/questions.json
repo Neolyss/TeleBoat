@@ -1,0 +1,2216 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Ponts en longueur (Voûtés, à poutres, en arc ou suspendus)",
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "Dans quelle ville peut-on admirer le très touristique pont des Soupirs ?",
+          "propositions": [
+            "Avignon",
+            "Venise",
+            "Londres",
+            "Prague"
+          ],
+          "réponse": "Venise",
+          "anecdote": "Le pont des Soupirs, suggérant le soupir des prisonniers, est l'un des lieux touristiques les plus célèbres de la ville de Venise."
+        },
+        {
+          "id": 2,
+          "question": "Dans quelle ville américaine se dresse le Golden Gate Bridge ?",
+          "propositions": [
+            "Los Angeles",
+            "San Diego",
+            "New York",
+            "San Francisco"
+          ],
+          "réponse": "San Francisco",
+          "anecdote": "Le « Golden Gate Bridge » a été jusqu'en 1964 le pont suspendu le plus long du monde."
+        },
+        {
+          "id": 3,
+          "question": "Quelle rivière aux crues redoutables est enjambée par le pont du Gard ?",
+          "propositions": [
+            "La Bièvre",
+            "Le Gardon",
+            "Le Rhône",
+            "La Garonne"
+          ],
+          "réponse": "Le Gardon",
+          "anecdote": "Le pont du Gard est un pont-aqueduc romain à trois niveaux, situé à Vers-Pont-du-Gard entre Uzès et Nîmes, qui enjambe le Gardon."
+        },
+        {
+          "id": 4,
+          "question": "Quel grand pont français est proche du pont de Normandie ?",
+          "propositions": [
+            "Pont de Tancarville",
+            "Pont Mathilde",
+            "Pont de Gaillon",
+            "Pont de Rangiport"
+          ],
+          "réponse": "Pont de Tancarville",
+          "anecdote": "Le pont de Tancarville a été un temps le pont le plus proche de l'estuaire."
+        },
+        {
+          "id": 5,
+          "question": "Quel pont basculant construit sur la Tamise se situe près de la tour de Londres ?",
+          "propositions": [
+            "Westminster Bridge",
+            "Tower Bridge",
+            "Waterloo Bridge",
+            "Chelsea Bridge"
+          ],
+          "réponse": "Tower Bridge",
+          "anecdote": "Au moment de sa construction, il était le plus grand pont basculant jamais construit."
+        },
+        {
+          "id": 6,
+          "question": "Quel pont routier à haubans enjambe l'estuaire de la Seine près de Honfleur ?",
+          "propositions": [
+            "Brotonne",
+            "Normandie",
+            "Tancarville",
+            "Rouen"
+          ],
+          "réponse": "Normandie",
+          "anecdote": "En 1994, la portée principale de l'ouvrage bat de plus de 250 m le précédent record du monde (1993)."
+        },
+        {
+          "id": 7,
+          "question": "Quel est, malgré son nom, le plus ancien pont de Paris ?",
+          "propositions": [
+            "Pont du Roi",
+            "Pont Marie",
+            "Pont du Diable",
+            "Pont Neuf"
+          ],
+          "réponse": "Pont Neuf",
+          "anecdote": "Toujours intact, le pont Neuf est classé monument historique depuis 1889."
+        },
+        {
+          "id": 8,
+          "question": "Selon Guillaume Apollinaire, sous quel pont coule la Seine ?",
+          "propositions": [
+            "Royal",
+            "Neuf",
+            "Marie",
+            "Mirabeau"
+          ],
+          "réponse": "Mirabeau",
+          "anecdote": "« Le pont Mirabeau » est un poème d'Apollinaire paru dans le recueil « Alcools »."
+        },
+        {
+          "id": 9,
+          "question": "Depuis 1959, quel pont suspendu de 1 410 mètres peut-on emprunter vers Le Havre ?",
+          "propositions": [
+            "Brotonne",
+            "Neuilly",
+            "Poissy",
+            "Tancarville"
+          ],
+          "réponse": "Tancarville",
+          "anecdote": "Jusqu'à l'ouverture du pont de Normandie, il a été le pont le plus proche de l'estuaire."
+        },
+        {
+          "id": 10,
+          "question": "Quel pont à haubans traverse la vallée du Tarn en France ?",
+          "propositions": [
+            "Viaduc de Garabit",
+            "Viaduc de Jaulny",
+            "Viaduc de Millau",
+            "Viaduc de Caroual"
+          ],
+          "réponse": "Viaduc de Millau",
+          "anecdote": "Portant l'autoroute A75, le e viaduc de Millau fait la jonction entre le Causse Rouge et le Causse du Larzac."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "Quel roi a inauguré le Pont Neuf, le plus ancien pont existant de Paris ?",
+          "propositions": [
+            "Henri IV",
+            "Charles X",
+            "Louis XIV",
+            "Jean II"
+          ],
+          "réponse": "Henri IV",
+          "anecdote": "Le Pont Neuf fait l'objet d'un classement au titre des monuments historiques depuis 1889."
+        },
+        {
+          "id": 12,
+          "question": "Quel pont à la structure en béton de 2 142 mètres de long relie Le Havre à Honfleur ?",
+          "propositions": [
+            "Viaduc de Gien",
+            "Viaduc de Millau",
+            "Pont de Normandie",
+            "Pont du Morbihan"
+          ],
+          "réponse": "Pont de Normandie",
+          "anecdote": "Conçu pour laisser le passage aux navires qui remontent la Seine, ce pont est à péage, sauf pour les piétons, cyclistes, motocyclistes."
+        },
+        {
+          "id": 13,
+          "question": "Dans quelle grande ville se trouve le pont de Queensboro ?",
+          "propositions": [
+            "New York",
+            "Melbourne",
+            "Miami",
+            "Londres"
+          ],
+          "réponse": "New York",
+          "anecdote": "À sa construction, le pont de Queensboro était le plus long pont cantilever des États-Unis."
+        },
+        {
+          "id": 14,
+          "question": "Quel pont de Montréal, enjambant le fleuve Saint-Laurent, a été inauguré en mai 1930 ?",
+          "propositions": [
+            "Champlain",
+            "Victoria",
+            "Mercier",
+            "Jacques-Cartier"
+          ],
+          "réponse": "Jacques-Cartier",
+          "anecdote": "Environ 35 millions de véhicules empruntent chaque année le pont Jacques-Cartier ouvert à la circulation le 14 mai 1930."
+        },
+        {
+          "id": 15,
+          "question": "Quelle est la hauteur du pont du Gard, cessé d'être utilisé au début du VIe siècle ?",
+          "propositions": [
+            "Environ 39 mètres",
+            "Environ 59 mètres",
+            "Environ 49 mètres",
+            "Environ 69 mètres"
+          ],
+          "réponse": "Environ 49 mètres",
+          "anecdote": "Le pont du Gard est un pont-aqueduc à trois niveaux qui assurait la continuité de l'aqueduc romain qui conduisait l'eau d'Uzès à Nîmes."
+        },
+        {
+          "id": 16,
+          "question": "Le pont de Westminster est un pont de fer constitué de combien d'arches ?",
+          "propositions": [
+            "Huit",
+            "Six",
+            "Neuf",
+            "Sept"
+          ],
+          "réponse": "Sept",
+          "anecdote": "Le pont actuel est le second sur cet emplacement et a remplacé un pont qui avait tendance à se balancer de façon alarmante."
+        },
+        {
+          "id": 17,
+          "question": "À quel pays la République de Singapour est-elle reliée par des ponts ?",
+          "propositions": [
+            "Chine",
+            "Indonésie",
+            "Thaïlande",
+            "Malaisie"
+          ],
+          "réponse": "Malaisie",
+          "anecdote": "Singapour est connue dans le monde entier et souvent montrée en exemple pour son extraordinaire réussite économique."
+        },
+        {
+          "id": 18,
+          "question": "À Venise, quel célèbre pont relie le palais des Doges aux prisons ?",
+          "propositions": [
+            "Le pont du Rialto",
+            "Le pont des Lagunes",
+            "Le pont des Soupirs",
+            "Le pont de la Liberté"
+          ],
+          "réponse": "Le pont des Soupirs",
+          "anecdote": "Le nom du pont suggère le soupir exprimé par les prisonniers conduits devant les juges."
+        },
+        {
+          "id": 19,
+          "question": "Dans quelle ville le pont Vasco da Gama a-t-il été construit ?",
+          "propositions": [
+            "Barcelone",
+            "Turin",
+            "Lisbonne",
+            "Madrid"
+          ],
+          "réponse": "Lisbonne",
+          "anecdote": "La longueur hors-tout de plus de 17 km du pont Vasco da Gama en fait le plus grand d'Europe."
+        },
+        {
+          "id": 20,
+          "question": "Combien compte-t-on de ponts à Amsterdam, capitale du royaume des Pays-Bas ?",
+          "propositions": [
+            "Environ 800",
+            "Environ 600",
+            "Environ 400",
+            "Environ 200"
+          ],
+          "réponse": "Environ 400",
+          "anecdote": "Amsterdam est la plus grande ville de la province de Hollande septentrionale et l'un des principaux centres financiers d'Europe."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "Quelle ville italienne abrite le pont du Rialto, l'un des monuments les plus visités de la cité ?",
+          "propositions": [
+            "Naples",
+            "Florence",
+            "Venise",
+            "Turin"
+          ],
+          "réponse": "Venise",
+          "anecdote": "Le pont du Rialto est le plus ancien et certainement le plus célèbre des quatre ponts qui traversent le Grand Canal de Venise."
+        },
+        {
+          "id": 22,
+          "question": "Quel est le plus haut pont suspendu du monde, d'une longueur totale de 3 911 mètres ?",
+          "propositions": [
+            "Rialto",
+            "Golden Gate",
+            "Akashi-Kaikyo",
+            "Grand Belt"
+          ],
+          "réponse": "Akashi-Kaikyo",
+          "anecdote": "Ce pont est le dernier élément d'un réseau qui relie les quatre îles principales du Japon : Honshu, Hokkaido, Kyushu et Shikoku."
+        },
+        {
+          "id": 23,
+          "question": "Quel fleuve est traversé par le Pont des « Filles de Jacob », construit sur un site stratégique ?",
+          "propositions": [
+            "Le Tibre",
+            "Le Nil",
+            "Le Jourdain",
+            "Le Gange"
+          ],
+          "réponse": "Le Jourdain",
+          "anecdote": "Le site du pont des Filles de Jacob était le dernier gué au sud de la vallée de la Houla avant le passage du Jourdain."
+        },
+        {
+          "id": 24,
+          "question": "Quel célèbre pont en arc métallique est situé dans la baie de Sydney ?",
+          "propositions": [
+            "Le Britannia Bridge",
+            "Le Mackinac Bridge",
+            "Le Harbour Bridge",
+            "Le Pulteney Bridge"
+          ],
+          "réponse": "Le Harbour Bridge",
+          "anecdote": "Le Harbour Bridge est le principal point de traversée de la baie de Sydney."
+        },
+        {
+          "id": 25,
+          "question": "Dans quelle ville se trouve le plus long pont-canal de France ?",
+          "propositions": [
+            "Arles",
+            "Avignon",
+            "Agen",
+            "Albi"
+          ],
+          "réponse": "Agen",
+          "anecdote": "Un pont-canal permet le passage de la navigation au-dessus d'une rivière, d'une route, d'une voie ferrée."
+        },
+        {
+          "id": 26,
+          "question": "Quel pont du réseau routier permet de relier la ville de Venise à la terre ferme ?",
+          "propositions": [
+            "Pont des Lagunes",
+            "Pont des Soupirs",
+            "Pont de la Liberté",
+            "Pont du Rialto"
+          ],
+          "réponse": "Pont de la Liberté",
+          "anecdote": "Le pont fut rebaptisé ainsi en l'honneur de la libération contre les nazis et les fascistes."
+        },
+        {
+          "id": 27,
+          "question": "Dans quel pays le pont de Tatara, long de 1 480 m, a-t-il été construit ?",
+          "propositions": [
+            "La Grèce",
+            "La Roumanie",
+            "Le Brésil",
+            "Le Japon"
+          ],
+          "réponse": "Le Japon",
+          "anecdote": "Le pont a détenu le record de portée pour les ponts à haubans de 1999 à 2008."
+        },
+        {
+          "id": 28,
+          "question": "Quelle est la longueur du pont maritime de Donghai, en Chine ?",
+          "propositions": [
+            "12 200 m",
+            "21 400 m",
+            "32 500 m",
+            "41 800 m"
+          ],
+          "réponse": "32 500 m",
+          "anecdote": "Le pont de Donghai ou Grand pont de la mer orientale était en 2005 le plus long pont maritime du monde."
+        },
+        {
+          "id": 29,
+          "question": "Dans quelle ville se trouve le pont Bac de Roda, premier pont conçu par Santiago Calatrava ?",
+          "propositions": [
+            "Lisbonne",
+            "Milan",
+            "Barcelone",
+            "Bilbao"
+          ],
+          "réponse": "Barcelone",
+          "anecdote": "Ce pont assure la liaison entre les districts de Sant Andreu et Sant Marti à Barcelone, dans la communauté autonome de Catalogne."
+        },
+        {
+          "id": 30,
+          "question": "Dans quelle ville peut-on contempler le pont Charles, incontournable pour les touristes ?",
+          "propositions": [
+            "Agra",
+            "Prague",
+            "Bombay",
+            "Berlin"
+          ],
+          "réponse": "Prague",
+          "anecdote": "Envahi de musiciens, d'artistes divers, de bonimenteurs et de camelots, son nom fait référence au roi Charles IV."
+        }
+      ]
+    },
+    "en": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Prague",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 2,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "Avignon",
+            "Venice",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 3,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Avignon",
+            "Prague",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 4,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Venice",
+            "Avignon",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 5,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Venice",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 6,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "London",
+            "Avignon",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 7,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "London",
+            "Prague",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 8,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Avignon",
+            "Prague",
+            "Venice",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 9,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Avignon",
+            "Prague",
+            "Venice",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 10,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Avignon",
+            "Venice",
+            "Prague",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Venice",
+            "Prague",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 12,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Avignon",
+            "Prague",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 13,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Avignon",
+            "London",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 14,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Prague",
+            "Venice",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 15,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Venice",
+            "Prague",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 16,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Avignon",
+            "London",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 17,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Prague",
+            "Avignon",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 18,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Prague",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 19,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "Avignon",
+            "Venice",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 20,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "Avignon",
+            "London",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Venice",
+            "Prague",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 22,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Venice",
+            "Avignon",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 23,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Prague",
+            "Venice",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 24,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "Venice",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 25,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Prague",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 26,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "Venice",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 27,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Prague",
+            "Avignon",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 28,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Avignon",
+            "Venice",
+            "Prague"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 29,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "London",
+            "Prague",
+            "Venice",
+            "Avignon"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        },
+        {
+          "id": 30,
+          "question": "In which city can you admire the very touristy Bridge of Sighs ?",
+          "propositions": [
+            "Prague",
+            "London",
+            "Avignon",
+            "Venice"
+          ],
+          "réponse": "Venice",
+          "anecdote": "The Bridge of Sighs, suggesting the sigh of the prisoners, is one of the most famous tourist spots in the city of Venice."
+        }
+      ]
+    },
+    "de": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Venedig",
+            "Prag",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 2,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "London",
+            "Prag",
+            "Venedig",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 3,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 4,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 5,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 6,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Venedig",
+            "Avignon",
+            "London",
+            "Prag"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 7,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "London",
+            "Avignon",
+            "Venedig",
+            "Prag"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 8,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Prag",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 9,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "Prag",
+            "London",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 10,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Avignon",
+            "London",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "London",
+            "Prag",
+            "Venedig",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 12,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 13,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "Prag",
+            "Venedig",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 14,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Avignon",
+            "Venedig",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 15,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 16,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Venedig",
+            "Prag"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 17,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Prag",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 18,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "Prag",
+            "London",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 19,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "Prag",
+            "London",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 20,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "London",
+            "Venedig",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Venedig",
+            "Prag",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 22,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "Avignon",
+            "London"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 23,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "London",
+            "Prag",
+            "Venedig",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 24,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "London",
+            "Venedig",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 25,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "London",
+            "Prag",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 26,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Avignon",
+            "Prag",
+            "London",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 27,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "London",
+            "Avignon",
+            "Venedig"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 28,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 29,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Prag",
+            "Venedig",
+            "London",
+            "Avignon"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        },
+        {
+          "id": 30,
+          "question": "In welcher Stadt können Sie die sehr touristische Seufzerbrücke bewundern ?",
+          "propositions": [
+            "Venedig",
+            "Avignon",
+            "London",
+            "Prag"
+          ],
+          "réponse": "Venedig",
+          "anecdote": "Die Seufzerbrücke, die den Seufzer der Gefangenen suggeriert, ist einer der berühmtesten Touristenorte in der Stadt Venedig."
+        }
+      ]
+    },
+    "es": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Venecia",
+            "Praga",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 2,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Venecia",
+            "Praga",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 3,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Praga",
+            "Aviñón",
+            "Londres",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 4,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Londres",
+            "Aviñón",
+            "Praga"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 5,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Praga",
+            "Aviñón",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 6,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Venecia",
+            "Praga",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 7,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Venecia",
+            "Praga",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 8,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Praga",
+            "Aviñón",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 9,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Londres",
+            "Praga",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 10,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Londres",
+            "Aviñón",
+            "Praga"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Londres",
+            "Praga",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 12,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Londres",
+            "Praga",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 13,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Venecia",
+            "Londres",
+            "Praga"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 14,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Praga",
+            "Londres",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 15,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Praga",
+            "Londres",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 16,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Praga",
+            "Venecia",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 17,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Venecia",
+            "Praga",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 18,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Londres",
+            "Praga",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 19,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Praga",
+            "Venecia",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 20,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Aviñón",
+            "Praga",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Aviñón",
+            "Venecia",
+            "Praga"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 22,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Praga",
+            "Aviñón",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 23,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Aviñón",
+            "Praga",
+            "Venecia",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 24,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Praga",
+            "Aviñón",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 25,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Praga",
+            "Londres",
+            "Aviñón",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 26,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Venecia",
+            "Aviñón",
+            "Praga"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 27,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Praga",
+            "Londres",
+            "Aviñón",
+            "Venecia"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 28,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Londres",
+            "Venecia",
+            "Praga",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 29,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Venecia",
+            "Praga",
+            "Aviñón",
+            "Londres"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        },
+        {
+          "id": 30,
+          "question": "¿En qué ciudad puedes admirar el muy turístico Puente de los Suspiros ?",
+          "propositions": [
+            "Praga",
+            "Venecia",
+            "Londres",
+            "Aviñón"
+          ],
+          "réponse": "Venecia",
+          "anecdote": "El Puente de los Suspiros, que sugiere el suspiro de los prisioneros, es uno de los lugares turísticos más famosos de la ciudad de Venecia."
+        }
+      ]
+    },
+    "it": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Avignone",
+            "Praga",
+            "Venezia"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 2,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Venezia",
+            "Praga",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 3,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Venezia",
+            "Praga",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 4,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Praga",
+            "Venezia",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 5,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Londra",
+            "Venezia",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 6,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Avignone",
+            "Praga",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 7,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Venezia",
+            "Praga",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 8,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Londra",
+            "Venezia",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 9,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Avignone",
+            "Venezia",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 10,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Praga",
+            "Londra",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Praga",
+            "Avignone",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 12,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Praga",
+            "Londra",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 13,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Avignone",
+            "Londra",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 14,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Avignone",
+            "Londra",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 15,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Avignone",
+            "Venezia",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 16,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Avignone",
+            "Venezia",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 17,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Londra",
+            "Avignone",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 18,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Londra",
+            "Venezia",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 19,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Avignone",
+            "Venezia",
+            "Praga",
+            "Londra"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 20,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Londra",
+            "Venezia",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Praga",
+            "Venezia",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 22,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Praga",
+            "Londra",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 23,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Avignone",
+            "Londra",
+            "Venezia"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 24,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Venezia",
+            "Londra",
+            "Avignone",
+            "Praga"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 25,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Venezia",
+            "Londra",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 26,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Venezia",
+            "Londra",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 27,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Avignone",
+            "Londra",
+            "Venezia"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 28,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Avignone",
+            "Praga",
+            "Venezia"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 29,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Londra",
+            "Avignone",
+            "Praga",
+            "Venezia"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        },
+        {
+          "id": 30,
+          "question": "In quale città puoi ammirare il ponte dei sospiri molto turistico ?",
+          "propositions": [
+            "Praga",
+            "Londra",
+            "Venezia",
+            "Avignone"
+          ],
+          "réponse": "Venezia",
+          "anecdote": "Il Ponte dei Sospiri, suggerendo il sospiro dei prigionieri, è uno dei luoghi turistici più famosi della città di Venezia."
+        }
+      ]
+    },
+    "nl": {
+      "débutant": [
+        {
+          "id": 1,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Praag",
+            "Avignon",
+            "Venetië"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 2,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 3,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 4,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Venetië",
+            "Avignon",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 5,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Londen",
+            "Praag",
+            "Avignon"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 6,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Venetië",
+            "Praag",
+            "Avignon"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 7,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Londen",
+            "Venetië",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 8,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Praag",
+            "Venetië",
+            "Avignon"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 9,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Londen",
+            "Venetië"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 10,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Venetië",
+            "Praag",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        }
+      ],
+      "confirmé": [
+        {
+          "id": 11,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 12,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Venetië",
+            "Avignon",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 13,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Londen",
+            "Venetië"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 14,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 15,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Venetië",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 16,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Venetië",
+            "Avignon",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 17,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Venetië",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 18,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Praag",
+            "Venetië",
+            "Londen",
+            "Avignon"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 19,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 20,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Venetië",
+            "Avignon",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        }
+      ],
+      "expert": [
+        {
+          "id": 21,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Venetië",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 22,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Venetië",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 23,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Venetië",
+            "Praag",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 24,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Praag",
+            "Avignon",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 25,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Londen",
+            "Venetië",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 26,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 27,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Praag",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 28,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Londen",
+            "Praag",
+            "Venetië",
+            "Avignon"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 29,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Avignon",
+            "Praag",
+            "Venetië",
+            "Londen"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        },
+        {
+          "id": 30,
+          "question": "In welke stad kun je de zeer toeristische Brug der Zuchten bewonderen ?",
+          "propositions": [
+            "Venetië",
+            "Avignon",
+            "Londen",
+            "Praag"
+          ],
+          "réponse": "Venetië",
+          "anecdote": "De Brug der Zuchten, die de zucht van de gevangenen suggereert, is een van de beroemdste toeristische plekken in de stad Venetië."
+        }
+      ]
+    }
+  }
+}
