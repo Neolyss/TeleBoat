@@ -29,7 +29,9 @@ public class UpdateTask extends TimerTask {
                 } else if (message.contains("joke")) {
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), UpdatesCall.getJoke());
                 } else if (message.contains("question")) {
-                    
+                    UpdatesCall.sendMessage(update.getMessage().getChatId().toString(),UpdatesCall.getQuestion());
+                } else if (message.contains("1") || message.contains("2") || message.contains("3") || message.contains("4") ) {
+                    UpdatesCall.sendMessage(update.getMessage().getChatId().toString(),UpdatesCall.getResponse(Integer.parseInt(message)));
                 } else {
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "This command is not existing");
                 }

@@ -48,4 +48,14 @@ public class UpdatesCall {
         RestTemplate restTemplate = new RestTemplate();
         return restTemplate.getForObject("http://localhost:9090/joke", String.class);
     }
+
+    public static String getQuestion() {
+        RestTemplate restTemplate = new RestTemplate();
+        return restTemplate.getForObject("http://localhost:9090/question", String.class);
+    }
+
+    public static String getResponse(int response) {
+        RestTemplate restTemplate = new RestTemplate();
+        return restTemplate.getForObject("http://localhost:9090/question/" + response, String.class);
+    }
 }
