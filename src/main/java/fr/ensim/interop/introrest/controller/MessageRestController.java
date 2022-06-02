@@ -5,6 +5,7 @@ import fr.ensim.interop.introrest.model.joke.JokeDAO;
 import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
+import fr.ensim.interop.introrest.model.question.Question;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
@@ -21,6 +22,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.net.URISyntaxException;
+import java.util.concurrent.ConcurrentHashMap;
 
 @RestController
 public class MessageRestController {
@@ -47,6 +49,9 @@ public class MessageRestController {
 
 	@Autowired
 	private NotesDAO notesDAO;
+
+	private static ConcurrentHashMap<Long, Joke> memoryJoke = new ConcurrentHashMap();
+	private static ConcurrentHashMap<Long, Question> memoryQuestion = new ConcurrentHashMap();
 
 
 	//Opérations sur la ressource Message
@@ -79,10 +84,9 @@ public class MessageRestController {
 	}
 
 	@PostMapping("/joke")
-	public String postNoteJoke (@RequestParam(name = "note") int noteGET) {
+	public String postNoteJoke (@RequestParam(name = "note") int notePOST) {
 		Joke joke = new Joke();
-		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note";
-
+		return JokeCall.addNote(notesDAO, joke, notePOST) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note";
 	}
 }
 
