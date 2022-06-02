@@ -28,10 +28,15 @@ public class Joke{
 
     public float getNote () {
         int somme = notes.un;
-        somme += notes.deux * 2;
-        somme += notes.trois * 3;
-        somme += notes.quatre * 4;
-        somme += notes.cinq * 5;
+        somme += notes.deux     * 2;
+        somme += notes.trois    * 3;
+        somme += notes.quatre   * 4;
+        somme += notes.cinq     * 5;
+        somme += notes.six      * 6;
+        somme += notes.sept     * 7;
+        somme += notes.huit     * 8;
+        somme += notes.neuf     * 9;
+        somme += notes.dix      * 10;
         return somme/(getNbNote() == 0 ? 1 : getNbNote());
     }
     public int getNbNote () {

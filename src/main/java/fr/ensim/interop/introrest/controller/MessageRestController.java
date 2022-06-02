@@ -49,6 +49,9 @@ public class MessageRestController {
 	@Autowired
 	private NotesDAO notesDAO;
 
+
+	private static Joke joke = null;
+
 	private static Question question = null;
 
 	//Opérations sur la ressource Message
@@ -74,17 +77,15 @@ public class MessageRestController {
 
 	@GetMapping("/joke")
 	public String getJoke() throws Exception {
-		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
+		joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
 		System.out.println(joke.joke);
 		System.out.println(joke.answer);
 		return joke.toString();
 	}
 
 	@PostMapping("/joke")
-	public String postNoteJoke (@RequestParam(name = "note") int notePOST) {
-		Joke joke = new Joke();
-		return JokeCall.addNote(notesDAO, joke, notePOST) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note";
-
+	public String postNoteJoke (@RequestParam(name = "note") int noteGET) {
+		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note" ;
 	}
 
 	@GetMapping("/question")
@@ -166,6 +167,21 @@ final class JokeCall {
 	public static boolean addNote (NotesDAO notesDAO, Joke joke, int note) {
 		boolean sucess = true;
 		switch (note) {
+			case 10 :
+				joke.notes.dix++;
+				break;
+			case 9 :
+				joke.notes.neuf++;
+				break;
+			case 8 :
+				joke.notes.huit++;
+				break;
+			case 7 :
+				joke.notes.sept++;
+				break;
+			case 6 :
+				joke.notes.six++;
+				break;
 			case 5 :
 				joke.notes.cinq++;
 				break;
