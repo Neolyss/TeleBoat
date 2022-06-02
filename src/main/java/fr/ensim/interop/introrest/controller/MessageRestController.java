@@ -71,11 +71,11 @@ public class MessageRestController {
 	}
 
 	@GetMapping("/joke")
-	public Joke getJoke() throws Exception {
+	public String getJoke() throws Exception {
 		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
 		System.out.println(joke.joke);
 		System.out.println(joke.answer);
-		return joke;
+		return joke.toString();
 	}
 
 	@PostMapping("/joke")
