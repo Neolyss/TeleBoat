@@ -5,6 +5,7 @@ import fr.ensim.interop.introrest.model.joke.JokeDAO;
 import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
+import fr.ensim.interop.introrest.model.question.Question;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
 import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
@@ -48,7 +49,10 @@ public class MessageRestController {
 	@Autowired
 	private NotesDAO notesDAO;
 
+
 	private static Joke joke = null;
+
+	private static Question question = null;
 
 	//Opérations sur la ressource Message
 	@PostMapping("/message")
@@ -83,7 +87,22 @@ public class MessageRestController {
 	public String postNoteJoke (@RequestParam(name = "note") int noteGET) {
 		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note" ;
 	}
+
+	@GetMapping("/question")
+	public String getQuestion () throws Exception {
+		question = new Question();
+		return question.toString();
+	}
+
+	@PostMapping("/question")
+	public String postQuestion (@RequestParam(name = "idAnswer") int idAnswerPOST) {
+		return (question.getPropositions().get(idAnswerPOST-1).equals(question.getAnswer()) ?
+				"Félicitation !!!! Vous avez trouvé la bonne réponce\n" :
+				"Oh nooonnn vous avez perdu !!! la bonne réponce est "+question.getAnswer()+"\n") +
+				question.getAnecdote();
+	}
 }
+
 
 final class OpenWeatherCall {
 
