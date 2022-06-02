@@ -28,5 +28,13 @@ public class MeteoObject {
     public void setDayOfWeek(String dayOfWeek) {
         this.dayOfWeek = dayOfWeek;
     }
+
+    @Override
+    public String toString() {
+        return "MeteoObject{" +
+                "cityName='" + cityName + '\'' +
+                ", dayOfWeek='" + dayOfWeek + '\'' +
+                '}';
+    }
 }
 

@@ -30,4 +30,13 @@ public class Weather {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    @Override
+    public String toString() {
+        return "Weather{" +
+                "id=" + id +
+                ", main='" + main + '\'' +
+                ", description='" + description + '\'' +
+                '}';
+    }
 }

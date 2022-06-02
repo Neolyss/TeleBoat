@@ -54,6 +54,17 @@ public class OpenWeatherForcast implements OpenWeather {
     public void setDaily(ArrayList<Daily> daily) {
         this.daily = daily;
     }
+
+    @Override
+    public String toString() {
+        return "OpenWeatherForcast{" +
+                "lat=" + lat +
+                ", lon=" + lon +
+                ", timezone='" + timezone + '\'' +
+                ", timezone_offset=" + timezone_offset +
+                ", daily=" + daily +
+                '}';
+    }
 }
 
 class Daily{
@@ -76,6 +87,31 @@ class Daily{
     public double pop;
     public double uvi;
     public double rain;
+
+    @Override
+    public String toString() {
+        return "Daily{" +
+                "dt=" + dt +
+                ", sunrise=" + sunrise +
+                ", sunset=" + sunset +
+                ", moonrise=" + moonrise +
+                ", moonset=" + moonset +
+                ", moon_phase=" + moon_phase +
+                ", temp=" + temp +
+                ", feels_like=" + feels_like +
+                ", pressure=" + pressure +
+                ", humidity=" + humidity +
+                ", dew_point=" + dew_point +
+                ", wind_speed=" + wind_speed +
+                ", wind_deg=" + wind_deg +
+                ", wind_gust=" + wind_gust +
+                ", weather=" + weather +
+                ", clouds=" + clouds +
+                ", pop=" + pop +
+                ", uvi=" + uvi +
+                ", rain=" + rain +
+                '}';
+    }
 }
 
 class FeelsLike{
@@ -83,6 +119,16 @@ class FeelsLike{
     public double night;
     public double eve;
     public double morn;
+
+    @Override
+    public String toString() {
+        return "FeelsLike{" +
+                "day=" + day +
+                ", night=" + night +
+                ", eve=" + eve +
+                ", morn=" + morn +
+                '}';
+    }
 }
 
 class Temp{
@@ -92,6 +138,18 @@ class Temp{
     public double night;
     public double eve;
     public double morn;
+
+    @Override
+    public String toString() {
+        return "Temp{" +
+                "day=" + day +
+                ", min=" + min +
+                ", max=" + max +
+                ", night=" + night +
+                ", eve=" + eve +
+                ", morn=" + morn +
+                '}';
+    }
 }
 
 //public class Weather{
