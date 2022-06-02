@@ -37,5 +37,11 @@ public class Joke{
     public int getNbNote () {
         return notes.zero + notes.un + notes.deux + notes.trois + notes.quatre + notes.cinq;
     }
+
+    @Override
+    public String toString() {
+        return "Vous m'avez demandez une blague ??? En voulà une p'tite\n"+ joke +"\n→ "+ answer+"\n\n Note : "+getNote();
+    }
+
 }
 
