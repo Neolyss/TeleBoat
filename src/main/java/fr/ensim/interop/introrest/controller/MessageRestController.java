@@ -5,8 +5,6 @@ import fr.ensim.interop.introrest.model.joke.JokeDAO;
 import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
-import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
-import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
 import fr.ensim.interop.introrest.model.joke.Joke;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -123,7 +121,7 @@ final class OpenWeatherCall {
 					+ "&lon=" + city.getLon() + "&&exclude=current,minutely,hourly&appid=" + openWeatherToken;
 			URI uriWeek = new URI(urlWeek);
 			System.out.println(uriWeek);
-			openWeather = restTemplate.getForObject(uriWeek, OpenWeatherForcast.class);
+			openWeather = restTemplate.getForObject(uriWeek, OpenWeatherForecast.class);
 		}
 		else throw new Exception("TimeOfWeek non reconu");
 

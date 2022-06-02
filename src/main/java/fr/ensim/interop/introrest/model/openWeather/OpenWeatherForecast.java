@@ -1,9 +1,15 @@
 package fr.ensim.interop.introrest.model.openWeather;
 
+import java.security.Timestamp;
+import java.text.Format;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.TimeZone;
 
 
-public class OpenWeatherForcast implements OpenWeather {
+public class OpenWeatherForecast implements OpenWeather {
     private float lat;
     private float lon;
     private String timezone;
@@ -57,18 +63,18 @@ public class OpenWeatherForcast implements OpenWeather {
 
     @Override
     public String toString() {
-        return "OpenWeatherForcast{" +
-                "lat=" + lat +
-                ", lon=" + lon +
-                ", timezone='" + timezone + '\'' +
-                ", timezone_offset=" + timezone_offset +
-                ", daily=" + daily +
-                '}';
+        StringBuilder builder = new StringBuilder("The weather for 7 days is : ");
+        builder.append("\n");
+        for(Daily oneDaily : daily) {
+            builder.append("-\t").append(oneDaily);
+            builder.append("\n");
+        }
+        return builder.toString();
     }
 }
 
 class Daily{
-    public int dt;
+    public long dt;
     public int sunrise;
     public int sunset;
     public int moonrise;
@@ -90,27 +96,14 @@ class Daily{
 
     @Override
     public String toString() {
-        return "Daily{" +
-                "dt=" + dt +
-                ", sunrise=" + sunrise +
-                ", sunset=" + sunset +
-                ", moonrise=" + moonrise +
-                ", moonset=" + moonset +
-                ", moon_phase=" + moon_phase +
-                ", temp=" + temp +
-                ", feels_like=" + feels_like +
-                ", pressure=" + pressure +
-                ", humidity=" + humidity +
-                ", dew_point=" + dew_point +
-                ", wind_speed=" + wind_speed +
-                ", wind_deg=" + wind_deg +
-                ", wind_gust=" + wind_gust +
-                ", weather=" + weather +
-                ", clouds=" + clouds +
-                ", pop=" + pop +
-                ", uvi=" + uvi +
-                ", rain=" + rain +
-                '}';
+        long timestampLong = dt*1000;
+        Calendar cal = Calendar.getInstance();
+        cal.setTimeZone(TimeZone.getTimeZone("Europe/Paris"));
+        System.out.println(dt);
+        cal.setTimeInMillis(timestampLong);
+        SimpleDateFormat dateFormat = new SimpleDateFormat("EEEEE");
+        String dayOfWeek = dateFormat.format(cal.getTime());
+        return "Forecast of " + dayOfWeek + temp.toString();
     }
 }
 
@@ -139,23 +132,15 @@ class Temp{
     public double eve;
     public double morn;
 
+    public int convertToCelsius(double kelvin) {
+        return (int) Math.round(kelvin - 273.15);
+    }
+
     @Override
     public String toString() {
-        return "Temp{" +
-                "day=" + day +
-                ", min=" + min +
-                ", max=" + max +
-                ", night=" + night +
-                ", eve=" + eve +
-                ", morn=" + morn +
-                '}';
+            return " temp. " + convertToCelsius(day) + " | " +
+                " min temp." + convertToCelsius(min) + " | " +
+                " max temp." + convertToCelsius(max) + " | " +
+                " night temp." + convertToCelsius(night);
     }
 }
-
-//public class Weather{
-//    public int id;
-//    public String main;
-//    public String description;
-//    public String icon;
-//}
-

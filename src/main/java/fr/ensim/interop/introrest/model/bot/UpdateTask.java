@@ -25,7 +25,13 @@ public class UpdateTask extends TimerTask {
                 String message = update.getMessage().getText();
                 System.out.println("message : " + message);
                 if(message.contains("meteo")) {
-                    String messageProcessed= message.replace("meteo ", "");
+
+                    String messageProcessed = "";
+                    if(message.equals("meteo")) { // if there is only meteo
+                        messageProcessed = message.replace("meteo", "");
+                    } else {
+                        messageProcessed = message.replace("meteo ", "");
+                    }
                     System.out.println("messageProcessed=" + messageProcessed);
                     String[] messageSplit = messageProcessed.split(" ");
                     //Arrays.stream(messageSplit).forEach(System.out::println);
@@ -48,21 +54,25 @@ public class UpdateTask extends TimerTask {
                         } else {
                             param = maybeParam;
                         }
-                    } else {
-                        UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "Pas assez de paramètres");
                     }
                     if(param.equals("")) {
                         param = "TODAY";
                     } else {
                         param = param.toUpperCase(Locale.ROOT);
                     }
-                    MeteoObject meteoObject = new MeteoObject(city, param);
-                    System.out.println(meteoObject);
-                    String meteo = UpdatesCall.getMeteo(meteoObject);
-                    UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), meteo);
+                    if(city.equals("")) {
+                        UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "Not enough params");
+                    } else {
+                        MeteoObject meteoObject = new MeteoObject(city, param);
+                        System.out.println(meteoObject);
+                        String meteo = UpdatesCall.getMeteo(meteoObject);
+                        UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), meteo);
+                    }
                 }
                 else if (message.contains("joke")) {
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), UpdatesCall.getJoke());
+                } else {
+                    UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "This command is not existing");
                 }
                 offset++;
             }
