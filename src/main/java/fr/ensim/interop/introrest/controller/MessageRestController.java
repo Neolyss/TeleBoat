@@ -94,8 +94,8 @@ public class MessageRestController {
 		return question.toString();
 	}
 
-	@PostMapping("/question")
-	public String postQuestion (@RequestParam(name = "idAnswer") int idAnswerPOST) {
+	@GetMapping("/question/{idAnswer}")
+	public String postAnswerQuestion (@PathVariable(name = "idAnswer") int idAnswerPOST) {
 		return (question.getPropositions().get(idAnswerPOST-1).equals(question.getAnswer()) ?
 				"Félicitation !!!! Vous avez trouvé la bonne réponce\n" :
 				"Oh nooonnn vous avez perdu !!! la bonne réponce est "+question.getAnswer()+"\n") +
