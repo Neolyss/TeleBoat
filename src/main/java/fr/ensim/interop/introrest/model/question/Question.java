@@ -138,7 +138,7 @@ public class Question {
     @Override
     public String toString() {
         return "Voici une p'tite question ;)\n Q : "+question+"\n\n" +
-                "Reponses possible\n(1)"+propositions.get(0)+"\t(2)"+propositions.get(1)+"\n(3)"+propositions.get(2)+"\t(3)"+propositions.get(3)+"\n\n" +
+                "Reponses possible\n(1)"+propositions.get(0)+"\t(2)"+propositions.get(1)+"\n(3)"+propositions.get(2)+"\t(4)"+propositions.get(3)+"\n\n" +
                 "Quel est votre reponce (1, 2, 3 ou 4) ?";
     }
 
