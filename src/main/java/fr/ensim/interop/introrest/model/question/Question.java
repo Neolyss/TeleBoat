@@ -138,8 +138,8 @@ public class Question {
     @Override
     public String toString() {
         return "Voici une p'tite question ;)\n Q : "+question+"\n\n" +
-                "Reponses possible\n1 →"+propositions.get(0)+"\n2 →"+propositions.get(1)+"\n3 → "+propositions.get(2)+"\n4 → "+propositions.get(3)+"\n\n" +
-                "Quel est votre reponce (1, 2, 3 ou 4) ?";
+                "Reponses possible\n1 → "+ propositions.get(0)+"\n2 → "+ propositions.get(1)+"\n3 → "+ propositions.get(2)+"\n4 → "+ propositions.get(3)+"\n\n" +
+                "Quel est votre réponse (1, 2, 3 ou 4) ?";
     }
 
     /**
