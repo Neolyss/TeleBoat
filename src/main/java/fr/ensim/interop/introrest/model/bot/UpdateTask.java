@@ -25,52 +25,11 @@ public class UpdateTask extends TimerTask {
                 String message = update.getMessage().getText();
                 System.out.println("message : " + message);
                 if(message.contains("meteo")) {
-
-                    String messageProcessed = "";
-                    if(message.equals("meteo")) { // if there is only meteo
-                        messageProcessed = message.replace("meteo", "");
-                    } else {
-                        messageProcessed = message.replace("meteo ", "");
-                    }
-                    System.out.println("messageProcessed=" + messageProcessed);
-                    String[] messageSplit = messageProcessed.split(" ");
-                    //Arrays.stream(messageSplit).forEach(System.out::println);
-                    String city = "";
-                    String param = "";
-                    System.out.println("Lenght = " + messageSplit.length);
-                    if(messageSplit.length == 1) {
-                        city = messageSplit[0];
-                        param = "today";
-                    } else if(messageSplit.length >= 2) {
-                        for(int i=0; i<=messageSplit.length-2; i++) {
-                            System.out.println("i=" +  messageSplit[i]);
-                            city = city.concat(messageSplit[i] + " ");
-                        }
-                        String maybeParam = messageSplit[messageSplit.length-1];
-                        System.out.println("mb=" + maybeParam);
-                        if(!maybeParam.equalsIgnoreCase("today") && !maybeParam.equalsIgnoreCase("week")) {
-                            param = "";
-                            city = city.concat(maybeParam + " ");
-                        } else {
-                            param = maybeParam;
-                        }
-                    }
-                    if(param.equals("")) {
-                        param = "TODAY";
-                    } else {
-                        param = param.toUpperCase(Locale.ROOT);
-                    }
-                    if(city.equals("")) {
-                        UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "Not enough params");
-                    } else {
-                        MeteoObject meteoObject = new MeteoObject(city, param);
-                        System.out.println(meteoObject);
-                        String meteo = UpdatesCall.getMeteo(meteoObject);
-                        UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), meteo);
-                    }
-                }
-                else if (message.contains("joke")) {
+                    handleWeather(update, message);
+                } else if (message.contains("joke")) {
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), UpdatesCall.getJoke());
+                } else if (message.contains("question")) {
+                    
                 } else {
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "This command is not existing");
                 }
@@ -78,6 +37,51 @@ public class UpdateTask extends TimerTask {
             }
         }
         System.out.println(offset);
+    }
+
+    private void handleWeather(Update update, String message) {
+        String messageProcessed = "";
+        if(message.equals("meteo")) { // if there is only meteo
+            messageProcessed = message.replace("meteo", "");
+        } else {
+            messageProcessed = message.replace("meteo ", "");
+        }
+        System.out.println("messageProcessed=" + messageProcessed);
+        String[] messageSplit = messageProcessed.split(" ");
+        //Arrays.stream(messageSplit).forEach(System.out::println);
+        String city = "";
+        String param = "";
+        System.out.println("Lenght = " + messageSplit.length);
+        if(messageSplit.length == 1) {
+            city = messageSplit[0];
+            param = "today";
+        } else if(messageSplit.length >= 2) {
+            for(int i=0; i<=messageSplit.length-2; i++) {
+                System.out.println("i=" +  messageSplit[i]);
+                city = city.concat(messageSplit[i] + " ");
+            }
+            String maybeParam = messageSplit[messageSplit.length-1];
+            System.out.println("mb=" + maybeParam);
+            if(!maybeParam.equalsIgnoreCase("today") && !maybeParam.equalsIgnoreCase("week")) {
+                param = "";
+                city = city.concat(maybeParam + " ");
+            } else {
+                param = maybeParam;
+            }
+        }
+        if(param.equals("")) {
+            param = "TODAY";
+        } else {
+            param = param.toUpperCase(Locale.ROOT);
+        }
+        if(city.equals("")) {
+            UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), "Not enough params");
+        } else {
+            MeteoObject meteoObject = new MeteoObject(city, param);
+            System.out.println(meteoObject);
+            String meteo = UpdatesCall.getMeteo(meteoObject);
+            UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), meteo);
+        }
     }
 
 }
