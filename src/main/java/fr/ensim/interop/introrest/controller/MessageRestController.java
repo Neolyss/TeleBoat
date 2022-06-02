@@ -5,6 +5,9 @@ import fr.ensim.interop.introrest.model.joke.JokeDAO;
 import fr.ensim.interop.introrest.model.joke.NotesDAO;
 import fr.ensim.interop.introrest.model.openWeather.*;
 import fr.ensim.interop.introrest.model.bot.MessageObject;
+import fr.ensim.interop.introrest.model.question.Question;
+import fr.ensim.interop.introrest.model.telegram.ApiResponseTelegram;
+import fr.ensim.interop.introrest.model.telegram.ApiResponseUpdateTelegram;
 import fr.ensim.interop.introrest.model.telegram.Message;
 import fr.ensim.interop.introrest.model.joke.Joke;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -47,6 +50,10 @@ public class MessageRestController {
 	private NotesDAO notesDAO;
 
 
+	private static Joke joke = null;
+
+	private static Question question = null;
+
 	//Opérations sur la ressource Message
 	@PostMapping("/message")
 	public Message sendMessage(@RequestBody MessageObject messageObject) throws URISyntaxException {
@@ -70,7 +77,7 @@ public class MessageRestController {
 
 	@GetMapping("/joke")
 	public String getJoke() throws Exception {
-		Joke joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
+		joke = JokeCall.getJoke(jokeDAO, notesDAO, blaguesApiUrl, blaguesApiToken);
 		System.out.println(joke.joke);
 		System.out.println(joke.answer);
 		return joke.toString();
@@ -78,11 +85,24 @@ public class MessageRestController {
 
 	@PostMapping("/joke")
 	public String postNoteJoke (@RequestParam(name = "note") int noteGET) {
-		Joke joke = new Joke();
-		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note";
+		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note" ;
+	}
 
+	@GetMapping("/question")
+	public String getQuestion () throws Exception {
+		question = new Question();
+		return question.toString();
+	}
+
+	@PostMapping("/question")
+	public String postQuestion (@RequestParam(name = "idAnswer") int idAnswerPOST) {
+		return (question.getPropositions().get(idAnswerPOST-1).equals(question.getAnswer()) ?
+				"Félicitation !!!! Vous avez trouvé la bonne réponce\n" :
+				"Oh nooonnn vous avez perdu !!! la bonne réponce est "+question.getAnswer()+"\n") +
+				question.getAnecdote();
 	}
 }
+
 
 final class OpenWeatherCall {
 
@@ -147,6 +167,21 @@ final class JokeCall {
 	public static boolean addNote (NotesDAO notesDAO, Joke joke, int note) {
 		boolean sucess = true;
 		switch (note) {
+			case 10 :
+				joke.notes.dix++;
+				break;
+			case 9 :
+				joke.notes.neuf++;
+				break;
+			case 8 :
+				joke.notes.huit++;
+				break;
+			case 7 :
+				joke.notes.sept++;
+				break;
+			case 6 :
+				joke.notes.six++;
+				break;
 			case 5 :
 				joke.notes.cinq++;
 				break;

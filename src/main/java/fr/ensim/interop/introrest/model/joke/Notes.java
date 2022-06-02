@@ -15,5 +15,10 @@ public class Notes {
     public int trois = 0;
     public int quatre = 0;
     public int cinq = 0;
+    public int six = 0;
+    public int sept = 0;
+    public int huit = 0;
+    public int neuf = 0;
+    public int dix = 0;
 }
 
