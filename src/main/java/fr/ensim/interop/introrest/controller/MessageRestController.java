@@ -141,7 +141,7 @@ final class OpenWeatherCall {
 					+ "&lon=" + city.getLon() + "&&exclude=current,minutely,hourly&appid=" + openWeatherToken;
 			URI uriWeek = new URI(urlWeek);
 			System.out.println(uriWeek);
-			openWeather = restTemplate.getForObject(uriWeek, OpenWeatherForcast.class);
+			openWeather = restTemplate.getForObject(uriWeek, OpenWeatherForecast.class);
 		}
 		else throw new Exception("TimeOfWeek non reconu");
 
