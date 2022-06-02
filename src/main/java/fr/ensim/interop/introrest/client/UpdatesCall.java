@@ -43,9 +43,4 @@ public class UpdatesCall {
         RestTemplate restTemplate = new RestTemplate();
         return restTemplate.postForObject("http://localhost:9090/meteo", meteoObject, String.class);
     }
-
-    public static String getJoke() {
-        RestTemplate restTemplate = new RestTemplate();
-        return restTemplate.getForObject("http://localhost:9090/joke", String.class);
-    }
 }

@@ -61,9 +61,6 @@ public class UpdateTask extends TimerTask {
                     String meteo = UpdatesCall.getMeteo(meteoObject);
                     UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), meteo);
                 }
-                else if (message.contains("joke")) {
-                    UpdatesCall.sendMessage(update.getMessage().getChatId().toString(), UpdatesCall.getJoke());
-                }
                 offset++;
             }
         }
