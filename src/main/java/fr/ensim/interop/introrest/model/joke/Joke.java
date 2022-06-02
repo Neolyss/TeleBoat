@@ -32,7 +32,7 @@ public class Joke{
         somme += notes.trois * 3;
         somme += notes.quatre * 4;
         somme += notes.cinq * 5;
-        return somme/getNbNote();
+        return somme/(getNbNote() == 0 ? 1 : getNbNote());
     }
     public int getNbNote () {
         return notes.zero + notes.un + notes.deux + notes.trois + notes.quatre + notes.cinq;

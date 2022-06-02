@@ -79,9 +79,10 @@ public class MessageRestController {
 	}
 
 	@PostMapping("/joke")
-	public void postNoteJoke (@RequestParam(name = "note") int noteGET) {
+	public String postNoteJoke (@RequestParam(name = "note") int noteGET) {
 		Joke joke = new Joke();
-		JokeCall.addNote(notesDAO, joke, noteGET);
+		return JokeCall.addNote(notesDAO, joke, noteGET) ? "Votre note a été ajouté" : "J'ai pas pu ajouté votre note";
+
 	}
 }
 
